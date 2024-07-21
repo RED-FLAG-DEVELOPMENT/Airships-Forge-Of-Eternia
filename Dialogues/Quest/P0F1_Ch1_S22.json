@@ -1,0 +1,4069 @@
+[
+    {
+        "Key": "Dialogue",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_1",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "4",
+                                    "InitValue": "4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "5",
+                                    "InitValue": "5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_1",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "6",
+                                    "InitValue": "6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_1",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "7",
+                                    "InitValue": "7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "8",
+                                    "InitValue": "8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "9",
+                                    "InitValue": "9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_2",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "10",
+                                    "InitValue": "10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_2",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "11",
+                                    "InitValue": "11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_3",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "12",
+                                    "InitValue": "12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_4",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "13",
+                                    "InitValue": "13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "14",
+                                    "InitValue": "14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "15",
+                                    "InitValue": "15",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_2",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "16",
+                                    "InitValue": "16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "17",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "17",
+                                    "InitValue": "17",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "18",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "18",
+                                    "InitValue": "18",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_3",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "19",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "19",
+                                    "InitValue": "19",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "20",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "20",
+                                    "InitValue": "20",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "21",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "21",
+                                    "InitValue": "21",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_3",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "22",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "22",
+                                    "InitValue": "22",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_5",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "23",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "23",
+                                    "InitValue": "23",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "24",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "24",
+                                    "InitValue": "24",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "25",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "25",
+                                    "InitValue": "25",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_4",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "26",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "26",
+                                    "InitValue": "26",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_6",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "27",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "27",
+                                    "InitValue": "27",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "28",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "28",
+                                    "InitValue": "28",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "29",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "29",
+                                    "InitValue": "29",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_4",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "30",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "30",
+                                    "InitValue": "30",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_5",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "31",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "31",
+                                    "InitValue": "31",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_7",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "32",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "32",
+                                    "InitValue": "32",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "33",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "33",
+                                    "InitValue": "33",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "34",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "34",
+                                    "InitValue": "34",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_5",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "35",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "35",
+                                    "InitValue": "35",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_6",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "36",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "36",
+                                    "InitValue": "36",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_7",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "37",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "37",
+                                    "InitValue": "37",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_8",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "38",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "38",
+                                    "InitValue": "38",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_8",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "39",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "39",
+                                    "InitValue": "39",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "40",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "40",
+                                    "InitValue": "40",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "41",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "41",
+                                    "InitValue": "41",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_6",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "42",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "42",
+                                    "InitValue": "42",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_7",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "43",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "43",
+                                    "InitValue": "43",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_9",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "44",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "44",
+                                    "InitValue": "44",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "45",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "45",
+                                    "InitValue": "45",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "46",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "46",
+                                    "InitValue": "46",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_9",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "47",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "47",
+                                    "InitValue": "47",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "48",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "48",
+                                    "InitValue": "48",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "49",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "49",
+                                    "InitValue": "49",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_8",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "50",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "50",
+                                    "InitValue": "50",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "51",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "51",
+                                    "InitValue": "51",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "52",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "52",
+                                    "InitValue": "52",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_10",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "53",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "53",
+                                    "InitValue": "53",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_10",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "54",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "54",
+                                    "InitValue": "54",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_11",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "55",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "55",
+                                    "InitValue": "55",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_11",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "56",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "56",
+                                    "InitValue": "56",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "57",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "57",
+                                    "InitValue": "57",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "58",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "58",
+                                    "InitValue": "58",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_9",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "59",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "59",
+                                    "InitValue": "59",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_12",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "60",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "60",
+                                    "InitValue": "60",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "61",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "61",
+                                    "InitValue": "61",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "62",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "62",
+                                    "InitValue": "62",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_12",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "63",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "63",
+                                    "InitValue": "63",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_13",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "64",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "64",
+                                    "InitValue": "64",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_13",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "65",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "65",
+                                    "InitValue": "65",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_14",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "66",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "66",
+                                    "InitValue": "66",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "67",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "67",
+                                    "InitValue": "67",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "68",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "68",
+                                    "InitValue": "68",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "oliverh_P0F1_Ch1_S22_10",
+                                    "InitValue": "oliverh_P0F1_Ch1_S22_10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "69",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "69",
+                                    "InitValue": "69",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{62}",
+                                    "InitValue": "OfficerID{62}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "70",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "70",
+                                    "InitValue": "70",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "71",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "71",
+                                    "InitValue": "71",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_15",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_15",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "72",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "72",
+                                    "InitValue": "72",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_15_1",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_15_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "73",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "73",
+                                    "InitValue": "73",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_15_2",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_15_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "74",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "74",
+                                    "InitValue": "74",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "agathas_P0F1_Ch1_S22_16",
+                                    "InitValue": "agathas_P0F1_Ch1_S22_16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "75",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "75",
+                                    "InitValue": "75",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "76",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "76",
+                                    "InitValue": "76",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{50}",
+                                    "InitValue": "OfficerID{50}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "77",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "77",
+                                    "InitValue": "77",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "78",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "78",
+                                    "InitValue": "78",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_14",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "79",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "79",
+                                    "InitValue": "79",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_15",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_15",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "80",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "80",
+                                    "InitValue": "80",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "81",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "81",
+                                    "InitValue": "81",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_1",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "82",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "82",
+                                    "InitValue": "82",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_16",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "83",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "83",
+                                    "InitValue": "83",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_2",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "84",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "84",
+                                    "InitValue": "84",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_3",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "85",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "85",
+                                    "InitValue": "85",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "86",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "86",
+                                    "InitValue": "86",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "87",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "87",
+                                    "InitValue": "87",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "minervam_P0F1_Ch1_S22_1",
+                                    "InitValue": "minervam_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "88",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "88",
+                                    "InitValue": "88",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "89",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "89",
+                                    "InitValue": "89",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "90",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "90",
+                                    "InitValue": "90",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_4",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "91",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "91",
+                                    "InitValue": "91",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_5",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "92",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "92",
+                                    "InitValue": "92",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{61}",
+                                    "InitValue": "OfficerID{61}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "93",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "93",
+                                    "InitValue": "93",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "94",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "94",
+                                    "InitValue": "94",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "minervam_P0F1_Ch1_S22_2",
+                                    "InitValue": "minervam_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "95",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "95",
+                                    "InitValue": "95",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_17",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_17",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "96",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "96",
+                                    "InitValue": "96",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "minervam_P0F1_Ch1_S22_3",
+                                    "InitValue": "minervam_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "97",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "97",
+                                    "InitValue": "97",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "minervam_P0F1_Ch1_S22_4",
+                                    "InitValue": "minervam_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "98",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "98",
+                                    "InitValue": "98",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P0F1_Ch1_S22_18",
+                                    "InitValue": "jeand_P0F1_Ch1_S22_18",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "99",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "99",
+                                    "InitValue": "99",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "minervam_P0F1_Ch1_S22_5",
+                                    "InitValue": "minervam_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "100",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "100",
+                                    "InitValue": "100",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "OfficerID{1}",
+                                    "InitValue": "OfficerID{1}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Right",
+                                    "InitValue": "Right",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "101",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "101",
+                                    "InitValue": "101",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "102",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "102",
+                                    "InitValue": "102",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "OfficerAdd",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "103",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "103",
+                                    "InitValue": "103",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "ItemAdd",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "Flag_RDencounter_15_17",
+                                    "InitValue": "Flag_RDencounter_15_17",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "104",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "104",
+                                    "InitValue": "104",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "ItemAdd",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "Flag_Ch1_end",
+                                    "InitValue": "Flag_Ch1_end",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "105",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "105",
+                                    "InitValue": "105",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "ItemAdd",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "flag_achievement_22",
+                                    "InitValue": "flag_achievement_22",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "vsCh7RebelLeader_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_1",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_2",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_3",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_4",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_5",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_start_6",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_1",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_2",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_3",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_4",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_5",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7RebelLeader_defeated_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh7RebelLeader_defeated_6",
+                                    "InitValue": "genericoutlaw_vsCh7RebelLeader_defeated_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh1TollCollector_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh1TollCollector_start_1",
+                                    "InitValue": "genericoutlaw_vsCh1TollCollector_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh1TollCollector_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericoutlaw_vsCh1TollCollector_start_2",
+                                    "InitValue": "genericoutlaw_vsCh1TollCollector_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

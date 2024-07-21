@@ -1,0 +1,3597 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "greeting1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_greeting1",
+                                    "InitValue": "olivierc_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_greeting2",
+                                    "InitValue": "olivierc_greeting2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_greeting3",
+                                    "InitValue": "olivierc_greeting3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_greeting4",
+                                    "InitValue": "olivierc_greeting4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_greeting5",
+                                    "InitValue": "olivierc_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_goodbye1",
+                                    "InitValue": "olivierc_goodbye1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_goodbye2",
+                                    "InitValue": "olivierc_goodbye2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_goodbye3",
+                                    "InitValue": "olivierc_goodbye3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_goodbye4",
+                                    "InitValue": "olivierc_goodbye4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_goodbye5",
+                                    "InitValue": "olivierc_goodbye5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "selfretreat1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_selfretreat1",
+                                    "InitValue": "olivierc_selfretreat1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "selfretreat2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_selfretreat2",
+                                    "InitValue": "olivierc_selfretreat2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "selfretreat3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_selfretreat3",
+                                    "InitValue": "olivierc_selfretreat3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "selfretreat4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_selfretreat4",
+                                    "InitValue": "olivierc_selfretreat4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "enemyretreat1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_enemyretreat1",
+                                    "InitValue": "olivierc_enemyretreat1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "enemyretreat2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_enemyretreat2",
+                                    "InitValue": "olivierc_enemyretreat2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "enemyretreat3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_enemyretreat3",
+                                    "InitValue": "olivierc_enemyretreat3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "spotencounter1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_spotencounter1",
+                                    "InitValue": "olivierc_spotencounter1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "spotencounter2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_spotencounter2",
+                                    "InitValue": "olivierc_spotencounter2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "spotencounter3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_spotencounter3",
+                                    "InitValue": "olivierc_spotencounter3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hostileidentified1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hostileidentified1",
+                                    "InitValue": "olivierc_hostileidentified1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hostileidentified2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hostileidentified2",
+                                    "InitValue": "olivierc_hostileidentified2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hostileidentified3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hostileidentified3",
+                                    "InitValue": "olivierc_hostileidentified3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "neutralidentified1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_neutralidentified1",
+                                    "InitValue": "olivierc_neutralidentified1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "neutralidentified2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_neutralidentified2",
+                                    "InitValue": "olivierc_neutralidentified2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "neutralidentified3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_neutralidentified3",
+                                    "InitValue": "olivierc_neutralidentified3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "ready1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_ready1",
+                                    "InitValue": "olivierc_ready1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "ready2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_ready2",
+                                    "InitValue": "olivierc_ready2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "ready3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_ready3",
+                                    "InitValue": "olivierc_ready3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "tradestarted1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_tradestarted1",
+                                    "InitValue": "olivierc_tradestarted1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "tradestarted2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_tradestarted2",
+                                    "InitValue": "olivierc_tradestarted2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "tradestarted3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_tradestarted3",
+                                    "InitValue": "olivierc_tradestarted3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailhostile1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailhostile1",
+                                    "InitValue": "olivierc_hailhostile1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailhostile2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailhostile2",
+                                    "InitValue": "olivierc_hailhostile2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailhostile3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailhostile3",
+                                    "InitValue": "olivierc_hailhostile3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailneutral1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailneutral1",
+                                    "InitValue": "olivierc_hailneutral1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailneutral2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailneutral2",
+                                    "InitValue": "olivierc_hailneutral2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailneutral3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailneutral3",
+                                    "InitValue": "olivierc_hailneutral3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailunidentified1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailunidentified1",
+                                    "InitValue": "olivierc_hailunidentified1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "hailunidentified2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_hailunidentified2",
+                                    "InitValue": "olivierc_hailunidentified2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillengage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillengage",
+                                    "InitValue": "olivierc_skillengage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldisengage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldisengage",
+                                    "InitValue": "olivierc_skilldisengage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillassault",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillassault",
+                                    "InitValue": "olivierc_skillassault",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillhunker down",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillhunker down",
+                                    "InitValue": "olivierc_skillhunker down",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillmitigate",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillmitigate",
+                                    "InitValue": "olivierc_skillmitigate",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillfocus fire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillfocus fire",
+                                    "InitValue": "olivierc_skillfocus fire",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillfull retreat",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillfull retreat",
+                                    "InitValue": "olivierc_skillfull retreat",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillstern rake",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillstern rake",
+                                    "InitValue": "olivierc_skillstern rake",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilloutmaneuver",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilloutmaneuver",
+                                    "InitValue": "olivierc_skilloutmaneuver",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilltactical retreat",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilltactical retreat",
+                                    "InitValue": "olivierc_skilltactical retreat",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilloverwatch",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilloverwatch",
+                                    "InitValue": "olivierc_skilloverwatch",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillevasive action",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillevasive action",
+                                    "InitValue": "olivierc_skillevasive action",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillfire at will",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillfire at will",
+                                    "InitValue": "olivierc_skillfire at will",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilltarget guns",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilltarget guns",
+                                    "InitValue": "olivierc_skilltarget guns",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillhold fire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillhold fire",
+                                    "InitValue": "olivierc_skillhold fire",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilltarget drive",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilltarget drive",
+                                    "InitValue": "olivierc_skilltarget drive",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillheedless barrage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillheedless barrage",
+                                    "InitValue": "olivierc_skillheedless barrage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillguns overload",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillguns overload",
+                                    "InitValue": "olivierc_skillguns overload",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillshield tuning",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillshield tuning",
+                                    "InitValue": "olivierc_skillshield tuning",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillparts synthesis",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillparts synthesis",
+                                    "InitValue": "olivierc_skillparts synthesis",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldrive overclock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldrive overclock",
+                                    "InitValue": "olivierc_skilldrive overclock",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillmana channeling",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillmana channeling",
+                                    "InitValue": "olivierc_skillmana channeling",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillmixed propellant",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillmixed propellant",
+                                    "InitValue": "olivierc_skillmixed propellant",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillenchant hull",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillenchant hull",
+                                    "InitValue": "olivierc_skillenchant hull",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillpatch up",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillpatch up",
+                                    "InitValue": "olivierc_skillpatch up",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillfuel overload",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillfuel overload",
+                                    "InitValue": "olivierc_skillfuel overload",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillunpacking",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillunpacking",
+                                    "InitValue": "olivierc_skillunpacking",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilltake the helm",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilltake the helm",
+                                    "InitValue": "olivierc_skilltake the helm",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldefaultnocaptain",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldefaultnocaptain",
+                                    "InitValue": "olivierc_skilldefaultnocaptain",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldefaultnonavigator",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldefaultnonavigator",
+                                    "InitValue": "olivierc_skilldefaultnonavigator",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldefaultnogunner",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldefaultnogunner",
+                                    "InitValue": "olivierc_skilldefaultnogunner",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillonward",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillonward",
+                                    "InitValue": "olivierc_skillonward",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfopeningfire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfopeningfire",
+                                    "InitValue": "olivierc_onselfopeningfire",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselftakingdamage",
+                                    "InitValue": "olivierc_onselftakingdamage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfpowerplantdamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfpowerplantdamaged_1",
+                                    "InitValue": "olivierc_onselfpowerplantdamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfpowerplantdamaged_2",
+                                    "InitValue": "olivierc_onselfpowerplantdamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfcommanddamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfcommanddamaged",
+                                    "InitValue": "olivierc_onselfcommanddamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfdrivedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfdrivedamaged_1",
+                                    "InitValue": "olivierc_onselfdrivedamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfdrivedamaged_2",
+                                    "InitValue": "olivierc_onselfdrivedamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfpowerlow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfpowerlow_1",
+                                    "InitValue": "olivierc_onselfpowerlow_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfpowerlow_2",
+                                    "InitValue": "olivierc_onselfpowerlow_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammolow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfammolow",
+                                    "InitValue": "olivierc_onselfammolow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfretreating_1",
+                                    "InitValue": "olivierc_onselfretreating_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfshieldbroken",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfshieldbroken_1",
+                                    "InitValue": "olivierc_onselfshieldbroken_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfshieldbroken_2",
+                                    "InitValue": "olivierc_onselfshieldbroken_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfshieldrestored",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfshieldrestored_1",
+                                    "InitValue": "olivierc_onselfshieldrestored_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfshieldrestored_2",
+                                    "InitValue": "olivierc_onselfshieldrestored_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileopeningfire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostileopeningfire",
+                                    "InitValue": "olivierc_onhostileopeningfire",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostiletakingdamage",
+                                    "InitValue": "olivierc_onhostiletakingdamage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilepowerplantdamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostilepowerplantdamaged",
+                                    "InitValue": "olivierc_onhostilepowerplantdamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilecommanddamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostilecommanddamaged",
+                                    "InitValue": "olivierc_onhostilecommanddamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiledrivedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostiledrivedamaged",
+                                    "InitValue": "olivierc_onhostiledrivedamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilepowerlow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostilepowerlow",
+                                    "InitValue": "olivierc_onhostilepowerlow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileammolow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostileammolow",
+                                    "InitValue": "olivierc_onhostileammolow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostileretreating",
+                                    "InitValue": "olivierc_onhostileretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldbroken",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostileshieldbroken",
+                                    "InitValue": "olivierc_onhostileshieldbroken",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldrestored",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostileshieldrestored",
+                                    "InitValue": "olivierc_onhostileshieldrestored",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_light",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselftakingdamage_light",
+                                    "InitValue": "olivierc_onselftakingdamage_light",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_medium",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselftakingdamage_medium",
+                                    "InitValue": "olivierc_onselftakingdamage_medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_heavy",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselftakingdamage_heavy",
+                                    "InitValue": "olivierc_onselftakingdamage_heavy",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onboardinggauge_start",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onboardinggauge_start",
+                                    "InitValue": "olivierc_onboardinggauge_start",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onboardingdisengage",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onboardingdisengage",
+                                    "InitValue": "olivierc_onboardingdisengage",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfcrewlow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfcrewlow",
+                                    "InitValue": "olivierc_onselfcrewlow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfsurrender",
+                                    "InitValue": "olivierc_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_light",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostiletakingdamage_light",
+                                    "InitValue": "olivierc_onhostiletakingdamage_light",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_medium",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostiletakingdamage_medium",
+                                    "InitValue": "olivierc_onhostiletakingdamage_medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_heavy",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onhostiletakingdamage_heavy",
+                                    "InitValue": "olivierc_onhostiletakingdamage_heavy",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_1",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_2",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_3",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_4",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_5",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_6",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_7",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_8",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_9",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_10",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_1_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_1_11",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_1_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_1",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_2",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_3",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_4",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_5",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_6",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_7",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_8",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_2_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_2_9",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_2_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_1",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_2",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_3",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_4",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_5",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_6",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_7",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_8",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_9",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_3_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_3_10",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_3_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_1",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_2",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_3",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_4",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_5",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_6",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_7",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_8",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_9",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_10",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_11",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_12",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff09_4_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Rec_Qoff09_4_13",
+                                    "InitValue": "olivierc_Q_Rec_Qoff09_4_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillgeneratortuning",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillgenerator_tuning_1",
+                                    "InitValue": "olivierc_skillgenerator_tuning_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_skillgenerator_tuning_2",
+                                    "InitValue": "olivierc_skillgenerator_tuning_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillpatchup",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillpatch_up_1",
+                                    "InitValue": "olivierc_skillpatch_up_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_skillpatch_up_2",
+                                    "InitValue": "olivierc_skillpatch_up_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillmanaovercharge",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skillmana_overcharge_1",
+                                    "InitValue": "olivierc_skillmana_overcharge_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_skillmana_overcharge_2",
+                                    "InitValue": "olivierc_skillmana_overcharge_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldreamofflight",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldream_of_flight_1",
+                                    "InitValue": "olivierc_skilldream_of_flight_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "olivierc_skilldream_of_flight_2",
+                                    "InitValue": "olivierc_skilldream_of_flight_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfmateriallow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_onselfmateriallow_1",
+                                    "InitValue": "olivierc_onselfmateriallow_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S1_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S1_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S1_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S1_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S2_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S2_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S2_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S3_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S4_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S4_9",
+                                    "InitValue": "olivierc_Q_Qoff09_S4_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S5_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S5_9",
+                                    "InitValue": "olivierc_Q_Qoff09_S5_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_9",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_10",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_11",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S6_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S6_12",
+                                    "InitValue": "olivierc_Q_Qoff09_S6_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S7_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S7_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S7_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S8_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S8_9",
+                                    "InitValue": "olivierc_Q_Qoff09_S8_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S9_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S9_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S9_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S9_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S10_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S10_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S10_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_1",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_2",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_3",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_4",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_5",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_6",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_7",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_8",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff09_S11_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "olivierc_Q_Qoff09_S11_9",
+                                    "InitValue": "olivierc_Q_Qoff09_S11_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch8_S20_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_1",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_2",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_3",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_4",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_5",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_6",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_7",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_8",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_9",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_10",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_11",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_12",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_13",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_14",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_14",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_15",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_15",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_16",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_16",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_17",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_17",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_17",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_18",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_18",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_18",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_19",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_19",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_19",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S20_20",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "abrahamd_Q_Main_Ch8_S20_20",
+                                    "InitValue": "abrahamd_Q_Main_Ch8_S20_20",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

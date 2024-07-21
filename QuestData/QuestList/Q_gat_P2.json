@@ -1,0 +1,261 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s1_name",
+                                    "InitValue": "Q_gat_P2_s1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s1_des",
+                                    "InitValue": "Q_gat_P2_s1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item3",
+                                        "1",
+                                        "marker_12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item4",
+                                        "1",
+                                        "marker_13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s2_name",
+                                    "InitValue": "Q_gat_P2_s2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s2_des",
+                                    "InitValue": "Q_gat_P2_s2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_fertilizer",
+                                        "400"
+                                    ],
+                                    "InitValue": [
+                                        "goods_fertilizer",
+                                        "400"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "7800"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "7800"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s3_name",
+                                    "InitValue": "Q_gat_P2_s3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s3_des",
+                                    "InitValue": "Q_gat_P2_s3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_glycerol",
+                                        "300"
+                                    ],
+                                    "InitValue": [
+                                        "mat_glycerol",
+                                        "300"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "7500"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "7500"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s4_name",
+                                    "InitValue": "Q_gat_P2_s4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_gat_P2_s4_des",
+                                    "InitValue": "Q_gat_P2_s4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_manaCrystal0",
+                                        "50"
+                                    ],
+                                    "InitValue": [
+                                        "mat_manaCrystal0",
+                                        "50"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "14000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "11000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

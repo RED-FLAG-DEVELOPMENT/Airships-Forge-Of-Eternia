@@ -1,0 +1,1755 @@
+[
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        4
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Shipyard",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        5,
+                                        15
+                                    ],
+                                    "InitValue": [
+                                        5
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ShipBaySize": {
+                                "StringType": {
+                                    "_string": "Medium",
+                                    "InitValue": "Medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Agrosciences",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        8,
+                                        9,
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "InitValue": [
+                                        8,
+                                        9,
+                                        10,
+                                        11,
+                                        12
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        3,
+                                        6,
+                                        7
+                                    ],
+                                    "InitValue": [
+                                        3,
+                                        6,
+                                        7
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Aberdonia0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Aberdonia0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Governance",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        13,
+                                        14,
+                                        16
+                                    ],
+                                    "InitValue": [
+                                        13,
+                                        14,
+                                        16
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_Supply_name",
+                                    "InitValue": "FindhornVillage_fac_Supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_Supply_des",
+                                    "InitValue": "FindhornVillage_fac_Supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FindhornVillage_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FindhornVillage_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_Plantation_name",
+                                    "InitValue": "FindhornVillage_fac_Plantation_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_Plantation_des",
+                                    "InitValue": "FindhornVillage_fac_Plantation_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Field2",
+                                    "InitValue": "Field2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Farm",
+                                    "InitValue": "Farm",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FindhornVillage_Plantation"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FindhornVillage_Plantation"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_name",
+                                    "InitValue": "GenSupply_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_des",
+                                    "InitValue": "GenSupply_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_shortdes",
+                                    "InitValue": "GenSupply_fac_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "SupplyStation",
+                                    "InitValue": "SupplyStation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "SupplyStation"
+                                    ],
+                                    "InitValue": [
+                                        "SupplyStation"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "FindhornVillage_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "FindhornVillage_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_store_hub_name",
+                                    "InitValue": "FindhornVillage_fac_store_hub_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_des",
+                                    "InitValue": "Gen_fac_store_hub_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_shortdes",
+                                    "InitValue": "Gen_fac_store_hub_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FindhornVillage_Hub"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FindhornVillage_Hub"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_name",
+                                    "InitValue": "Gen_fac_Goods_T1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_des",
+                                    "InitValue": "Gen_fac_Goods_T1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_shortdes",
+                                    "InitValue": "Gen_fac_Goods_T1_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore2",
+                                    "InitValue": "RegularStore2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FindhornVillage_Goods"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FindhornVillage_Goods"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_ShipStore_name",
+                                    "InitValue": "FindhornVillage_fac_ShipStore_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_ShipStore_des",
+                                    "InitValue": "FindhornVillage_fac_ShipStore_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_ship_shortdes",
+                                    "InitValue": "Gen_fac_store_ship_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "ShipyardM",
+                                    "InitValue": "ShipyardM",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FindhornVillage_Ship"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FindhornVillage_Ship"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q1_name",
+                                    "InitValue": "Gen_fac_logis_q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_S",
+                                    "InitValue": "Logistic_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P61_q1"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P61_q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q2_name",
+                                    "InitValue": "Gen_fac_logis_q2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_M",
+                                    "InitValue": "Logistic_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P61_q2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P61_q2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "store_Agroscience_Gen_name",
+                                    "InitValue": "store_Agroscience_Gen_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "store_Agroscience_Gen_des",
+                                    "InitValue": "store_Agroscience_Gen_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Field2",
+                                    "InitValue": "Field2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Plantation",
+                                    "InitValue": "Plantation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_Agroscience_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_Agroscience_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Plantations_name",
+                                    "InitValue": "Gen_fac_ind_Plantations_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Field",
+                                    "InitValue": "Field",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Plantation",
+                                    "InitValue": "Plantation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Plantations_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "Plantations_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:20|mat_reinforcedCloth:10|mat_farmingTools:20|permit_Aberdonia0:1|currency1:1200",
+                                        "mat_limestone1:40|mat_grainSeeds:100|mat_farmingTools:100|currency1:7000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:27000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:20|mat_reinforcedCloth:10|mat_farmingTools:20|permit_Aberdonia0:1|currency1:1200",
+                                        "mat_limestone1:40|mat_grainSeeds:100|mat_farmingTools:100|currency1:7000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:27000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Pastures_name",
+                                    "InitValue": "Gen_fac_ind_Pastures_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Pastures",
+                                    "InitValue": "Pastures",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Pasture",
+                                    "InitValue": "Pasture",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Pastures_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "Pastures_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|mat_cow0:4|mat_chicken0:4|permit_Aberdonia0:1|currency1:1500",
+                                        "mat_oak2:80|mat_limestone1:80|mat_steelBeam:35|currency1:5000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:25000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|mat_cow0:4|mat_chicken0:4|permit_Aberdonia0:1|currency1:1500",
+                                        "mat_oak2:80|mat_limestone1:80|mat_steelBeam:35|currency1:5000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:25000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Agrologists_name",
+                                    "InitValue": "Gen_fac_ind_Agrologists_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Agrologists",
+                                    "InitValue": "Agrologists",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Farm",
+                                    "InitValue": "Farm",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Agrologists_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "Agrologists_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:40|mat_constructionBlock:20|mat_limestone1:40|permit_Aberdonia0:1|currency1:15000",
+                                        "mat_limestone1:120|mat_heavyMachinery:50|mat_craneComponents:50|currency1:34000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:40|mat_constructionBlock:20|mat_limestone1:40|permit_Aberdonia0:1|currency1:15000",
+                                        "mat_limestone1:120|mat_heavyMachinery:50|mat_craneComponents:50|currency1:34000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Mills_name",
+                                    "InitValue": "Gen_fac_ind_Mills_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "GrindingMill",
+                                    "InitValue": "GrindingMill",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "GrindMill",
+                                    "InitValue": "GrindMill",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Mills_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "Mills_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_fir2:40|mat_steelBeam:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:13000",
+                                        "mat_constructionBlock:120|mat_steelBeam:80|mat_craneComponents:80|currency1:24000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_fir2:40|mat_steelBeam:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:13000",
+                                        "mat_constructionBlock:120|mat_steelBeam:80|mat_craneComponents:80|currency1:24000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LHQ_Gen_fac_des",
+                                    "InitValue": "LHQ_Gen_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Planning",
+                                    "InitValue": "Planning",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "LHQ_FindhornVillage_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "LHQ_FindhornVillage_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "InitValue": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Meeting",
+                                    "InitValue": "Meeting",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "FHQ_FindhornVillage_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "FHQ_FindhornVillage_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FindhornVillage_fac_ind_TCShipwright_name",
+                                    "InitValue": "FindhornVillage_fac_ind_TCShipwright_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Shipwright0_shortdes",
+                                    "InitValue": "Gen_fac_ind_Shipwright0_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "LargeShipyards",
+                                    "InitValue": "LargeShipyards",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "ShipyardL",
+                                    "InitValue": "ShipyardL",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "ShipwrightTC_FindhornVillage"
+                                    ],
+                                    "InitValue": [
+                                        "ShipwrightTC_FindhornVillage"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_automatedAssemblers:1|mat_reinforcedBlocks:10|mat_heavyFactoryBlueprint:1|permit_Enterprise:1|currency1:1000",
+                                        "mat_automatedAssemblers:5|mat_reinforcedBlocks:30|mat_heavyMachinery:45|mat_dynamos:15|currency1:70000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_automatedAssemblers:1|mat_reinforcedBlocks:10|mat_heavyFactoryBlueprint:1|permit_Enterprise:1|currency1:1000",
+                                        "mat_automatedAssemblers:5|mat_reinforcedBlocks:30|mat_heavyMachinery:45|mat_dynamos:15|currency1:70000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Qoff03_MarshalOffice_name",
+                                    "InitValue": "Gen_fac_Qoff03_MarshalOffice_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Qoff03_MarshalOffice_des",
+                                    "InitValue": "Gen_fac_Qoff03_MarshalOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Qoff03_MarshalOffice_name_shortdes",
+                                    "InitValue": "Gen_fac_Qoff03_MarshalOffice_name_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Harold_Office",
+                                    "InitValue": "Harold_Office",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Qoff03_adlersturm"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Qoff03_adlersturm"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff03_item4_1==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff03_item4_1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

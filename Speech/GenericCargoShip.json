@@ -1,0 +1,39 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcargoship_onselfretreating",
+                                    "InitValue": "genericcargoship_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcargoship_onselfsurrender",
+                                    "InitValue": "genericcargoship_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

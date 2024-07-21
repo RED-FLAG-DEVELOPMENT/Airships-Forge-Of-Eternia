@@ -1,0 +1,331 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_1_Name",
+                                    "InitValue": "AgathaS_0_1_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_1_Des",
+                                    "InitValue": "AgathaS_0_1_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10",
+                                        "1",
+                                        "currency1",
+                                        "4000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10",
+                                        "1",
+                                        "currency1",
+                                        "4000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AirshipRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Tship_26"
+                                    ],
+                                    "InitValue": [
+                                        "Tship_26"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "P0F1_Ch1_S7",
+                                    "InitValue": "P0F1_Ch1_S7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_2_Name",
+                                    "InitValue": "AgathaS_0_2_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_2_Des",
+                                    "InitValue": "AgathaS_0_2_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item11",
+                                        "1",
+                                        "weapon9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item11",
+                                        "1",
+                                        "weapon9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "P0F1_Ch1_S8",
+                                    "InitValue": "P0F1_Ch1_S8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_3_Name",
+                                    "InitValue": "AgathaS_0_3_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_3_Des",
+                                    "InitValue": "AgathaS_0_3_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item19",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item19",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item20",
+                                        "1",
+                                        "currency1",
+                                        "5000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item20",
+                                        "1",
+                                        "currency1",
+                                        "5000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AirshipRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Tship_26"
+                                    ],
+                                    "InitValue": [
+                                        "Tship_26"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "P0F1_Ch1_S17",
+                                    "InitValue": "P0F1_Ch1_S17",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_4_Name",
+                                    "InitValue": "AgathaS_0_4_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_0_4_Des",
+                                    "InitValue": "AgathaS_0_4_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item26",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item26",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item27",
+                                        "1",
+                                        "permit_Sunvale0",
+                                        "1",
+                                        "mat_heavyMachinery",
+                                        "10",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item27",
+                                        "1",
+                                        "permit_Sunvale0",
+                                        "1",
+                                        "mat_heavyMachinery",
+                                        "10",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "P0F1_Ch1_S22",
+                                    "InitValue": "P0F1_Ch1_S22",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

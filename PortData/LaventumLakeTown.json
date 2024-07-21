@@ -1,0 +1,1278 @@
+[
+    {
+        "Key": "Aqueduct",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        8,
+                                        9
+                                    ],
+                                    "InitValue": [
+                                        8,
+                                        9
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Governance",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        5,
+                                        10
+                                    ],
+                                    "InitValue": [
+                                        5,
+                                        10
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Laventum0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Laventum0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        4,
+                                        6,
+                                        7
+                                    ],
+                                    "InitValue": [
+                                        4,
+                                        6,
+                                        7
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Laventum0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Laventum0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        3,
+                                        11,
+                                        12
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        3,
+                                        11,
+                                        12
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Supply_name",
+                                    "InitValue": "LaventumLakeTown_fac_Supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Supply_des",
+                                    "InitValue": "LaventumLakeTown_fac_Supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_LaventumLakeTown_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_LaventumLakeTown_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Aqueduct_name",
+                                    "InitValue": "LaventumLakeTown_fac_Aqueduct_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Aqueduct_des",
+                                    "InitValue": "LaventumLakeTown_fac_Aqueduct_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_LaventumLakeTown_Aqueduct"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_LaventumLakeTown_Aqueduct"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_name",
+                                    "InitValue": "GenSupply_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_des",
+                                    "InitValue": "GenSupply_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_shortdes",
+                                    "InitValue": "GenSupply_fac_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "SupplyStation",
+                                    "InitValue": "SupplyStation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "SupplyStation"
+                                    ],
+                                    "InitValue": [
+                                        "SupplyStation"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "LaventumLakeTown_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "LaventumLakeTown_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_name",
+                                    "InitValue": "Gen_fac_Goods_T1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_des",
+                                    "InitValue": "Gen_fac_Goods_T1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_Goods_T1_shortdes",
+                                    "InitValue": "Gen_fac_Goods_T1_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore2",
+                                    "InitValue": "RegularStore2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_LaventumLakeTown_Goods"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_LaventumLakeTown_Goods"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_store_hub_name",
+                                    "InitValue": "LaventumLakeTown_fac_store_hub_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_des",
+                                    "InitValue": "Gen_fac_store_hub_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_shortdes",
+                                    "InitValue": "Gen_fac_store_hub_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_LaventumLakeTown_Hub"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_LaventumLakeTown_Hub"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LHQ_Gen_fac_des",
+                                    "InitValue": "LHQ_Gen_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Planning",
+                                    "InitValue": "Planning",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "LHQ_LaventumLakeTown_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "LHQ_LaventumLakeTown_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q1_name",
+                                    "InitValue": "Gen_fac_logis_q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_S",
+                                    "InitValue": "Logistic_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P48_q1"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P48_q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q2_name",
+                                    "InitValue": "Gen_fac_logis_q2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_M",
+                                    "InitValue": "Logistic_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P48_q2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P48_q2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "store_Aquaculture_Gen_name",
+                                    "InitValue": "store_Aquaculture_Gen_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "store_Aquaculture_Gen_des",
+                                    "InitValue": "store_Aquaculture_Gen_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Lake3",
+                                    "InitValue": "Lake3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "WaterPlant",
+                                    "InitValue": "WaterPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_Aquaculture_LaventumLakeTown"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_Aquaculture_LaventumLakeTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Reservoirs_name",
+                                    "InitValue": "Gen_fac_ind_Reservoirs_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Lake2",
+                                    "InitValue": "Lake2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "WaterPlant",
+                                    "InitValue": "WaterPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Reservoirs_LaventumLakeTown"
+                                    ],
+                                    "InitValue": [
+                                        "Reservoirs_LaventumLakeTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:20|mat_limestone1:20|mat_fish0:20|permit_Laventum0:1|currency1:2000",
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_heavyMachinery:5|currency1:10000",
+                                        "mat_constructionBlock:80|mat_heavyMachinery:20|mat_craneComponents:20|currency1:28000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:20|mat_limestone1:20|mat_fish0:20|permit_Laventum0:1|currency1:2000",
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_heavyMachinery:5|currency1:10000",
+                                        "mat_constructionBlock:80|mat_heavyMachinery:20|mat_craneComponents:20|currency1:28000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "InitValue": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Meeting",
+                                    "InitValue": "Meeting",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "FHQ_LaventumLakeTown_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "FHQ_LaventumLakeTown_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Courier_ch8_name",
+                                    "InitValue": "LaventumLakeTown_fac_Courier_ch8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Courier_ch8_des",
+                                    "InitValue": "LaventumLakeTown_fac_Courier_ch8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Courier_ch8_shortdes",
+                                    "InitValue": "LaventumLakeTown_fac_Courier_ch8_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Tavern",
+                                    "InitValue": "Tavern",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Courier_ch8"
+                                    ],
+                                    "InitValue": [
+                                        "Courier_ch8"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch8_S11==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch8_S11==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Qoff14_Lake_name",
+                                    "InitValue": "LaventumLakeTown_fac_Qoff14_Lake_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Qoff14_Lake_des",
+                                    "InitValue": "LaventumLakeTown_fac_Qoff14_Lake_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "LaventumLakeTown_fac_Qoff14_Lake_shortdes",
+                                    "InitValue": "LaventumLakeTown_fac_Qoff14_Lake_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Francine_Lake",
+                                    "InitValue": "Francine_Lake",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Qoff14_S10"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Qoff14_S10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff14_item9==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff14_item9==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

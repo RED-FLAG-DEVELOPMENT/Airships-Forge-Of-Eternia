@@ -1,0 +1,18 @@
+mat_oak2 10
+
+mat_oak2 20
+mat_limestone1 20
+
+mat_largeWarehousePlan
+mat_limestone1 50
+mat_steelBeam 30
+
+mat_extraLargeWarehousePlan
+mat_steelBeam 30
+mat_constructionBlock 50
+mat_craneComponents 1
+
+mat_superLargeWarehousePlan
+mat_constructionBlock 50
+mat_reinforcedBlocks 150
+mat_craneComponents 1

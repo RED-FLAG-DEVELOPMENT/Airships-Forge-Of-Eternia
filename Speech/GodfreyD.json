@@ -1,0 +1,279 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch9_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_1",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_2",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_3",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_4",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_5",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_6",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S6_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S6_7",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S6_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_1",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_2",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_3",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_4",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_5",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_6",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_7",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_8",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_9",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_10",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S7_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "godfreyd_Q_Main_Ch9_S7_11",
+                                    "InitValue": "godfreyd_Q_Main_Ch9_S7_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

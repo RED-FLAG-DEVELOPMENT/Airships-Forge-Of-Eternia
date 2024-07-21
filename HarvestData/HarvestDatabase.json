@@ -1,0 +1,713 @@
+[
+    {
+        "Key": "HarvestData",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Balloon",
+                                    "InitValue": "Balloon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_L",
+                                    "InitValue": "Rockdebris_L",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_Tree_L",
+                                    "InitValue": "Rockdebris_Tree_L",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Seagull",
+                                    "InitValue": "Seagull",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Shipwreck_AK_1",
+                                    "InitValue": "Shipwreck_AK_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Shipwreck_TC_1",
+                                    "InitValue": "Shipwreck_TC_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_M",
+                                    "InitValue": "Rockdebris_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_S",
+                                    "InitValue": "Rockdebris_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "BalloonGroup",
+                                    "InitValue": "BalloonGroup",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Flotilla_barrels_1",
+                                    "InitValue": "Flotilla_barrels_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Flotilla_barrels_2",
+                                    "InitValue": "Flotilla_barrels_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Hawk",
+                                    "InitValue": "Hawk",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_Tree_M",
+                                    "InitValue": "Rockdebris_Tree_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rockdebris_Tree_S",
+                                    "InitValue": "Rockdebris_Tree_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Shipwreck_AK_2",
+                                    "InitValue": "Shipwreck_AK_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Shipwreck_NVR_1",
+                                    "InitValue": "Shipwreck_NVR_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Stray_Island1",
+                                    "InitValue": "Stray_Island1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "17",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Stray_Island2",
+                                    "InitValue": "Stray_Island2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "18",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Stray_Island3",
+                                    "InitValue": "Stray_Island3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "19",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_Gunboat_000",
+                                    "InitValue": "Airship_AK_Gunboat_000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "20",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_NVR_Freighter_000",
+                                    "InitValue": "Airship_NVR_Freighter_000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "21",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_TC_Gunboat_000",
+                                    "InitValue": "Airship_TC_Gunboat_000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "22",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rock_Harvest_Lumber_M",
+                                    "InitValue": "Rock_Harvest_Lumber_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "23",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Rock_Harvest_Lumber_M",
+                                    "InitValue": "Rock_Harvest_Lumber_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "24",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_Battle_Cruiser_000",
+                                    "InitValue": "Airship_AK_Battle_Cruiser_000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "25",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_Frigate_001",
+                                    "InitValue": "Airship_AK_Frigate_001",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "26",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_GroupA",
+                                    "InitValue": "Airship_AK_GroupA",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "27",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_Frigate_001_1",
+                                    "InitValue": "Airship_AK_Frigate_001_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "28",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Airship_AK_Frigate_001_2",
+                                    "InitValue": "Airship_AK_Frigate_001_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "29",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Harvest_BlueWhale",
+                                    "InitValue": "Harvest_BlueWhale",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "30",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Harvest_SpermWhale",
+                                    "InitValue": "Harvest_SpermWhale",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "31",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "StreamAssetsName": {
+                                "StringType": {
+                                    "_string": "Harvest_WhiteWhale",
+                                    "InitValue": "Harvest_WhiteWhale",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "MoveSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

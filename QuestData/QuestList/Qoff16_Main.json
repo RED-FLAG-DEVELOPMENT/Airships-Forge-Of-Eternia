@@ -1,0 +1,601 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_0_name",
+                                    "InitValue": "Qoff16_Main_QuestID_0_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_0_des",
+                                    "InitValue": "Qoff16_Main_QuestID_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item1",
+                                        "1",
+                                        "Flag_Qoff16_Main1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item1",
+                                        "1",
+                                        "Flag_Qoff16_Main1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_Q1",
+                                    "InitValue": "Qoff16_Main_Q1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Accept",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_1_name",
+                                    "InitValue": "Qoff16_Main_QuestID_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_1_des",
+                                    "InitValue": "Qoff16_Main_QuestID_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_Q2",
+                                    "InitValue": "Qoff16_Main_Q2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_2_name",
+                                    "InitValue": "Qoff16_Main_QuestID_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_2_des",
+                                    "InitValue": "Qoff16_Main_QuestID_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item3_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item3_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_3_name",
+                                    "InitValue": "Qoff16_Main_QuestID_3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_QuestID_3_des",
+                                    "InitValue": "Qoff16_Main_QuestID_3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_Q3",
+                                    "InitValue": "Qoff16_Main_Q3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "4",
+                                    "InitValue": "4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RodrigoR_0_name",
+                                    "InitValue": "RodrigoR_0_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RodrigoR_0_des",
+                                    "InitValue": "RodrigoR_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item8",
+                                        "1",
+                                        "key_qoff16_lv5to6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item8",
+                                        "1",
+                                        "key_qoff16_lv5to6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff16_S9",
+                                    "InitValue": "Q_Qoff16_S9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "5",
+                                    "InitValue": "5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RodrigoR_1_name",
+                                    "InitValue": "RodrigoR_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RodrigoR_1_des",
+                                    "InitValue": "RodrigoR_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff16_S11",
+                                    "InitValue": "Q_Qoff16_S11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "6",
+                                    "InitValue": "6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RodrigoR_2_name",
+                                    "InitValue": "RodrigoR_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RodrigoR_2_des",
+                                    "InitValue": "RodrigoR_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item12",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff16_S12",
+                                    "InitValue": "Q_Qoff16_S12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "7",
+                                    "InitValue": "7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RodrigoR_3_name",
+                                    "InitValue": "RodrigoR_3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RodrigoR_3_des",
+                                    "InitValue": "RodrigoR_3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item13",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff16_item14",
+                                        "1",
+                                        "key_qoff16_lv9to10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff16_item14",
+                                        "1",
+                                        "key_qoff16_lv9to10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff16_S14",
+                                    "InitValue": "Q_Qoff16_S14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

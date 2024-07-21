@@ -1,0 +1,270 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S4_name",
+                                    "InitValue": "Q_Qoff09_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S4_des",
+                                    "InitValue": "Q_Qoff09_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item3",
+                                        "1",
+                                        "mat_oak2",
+                                        "20",
+                                        "mat_oakPole",
+                                        "20",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item3",
+                                        "1",
+                                        "mat_oak2",
+                                        "20",
+                                        "mat_oakPole",
+                                        "20",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S4",
+                                    "InitValue": "Q_Qoff09_S4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S6_name",
+                                    "InitValue": "Q_Qoff09_S6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S6_des",
+                                    "InitValue": "Q_Qoff09_S6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item5",
+                                        "1",
+                                        "mat_steelPlate",
+                                        "20",
+                                        "mat_viriditePlate",
+                                        "20",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item5",
+                                        "1",
+                                        "mat_steelPlate",
+                                        "20",
+                                        "mat_viriditePlate",
+                                        "20",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S6",
+                                    "InitValue": "Q_Qoff09_S6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S8_name",
+                                    "InitValue": "Q_Qoff09_S8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S8_des",
+                                    "InitValue": "Q_Qoff09_S8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item7",
+                                        "1",
+                                        "mat_manadust0",
+                                        "10",
+                                        "mat_manaCrystal0",
+                                        "5",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item7",
+                                        "1",
+                                        "mat_manadust0",
+                                        "10",
+                                        "mat_manaCrystal0",
+                                        "5",
+                                        "flag_Q_Qoff09_S3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff09_S8",
+                                    "InitValue": "Q_Qoff09_S8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_HuntingtonQuarry_RP1_name",
+                                    "InitValue": "Q_HuntingtonQuarry_RP1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_HuntingtonQuarry_RP1_des",
+                                    "InitValue": "Q_HuntingtonQuarry_RP1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2",
+                                        "5"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2",
+                                        "5"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "800"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "800"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RSEQ_EmbergladeGarrison_Q1_name",
+                                    "InitValue": "RSEQ_EmbergladeGarrison_Q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RSEQ_EmbergladeGarrison_Q1start_des",
+                                    "InitValue": "RSEQ_EmbergladeGarrison_Q1start_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_SpecEnc_RedSparrowElite_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "Key_SpecEnc_RedSparrowElite_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "50000",
+                                        "flag_StopFac_RedSparrow_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "50000",
+                                        "flag_StopFac_RedSparrow_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

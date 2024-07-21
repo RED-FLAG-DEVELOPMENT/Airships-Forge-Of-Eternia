@@ -1,0 +1,69 @@
+[
+    {
+        "Key": "PVPDefault",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "DeathMatch",
+                                    "InitValue": "DeathMatch",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "AirframeID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        15,
+                                        16
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        15,
+                                        16
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "Classic",
+                                    "InitValue": "Classic",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "FlagBattle",
+                                    "InitValue": "FlagBattle",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

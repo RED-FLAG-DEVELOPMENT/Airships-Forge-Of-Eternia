@@ -1,0 +1,157 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_QuestID_0_name",
+                                    "InitValue": "Q_Rec_Qoff18_QuestID_0_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_QuestID_0_des",
+                                    "InitValue": "Q_Rec_Qoff18_QuestID_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff18_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff18_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_1",
+                                    "InitValue": "Q_Rec_Qoff18_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_QuestID_1_name",
+                                    "InitValue": "Q_Rec_Qoff18_QuestID_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_QuestID_1_des",
+                                    "InitValue": "Q_Rec_Qoff18_QuestID_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff18_item1",
+                                        "1",
+                                        "key_Qoff18_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff18_item1",
+                                        "1",
+                                        "key_Qoff18_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        " 750"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        " 750"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "GuideLocation": {
+                                "LocationPointEnumListType": {
+                                    "locationTypeList": [
+                                        "PORT"
+                                    ],
+                                    "$type": "LocationPointEnumListType"
+                                }
+                            },
+                            "GuideLocationID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        12
+                                    ],
+                                    "InitValue": [
+                                        12
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff18_2",
+                                    "InitValue": "Q_Rec_Qoff18_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

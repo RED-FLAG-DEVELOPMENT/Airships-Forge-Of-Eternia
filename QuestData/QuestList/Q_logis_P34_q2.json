@@ -1,0 +1,244 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_logis_permit_career_name",
+                                    "InitValue": "Q_logis_permit_career_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_logis_permit_career_des",
+                                    "InitValue": "Q_logis_permit_career_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_career2_0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_career2_0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item0_q_name",
+                                    "InitValue": "Q_logis_P34_q2_item0_q_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item0_des_q_des",
+                                    "InitValue": "Q_logis_P34_q2_item0_des_q_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "1013"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "1013"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P34_q2_item0",
+                                        "60"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P34_q2_item0",
+                                        "60"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item1_q_name",
+                                    "InitValue": "Q_logis_P34_q2_item1_q_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item1_des_q_des",
+                                    "InitValue": "Q_logis_P34_q2_item1_des_q_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "948"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "948"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P34_q2_item1",
+                                        "50"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P34_q2_item1",
+                                        "50"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item2_q_name",
+                                    "InitValue": "Q_logis_P34_q2_item2_q_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_logis_P34_q2_item2_des_q_des",
+                                    "InitValue": "Q_logis_P34_q2_item2_des_q_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "2276"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "2276"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P34_q2_item2",
+                                        "60"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P34_q2_item2",
+                                        "60"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

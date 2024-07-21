@@ -1,0 +1,1059 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Qoff16_Sub1_Q1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Qoff16_Sub1_Q1_1",
+                                    "InitValue": "genericsmuggler_Qoff16_Sub1_Q1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Qoff16_Sub1_Q1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Qoff16_Sub1_Q1_2",
+                                    "InitValue": "genericsmuggler_Qoff16_Sub1_Q1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_onselfretreating",
+                                    "InitValue": "genericsmuggler_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_onselfsurrender",
+                                    "InitValue": "genericsmuggler_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_1",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_2",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_3",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_4",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_5",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_6",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_1",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_2",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_3",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_4",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_5",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_6",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch4_S5_CHenri_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S10_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch6_S10_1",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch6_S10_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S10_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch6_S10_2",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch6_S10_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S10_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch6_S10_3",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch6_S10_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S10_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Main_Ch6_S10_4",
+                                    "InitValue": "genericsmuggler_Q_Main_Ch6_S10_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Rec_Qoff04_S2_1",
+                                    "InitValue": "genericsmuggler_Q_Rec_Qoff04_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Rec_Qoff04_S2_2",
+                                    "InitValue": "genericsmuggler_Q_Rec_Qoff04_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff16Smuggler_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff16Smuggler_start_1",
+                                    "InitValue": "genericsmuggler_vsQoff16Smuggler_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff16Smuggler_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff16Smuggler_start_2",
+                                    "InitValue": "genericsmuggler_vsQoff16Smuggler_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff16Smuggler_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff16Smuggler_start_3",
+                                    "InitValue": "genericsmuggler_vsQoff16Smuggler_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff16Smuggler_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff16Smuggler_start_4",
+                                    "InitValue": "genericsmuggler_vsQoff16Smuggler_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff16Smuggler_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff16Smuggler_defeated_1",
+                                    "InitValue": "genericsmuggler_vsQoff16Smuggler_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_1",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_2",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_3",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_4",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_5",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_6",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_7",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_8",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S2_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S2_9",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S2_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S4_1",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S4_2",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S4_3",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S4_4",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_1",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_2",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_3",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_4",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_5",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_6",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S6_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S6_7",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S6_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_1",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_2",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_3",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_4",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_5",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff04_S9_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_Q_Qoff04_S9_6",
+                                    "InitValue": "genericsmuggler_Q_Qoff04_S9_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_1",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_2",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_3",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_4",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_5",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_start_6",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_defeated_1",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff04Antonio_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff04Antonio_defeated_2",
+                                    "InitValue": "genericsmuggler_vsQoff04Antonio_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_1",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_2",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_3",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_4",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_5",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_start_6",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_defeated_1",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_defeated_2",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericsmuggler_vsQoff06Runners_defeated_3",
+                                    "InitValue": "genericsmuggler_vsQoff06Runners_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

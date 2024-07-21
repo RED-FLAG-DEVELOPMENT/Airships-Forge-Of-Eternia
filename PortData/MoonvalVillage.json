@@ -1,0 +1,112 @@
+[
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        64,
+                                        128
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20",
+                                        "currency1:10000|mat_limestone0:20"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20",
+                                        "currency1:10000|mat_limestone0:20"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:500|mat_oak2:10"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:500|mat_oak2:10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

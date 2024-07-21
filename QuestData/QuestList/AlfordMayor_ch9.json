@@ -1,0 +1,96 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Heinrich_S2_Name",
+                                    "InitValue": "Q_Main_Ch9_S4_Heinrich_S2_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Heinrich_S2_Des",
+                                    "InitValue": "Q_Main_Ch9_S4_Heinrich_S2_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item10",
+                                        "1",
+                                        "goods_smokedMeat",
+                                        "200",
+                                        "goods_beer",
+                                        "200",
+                                        "goods_wine0",
+                                        "80"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item10",
+                                        "1",
+                                        "goods_smokedMeat",
+                                        "200",
+                                        "goods_beer",
+                                        "200",
+                                        "goods_wine0",
+                                        "80"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Heinrich_S2",
+                                    "InitValue": "Q_Main_Ch9_S4_Heinrich_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

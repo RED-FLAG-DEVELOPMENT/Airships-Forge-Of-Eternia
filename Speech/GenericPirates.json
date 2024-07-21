@@ -1,0 +1,2469 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_onselfretreating",
+                                    "InitValue": "genericpirates_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_onselfsurrender",
+                                    "InitValue": "genericpirates_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_start_1",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_start_2",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_start_3",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_hostilelose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_hostilelose_1",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_hostilelose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_hostilelose_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_hostilelose_2",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_hostilelose_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4CaptainSimon_hostilelose_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4CaptainSimon_hostilelose_3",
+                                    "InitValue": "genericpirates_vsCh4CaptainSimon_hostilelose_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CHenri_S2_1",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CHenri_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CHenri_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CHenri_S2_2",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CHenri_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4Kidnappers_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4Kidnappers_start_1",
+                                    "InitValue": "genericpirates_vsCh4Kidnappers_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_1",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_2",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_3",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_4",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_5",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_6",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch4_S5_CLiam_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_7",
+                                    "InitValue": "genericpirates_Q_Main_Ch4_S5_CLiam_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_start_1",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_start_2",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_start_3",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_start_4",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_start_5",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_hostilelose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_hostilelose_1",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_hostilelose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_hostilelose_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_hostilelose_2",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_hostilelose_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_hostilelose_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_hostilelose_3",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_hostilelose_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4BlackCoffin_hostilelose_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh4BlackCoffin_hostilelose_4",
+                                    "InitValue": "genericpirates_vsCh4BlackCoffin_hostilelose_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_start_1",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_start_2",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_start_3",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_start_4",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_start_5",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_defeated_1",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_defeated_2",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_defeated_3",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_defeated_4",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6UpstartPirate_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh6UpstartPirate_defeated_5",
+                                    "InitValue": "genericpirates_vsCh6UpstartPirate_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff02_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Rec_Qoff02_S2_1",
+                                    "InitValue": "genericpirates_Q_Rec_Qoff02_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff02_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Rec_Qoff02_S2_2",
+                                    "InitValue": "genericpirates_Q_Rec_Qoff02_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff02_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Rec_Qoff02_S2_3",
+                                    "InitValue": "genericpirates_Q_Rec_Qoff02_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff02RowdyRaider_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff02RowdyRaider_start_1",
+                                    "InitValue": "genericpirates_vsRecQoff02RowdyRaider_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff02RowdyRaider_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff02RowdyRaider_start_2",
+                                    "InitValue": "genericpirates_vsRecQoff02RowdyRaider_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff02RowdyRaider_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff02RowdyRaider_end_1",
+                                    "InitValue": "genericpirates_vsRecQoff02RowdyRaider_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff03_raiders_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff03_raiders_start_1",
+                                    "InitValue": "genericpirates_vsRecQoff03_raiders_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff03_raiders_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff03_raiders_start_2",
+                                    "InitValue": "genericpirates_vsRecQoff03_raiders_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff03_raiders_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff03_raiders_start_3",
+                                    "InitValue": "genericpirates_vsRecQoff03_raiders_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_start_1",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_start_2",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_start_3",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_start_4",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_start_5",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_lose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_lose_1",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_lose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_lose_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_lose_2",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_lose_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff19RudeRaiders_lose_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsRecQoff19RudeRaiders_lose_3",
+                                    "InitValue": "genericpirates_vsRecQoff19RudeRaiders_lose_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsComConglomerateTrovesGuard_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsComConglomerateTrovesGuard_start_1",
+                                    "InitValue": "genericpirates_vsComConglomerateTrovesGuard_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsComConglomerateTrovesGuard_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsComConglomerateTrovesGuard_start_2",
+                                    "InitValue": "genericpirates_vsComConglomerateTrovesGuard_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsComConglomerateTrovesGuard_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsComConglomerateTrovesGuard_start_3",
+                                    "InitValue": "genericpirates_vsComConglomerateTrovesGuard_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_start_1",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_start_2",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_start_3",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_start_4",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_defeated_1",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_defeated_2",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_defeated_3",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_defeated_4",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPBoss_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPBoss_defeated_5",
+                                    "InitValue": "genericpirates_vsCh8RSPBoss_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPRescuer_start_1",
+                                    "InitValue": "genericpirates_vsCh8RSPRescuer_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPRescuer_start_2",
+                                    "InitValue": "genericpirates_vsCh8RSPRescuer_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPRescuer_start_3",
+                                    "InitValue": "genericpirates_vsCh8RSPRescuer_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh8RSPRescuer_start_4",
+                                    "InitValue": "genericpirates_vsCh8RSPRescuer_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh9Banner_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh9Banner_start_1",
+                                    "InitValue": "genericpirates_vsCh9Banner_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh9Banner_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh9Banner_start_2",
+                                    "InitValue": "genericpirates_vsCh9Banner_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh9Banner_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh9Banner_start_3",
+                                    "InitValue": "genericpirates_vsCh9Banner_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh9Banner_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh9Banner_start_4",
+                                    "InitValue": "genericpirates_vsCh9Banner_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_1",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_2",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_3",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_4",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_5",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_6",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_7",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_8",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_start_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_start_9",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_start_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_1",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_2",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_3",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_4",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_5",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10RedSparrow_defeated_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10RedSparrow_defeated_6",
+                                    "InitValue": "genericpirates_vsCh10RedSparrow_defeated_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_1",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_2",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_3",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_4",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_5",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_6",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_7",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_start_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_start_8",
+                                    "InitValue": "genericpirates_vsCh10Gunther_start_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_defeated_1",
+                                    "InitValue": "genericpirates_vsCh10Gunther_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_defeated_2",
+                                    "InitValue": "genericpirates_vsCh10Gunther_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_defeated_3",
+                                    "InitValue": "genericpirates_vsCh10Gunther_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_defeated_4",
+                                    "InitValue": "genericpirates_vsCh10Gunther_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Gunther_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Gunther_defeated_5",
+                                    "InitValue": "genericpirates_vsCh10Gunther_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_1",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_2",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_3",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_4",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_5",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_6",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_start_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_start_7",
+                                    "InitValue": "genericpirates_vsCh10Karl_start_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_1",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_2",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_3",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_4",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_5",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Karl_defeated_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10Karl_defeated_6",
+                                    "InitValue": "genericpirates_vsCh10Karl_defeated_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_1",
+                                    "InitValue": "genericpirates_vsCh10League_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_2",
+                                    "InitValue": "genericpirates_vsCh10League_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_3",
+                                    "InitValue": "genericpirates_vsCh10League_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_4",
+                                    "InitValue": "genericpirates_vsCh10League_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_5",
+                                    "InitValue": "genericpirates_vsCh10League_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_6",
+                                    "InitValue": "genericpirates_vsCh10League_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_start_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_start_7",
+                                    "InitValue": "genericpirates_vsCh10League_start_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_defeated_1",
+                                    "InitValue": "genericpirates_vsCh10League_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_defeated_2",
+                                    "InitValue": "genericpirates_vsCh10League_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_defeated_3",
+                                    "InitValue": "genericpirates_vsCh10League_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_defeated_4",
+                                    "InitValue": "genericpirates_vsCh10League_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10League_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsCh10League_defeated_5",
+                                    "InitValue": "genericpirates_vsCh10League_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Johnny_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Johnny_start_1",
+                                    "InitValue": "genericpirates_vsQoff03Johnny_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Johnny_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Johnny_start_2",
+                                    "InitValue": "genericpirates_vsQoff03Johnny_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Johnny_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Johnny_start_3",
+                                    "InitValue": "genericpirates_vsQoff03Johnny_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Johnny_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Johnny_start_4",
+                                    "InitValue": "genericpirates_vsQoff03Johnny_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Adlersturm_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Adlersturm_start_1",
+                                    "InitValue": "genericpirates_vsQoff03Adlersturm_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Adlersturm_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Adlersturm_start_2",
+                                    "InitValue": "genericpirates_vsQoff03Adlersturm_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Adlersturm_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Adlersturm_start_3",
+                                    "InitValue": "genericpirates_vsQoff03Adlersturm_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Adlersturm_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Adlersturm_start_4",
+                                    "InitValue": "genericpirates_vsQoff03Adlersturm_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_start_1",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_start_2",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_start_3",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_start_4",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_start_5",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_defeated_1",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_defeated_2",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_defeated_3",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_defeated_4",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Bjorn_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff03Bjorn_defeated_5",
+                                    "InitValue": "genericpirates_vsQoff03Bjorn_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff02Barry_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff02Barry_start_1",
+                                    "InitValue": "genericpirates_vsQoff02Barry_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff02Barry_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff02Barry_start_2",
+                                    "InitValue": "genericpirates_vsQoff02Barry_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff02Barry_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff02Barry_start_3",
+                                    "InitValue": "genericpirates_vsQoff02Barry_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff02Barry_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff02Barry_start_4",
+                                    "InitValue": "genericpirates_vsQoff02Barry_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff02Barry_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff02Barry_start_5",
+                                    "InitValue": "genericpirates_vsQoff02Barry_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_1",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_2",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_3",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_4",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_5",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_start_6",
+                                    "InitValue": "genericpirates_vsQoff13Bram_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_defeated_1",
+                                    "InitValue": "genericpirates_vsQoff13Bram_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff13Bram_defeated_2",
+                                    "InitValue": "genericpirates_vsQoff13Bram_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff07_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Qoff07_S6_1",
+                                    "InitValue": "genericpirates_Q_Qoff07_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff07_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_Q_Qoff07_S6_2",
+                                    "InitValue": "genericpirates_Q_Qoff07_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff07loanshark_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff07loanshark_start_1",
+                                    "InitValue": "genericpirates_vsQoff07loanshark_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff07loanshark_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff07loanshark_start_2",
+                                    "InitValue": "genericpirates_vsQoff07loanshark_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff07loanshark_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff07loanshark_start_3",
+                                    "InitValue": "genericpirates_vsQoff07loanshark_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff07loanshark_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericpirates_vsQoff07loanshark_start_4",
+                                    "InitValue": "genericpirates_vsQoff07loanshark_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

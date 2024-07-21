@@ -1,0 +1,589 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "openning_store",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_openning_store1",
+                                    "InitValue": "hildaw_openning_store1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_openning_store2",
+                                    "InitValue": "hildaw_openning_store2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "hildaw_openning_store3",
+                                    "InitValue": "hildaw_openning_store3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID3": {
+                                "StringType": {
+                                    "_string": "hildaw_openning_store4",
+                                    "InitValue": "hildaw_openning_store4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID4": {
+                                "StringType": {
+                                    "_string": "hildaw_openning_store5",
+                                    "InitValue": "hildaw_openning_store5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_player_insuffe_fund1",
+                                    "InitValue": "hildaw_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_player_insuffe_fund2",
+                                    "InitValue": "hildaw_player_insuffe_fund2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "hildaw_player_insuffe_fund3",
+                                    "InitValue": "hildaw_player_insuffe_fund3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_merchant_insuffie_fund1",
+                                    "InitValue": "hildaw_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_merchant_insuffie_fund2",
+                                    "InitValue": "hildaw_merchant_insuffie_fund2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_cargo_full1",
+                                    "InitValue": "hildaw_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_cargo_full2",
+                                    "InitValue": "hildaw_cargo_full2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_out_of_stock1",
+                                    "InitValue": "hildaw_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_out_of_stock2",
+                                    "InitValue": "hildaw_out_of_stock2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_needless_item1",
+                                    "InitValue": "hildaw_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "hildaw_needless_item2",
+                                    "InitValue": "hildaw_needless_item2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_1",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_2",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_3",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_4",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_5",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_6",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_7",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Hilda_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_intro_Hilda_8",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_intro_Hilda_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_1",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_2",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_3",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_4",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_5",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_6",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_7",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_8",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S3_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S3_9",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S3_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_1",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_2",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_3",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_4",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_5",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_6",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_7",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_Q_Com_Conglomerate_S4_8",
+                                    "InitValue": "hildaw_Q_Com_Conglomerate_S4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_vsCh10Wilkurs_start_1",
+                                    "InitValue": "hildaw_vsCh10Wilkurs_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_50intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_vsCh10Wilkurs_50intr_1",
+                                    "InitValue": "hildaw_vsCh10Wilkurs_50intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "hildaw_vsCh10Wilkurs_defeated_1",
+                                    "InitValue": "hildaw_vsCh10Wilkurs_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

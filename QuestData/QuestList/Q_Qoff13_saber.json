@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S2_name",
+                                    "InitValue": "Q_Qoff13_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S2_des",
+                                    "InitValue": "Q_Qoff13_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff13_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff13_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff13_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff13_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S2",
+                                    "InitValue": "Q_Qoff13_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Accept",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S4_name",
+                                    "InitValue": "Q_Qoff13_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S4_des",
+                                    "InitValue": "Q_Qoff13_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff13_item3",
+                                        "1",
+                                        "flag_Q_Qoff13_saber",
+                                        "1",
+                                        "weapon135",
+                                        "4",
+                                        "weapon139",
+                                        "2"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff13_item3",
+                                        "1",
+                                        "flag_Q_Qoff13_saber",
+                                        "1",
+                                        "weapon135",
+                                        "4",
+                                        "weapon139",
+                                        "2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff13_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff13_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff13_S4",
+                                    "InitValue": "Q_Qoff13_S4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,1820 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S2_1",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S2_2",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S2_3",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S3_1",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S3_2",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S4_1",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S4_2",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Main_Ch7_S6_Marlene_S4_3",
+                                    "InitValue": "alberta_Q_Main_Ch7_S6_Marlene_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfopeningfire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_onselfopeningfire_1",
+                                    "InitValue": "alberta_onselfopeningfire_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_onselfopeningfire_2",
+                                    "InitValue": "alberta_onselfopeningfire_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammolow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammolow_1",
+                                    "InitValue": "alberta_onselfammolow_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammolow_2",
+                                    "InitValue": "alberta_onselfammolow_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammostoragedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammostoragedamaged_1",
+                                    "InitValue": "alberta_onselfammostoragedamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammostoragedamaged_2",
+                                    "InitValue": "alberta_onselfammostoragedamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammostoragedestroyed",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammostoragedestroyed_1",
+                                    "InitValue": "alberta_onselfammostoragedestroyed_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_onselfammostoragedestroyed_2",
+                                    "InitValue": "alberta_onselfammostoragedestroyed_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillefficiencychanneling",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_skillefficiency_channeling_1",
+                                    "InitValue": "alberta_skillefficiency_channeling_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_skillefficiency_channeling_2",
+                                    "InitValue": "alberta_skillefficiency_channeling_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillfireatwill",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_skillfire_at_will_1",
+                                    "InitValue": "alberta_skillfire_at_will_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_skillfire_at_will_2",
+                                    "InitValue": "alberta_skillfire_at_will_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldefensivefire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_skilldefensive_fire_1",
+                                    "InitValue": "alberta_skilldefensive_fire_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_skilldefensive_fire_2",
+                                    "InitValue": "alberta_skilldefensive_fire_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldestructionritual",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_skilldestruction_ritual_1",
+                                    "InitValue": "alberta_skilldestruction_ritual_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "alberta_skilldestruction_ritual_2",
+                                    "InitValue": "alberta_skilldestruction_ritual_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_1",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_2",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_3",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_4",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_5",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_6",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_7",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_8",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S1_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S1_9",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S1_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_1",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_2",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_3",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_4",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_5",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_6",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_7",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_8",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_9",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff13_S2_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Rec_Qoff13_S2_10",
+                                    "InitValue": "alberta_Q_Rec_Qoff13_S2_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_1",
+                                    "InitValue": "alberta_Q_Qoff13_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_2",
+                                    "InitValue": "alberta_Q_Qoff13_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_3",
+                                    "InitValue": "alberta_Q_Qoff13_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_4",
+                                    "InitValue": "alberta_Q_Qoff13_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_5",
+                                    "InitValue": "alberta_Q_Qoff13_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_6",
+                                    "InitValue": "alberta_Q_Qoff13_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_7",
+                                    "InitValue": "alberta_Q_Qoff13_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_8",
+                                    "InitValue": "alberta_Q_Qoff13_S1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_9",
+                                    "InitValue": "alberta_Q_Qoff13_S1_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_10",
+                                    "InitValue": "alberta_Q_Qoff13_S1_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_11",
+                                    "InitValue": "alberta_Q_Qoff13_S1_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S1_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S1_12",
+                                    "InitValue": "alberta_Q_Qoff13_S1_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_1",
+                                    "InitValue": "alberta_Q_Qoff13_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_2",
+                                    "InitValue": "alberta_Q_Qoff13_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_3",
+                                    "InitValue": "alberta_Q_Qoff13_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_4",
+                                    "InitValue": "alberta_Q_Qoff13_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_5",
+                                    "InitValue": "alberta_Q_Qoff13_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_6",
+                                    "InitValue": "alberta_Q_Qoff13_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S2_7",
+                                    "InitValue": "alberta_Q_Qoff13_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_1",
+                                    "InitValue": "alberta_Q_Qoff13_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_2",
+                                    "InitValue": "alberta_Q_Qoff13_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_3",
+                                    "InitValue": "alberta_Q_Qoff13_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_4",
+                                    "InitValue": "alberta_Q_Qoff13_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_5",
+                                    "InitValue": "alberta_Q_Qoff13_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S3_6",
+                                    "InitValue": "alberta_Q_Qoff13_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S4_1",
+                                    "InitValue": "alberta_Q_Qoff13_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S4_2",
+                                    "InitValue": "alberta_Q_Qoff13_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S4_3",
+                                    "InitValue": "alberta_Q_Qoff13_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S4_4",
+                                    "InitValue": "alberta_Q_Qoff13_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_1",
+                                    "InitValue": "alberta_Q_Qoff13_S5_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_2",
+                                    "InitValue": "alberta_Q_Qoff13_S5_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_3",
+                                    "InitValue": "alberta_Q_Qoff13_S5_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_4",
+                                    "InitValue": "alberta_Q_Qoff13_S5_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_5",
+                                    "InitValue": "alberta_Q_Qoff13_S5_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S5_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S5_6",
+                                    "InitValue": "alberta_Q_Qoff13_S5_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_1",
+                                    "InitValue": "alberta_Q_Qoff13_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_2",
+                                    "InitValue": "alberta_Q_Qoff13_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_3",
+                                    "InitValue": "alberta_Q_Qoff13_S6_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_4",
+                                    "InitValue": "alberta_Q_Qoff13_S6_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_5",
+                                    "InitValue": "alberta_Q_Qoff13_S6_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_6",
+                                    "InitValue": "alberta_Q_Qoff13_S6_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_7",
+                                    "InitValue": "alberta_Q_Qoff13_S6_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S6_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S6_8",
+                                    "InitValue": "alberta_Q_Qoff13_S6_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S7_1",
+                                    "InitValue": "alberta_Q_Qoff13_S7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S7_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S7_2",
+                                    "InitValue": "alberta_Q_Qoff13_S7_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S7_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S7_3",
+                                    "InitValue": "alberta_Q_Qoff13_S7_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S7_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S7_4",
+                                    "InitValue": "alberta_Q_Qoff13_S7_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S7_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S7_5",
+                                    "InitValue": "alberta_Q_Qoff13_S7_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S8_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S8_1",
+                                    "InitValue": "alberta_Q_Qoff13_S8_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S8_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S8_2",
+                                    "InitValue": "alberta_Q_Qoff13_S8_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S8_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S8_3",
+                                    "InitValue": "alberta_Q_Qoff13_S8_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S8_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S8_4",
+                                    "InitValue": "alberta_Q_Qoff13_S8_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S8_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S8_5",
+                                    "InitValue": "alberta_Q_Qoff13_S8_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_1",
+                                    "InitValue": "alberta_Q_Qoff13_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_2",
+                                    "InitValue": "alberta_Q_Qoff13_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_3",
+                                    "InitValue": "alberta_Q_Qoff13_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_4",
+                                    "InitValue": "alberta_Q_Qoff13_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_5",
+                                    "InitValue": "alberta_Q_Qoff13_S9_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_6",
+                                    "InitValue": "alberta_Q_Qoff13_S9_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_7",
+                                    "InitValue": "alberta_Q_Qoff13_S9_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S9_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S9_8",
+                                    "InitValue": "alberta_Q_Qoff13_S9_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_start_1",
+                                    "InitValue": "alberta_vsQoff13Bram_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_start_2",
+                                    "InitValue": "alberta_vsQoff13Bram_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_start_3",
+                                    "InitValue": "alberta_vsQoff13Bram_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_start_4",
+                                    "InitValue": "alberta_vsQoff13Bram_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_start_5",
+                                    "InitValue": "alberta_vsQoff13Bram_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_end_1",
+                                    "InitValue": "alberta_vsQoff13Bram_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_end_2",
+                                    "InitValue": "alberta_vsQoff13Bram_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_end_3",
+                                    "InitValue": "alberta_vsQoff13Bram_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff13Bram_end_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_vsQoff13Bram_end_4",
+                                    "InitValue": "alberta_vsQoff13Bram_end_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_1",
+                                    "InitValue": "alberta_Q_Qoff13_S11_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_2",
+                                    "InitValue": "alberta_Q_Qoff13_S11_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_3",
+                                    "InitValue": "alberta_Q_Qoff13_S11_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_4",
+                                    "InitValue": "alberta_Q_Qoff13_S11_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_5",
+                                    "InitValue": "alberta_Q_Qoff13_S11_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_6",
+                                    "InitValue": "alberta_Q_Qoff13_S11_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_7",
+                                    "InitValue": "alberta_Q_Qoff13_S11_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_8",
+                                    "InitValue": "alberta_Q_Qoff13_S11_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_9",
+                                    "InitValue": "alberta_Q_Qoff13_S11_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_10",
+                                    "InitValue": "alberta_Q_Qoff13_S11_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_11",
+                                    "InitValue": "alberta_Q_Qoff13_S11_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff13_S11_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "alberta_Q_Qoff13_S11_12",
+                                    "InitValue": "alberta_Q_Qoff13_S11_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

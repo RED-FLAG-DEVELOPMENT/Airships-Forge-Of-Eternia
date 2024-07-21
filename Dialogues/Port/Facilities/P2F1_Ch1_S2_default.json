@@ -1,0 +1,201 @@
+[
+    {
+        "Key": "Dialogue",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideIn",
+                                    "InitValue": "SlideIn",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P2F1_Ch1_S2_default_1",
+                                    "InitValue": "jeand_P2F1_Ch1_S2_default_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P2F1_Ch1_S2_default_2",
+                                    "InitValue": "jeand_P2F1_Ch1_S2_default_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "jeand_P2F1_Ch1_S2_default_3",
+                                    "InitValue": "jeand_P2F1_Ch1_S2_default_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "4",
+                                    "InitValue": "4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ScriptedEvent": {
+                                "DialogScriptEnumType": {
+                                    "dialogueScriptType": "PortraitControl",
+                                    "$type": "DialogScriptEnumType"
+                                }
+                            },
+                            "Attr1": {
+                                "StringType": {
+                                    "_string": "SlideOut",
+                                    "InitValue": "SlideOut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Attr2": {
+                                "StringType": {
+                                    "_string": "Left",
+                                    "InitValue": "Left",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

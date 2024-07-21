@@ -1,0 +1,1689 @@
+[
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        3,
+                                        4
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        3,
+                                        4
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Governance",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        15,
+                                        16
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        15,
+                                        16
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Geosciences",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        10,
+                                        11,
+                                        12,
+                                        13,
+                                        14
+                                    ],
+                                    "InitValue": [
+                                        10,
+                                        11,
+                                        12,
+                                        13,
+                                        14
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_Supply_name",
+                                    "InitValue": "TarlandTown_fac_Supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_Supply_des",
+                                    "InitValue": "TarlandTown_fac_Supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_TarlandTown_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_TarlandTown_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorOffice_name",
+                                    "InitValue": "TarlandTown_fac_MayorOffice_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorOffice_des",
+                                    "InitValue": "TarlandTown_fac_MayorOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorOffice_shortdes",
+                                    "InitValue": "TarlandTown_fac_MayorOffice_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Default",
+                                    "InitValue": "Default",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "ConstantineA_ch7"
+                                    ],
+                                    "InitValue": [
+                                        "ConstantineA_ch7"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch7_S4>=1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch7_S4>=1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorResidenceCh7_name",
+                                    "InitValue": "TarlandTown_fac_MayorResidenceCh7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorResidenceCh7_des",
+                                    "InitValue": "TarlandTown_fac_MayorResidenceCh7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_MayorResidenceCh7_shortdes",
+                                    "InitValue": "TarlandTown_fac_MayorResidenceCh7_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Residence1",
+                                    "InitValue": "Residence1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "TarlandMayor_ch7"
+                                    ],
+                                    "InitValue": [
+                                        "TarlandMayor_ch7"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item20==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item20==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_ConstructionSiteCh7_name",
+                                    "InitValue": "TarlandTown_fac_ConstructionSiteCh7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_ConstructionSiteCh7_des",
+                                    "InitValue": "TarlandTown_fac_ConstructionSiteCh7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_ConstructionSiteCh7_shortdes",
+                                    "InitValue": "TarlandTown_fac_ConstructionSiteCh7_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "EmptySite",
+                                    "InitValue": "EmptySite",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "TarlandForeman_ch7"
+                                    ],
+                                    "InitValue": [
+                                        "TarlandForeman_ch7"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item6==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item6==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_TavernCh7_name",
+                                    "InitValue": "TarlandTown_fac_TavernCh7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_TavernCh7_des",
+                                    "InitValue": "TarlandTown_fac_TavernCh7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_TavernCh7_shortdes",
+                                    "InitValue": "TarlandTown_fac_TavernCh7_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Tavern",
+                                    "InitValue": "Tavern",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Courier_ch7"
+                                    ],
+                                    "InitValue": [
+                                        "Courier_ch7"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch7_S11==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch7_S11==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_Mine_name",
+                                    "InitValue": "TarlandTown_fac_Mine_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_Mine_des",
+                                    "InitValue": "TarlandTown_fac_Mine_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_TarlandTown_Mine"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_TarlandTown_Mine"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_name",
+                                    "InitValue": "GenSupply_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_des",
+                                    "InitValue": "GenSupply_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_shortdes",
+                                    "InitValue": "GenSupply_fac_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "SupplyStation",
+                                    "InitValue": "SupplyStation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "SupplyStation"
+                                    ],
+                                    "InitValue": [
+                                        "SupplyStation"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "TarlandTown_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "TarlandTown_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandTown_fac_store_hub_name",
+                                    "InitValue": "TarlandTown_fac_store_hub_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_des",
+                                    "InitValue": "Gen_fac_store_hub_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_shortdes",
+                                    "InitValue": "Gen_fac_store_hub_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_TarlandTown_Hub"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_TarlandTown_Hub"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q1_name",
+                                    "InitValue": "Gen_fac_logis_q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_S",
+                                    "InitValue": "Logistic_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P68_q1"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P68_q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_q2_name",
+                                    "InitValue": "Gen_fac_logis_q2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_M",
+                                    "InitValue": "Logistic_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P68_q2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P68_q2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "store_Geoscience_Gen_name",
+                                    "InitValue": "store_Geoscience_Gen_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "store_Geoscience_Gen_des",
+                                    "InitValue": "store_Geoscience_Gen_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Mines",
+                                    "InitValue": "Mines",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Mine",
+                                    "InitValue": "Mine",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_Geoscience_TarlandTown"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_Geoscience_TarlandTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Mines_name",
+                                    "InitValue": "Gen_fac_ind_Mines_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Mines",
+                                    "InitValue": "Mines",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Mine",
+                                    "InitValue": "Mine",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Mines_TarlandTown"
+                                    ],
+                                    "InitValue": [
+                                        "Mines_TarlandTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_fir2:20|mat_heavyMachinery:4|permit_Aberdonia0:1|currency1:2000",
+                                        "mat_fir2:80|mat_steelBeam:40|mat_heavyMachinery:10|currency1:4000",
+                                        "mat_constructionBlock:40|mat_steamEngine:4|mat_heavyMachinery:20|currency1:14000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_fir2:20|mat_heavyMachinery:4|permit_Aberdonia0:1|currency1:2000",
+                                        "mat_fir2:80|mat_steelBeam:40|mat_heavyMachinery:10|currency1:4000",
+                                        "mat_constructionBlock:40|mat_steamEngine:4|mat_heavyMachinery:20|currency1:14000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Foundry_name",
+                                    "InitValue": "Gen_fac_ind_Foundry_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Foundry",
+                                    "InitValue": "Foundry",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Foundry",
+                                    "InitValue": "Foundry",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Foundry_TarlandTown"
+                                    ],
+                                    "InitValue": [
+                                        "Foundry_TarlandTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_largeCrucibles:1|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_largeCrucibles:1|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Smithies_name",
+                                    "InitValue": "Gen_fac_ind_Smithies_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Blacksmith",
+                                    "InitValue": "Blacksmith",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Blacksmith",
+                                    "InitValue": "Blacksmith",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Smithies_TarlandTown"
+                                    ],
+                                    "InitValue": [
+                                        "Smithies_TarlandTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:12000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_limestone1:40|mat_steelBeam:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:12000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Masons_name",
+                                    "InitValue": "Gen_fac_ind_Masons_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Masonry",
+                                    "InitValue": "Masonry",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Masonry",
+                                    "InitValue": "Masonry",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Masonry_TarlandTown"
+                                    ],
+                                    "InitValue": [
+                                        "Masonry_TarlandTown"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:15000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:40|mat_heavyMachinery:10|permit_Aberdonia0:1|currency1:15000",
+                                        "mat_constructionBlock:150|mat_steelBeam:80|mat_craneComponents:80|currency1:20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LHQ_Gen_fac_des",
+                                    "InitValue": "LHQ_Gen_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Planning",
+                                    "InitValue": "Planning",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "LHQ_TarlandTown_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "LHQ_TarlandTown_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenMarshal_fac_name",
+                                    "InitValue": "GenMarshal_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "InitValue": "BluegladeTown_fac_Q2_MarshalsOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Meeting",
+                                    "InitValue": "Meeting",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "FHQ_TarlandTown_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "FHQ_TarlandTown_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        6
+                                    ],
+                                    "InitValue": [
+                                        6
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Aberdonia0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        7,
+                                        8,
+                                        9
+                                    ],
+                                    "InitValue": [
+                                        7,
+                                        8,
+                                        9
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Aberdonia0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Aberdonia0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

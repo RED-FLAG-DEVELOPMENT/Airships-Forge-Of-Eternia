@@ -1,0 +1,414 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "vsWetWilly3_Start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsWetWilly3_Start_1",
+                                    "InitValue": "matildaw_vsWetWilly3_Start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsWetWilly3_Start_2",
+                                    "InitValue": "matildaw_vsWetWilly3_Start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Hostile_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsWetWilly3_Hostile_1",
+                                    "InitValue": "matildaw_vsWetWilly3_Hostile_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsWetWilly3_Lose_1",
+                                    "InitValue": "matildaw_vsWetWilly3_Lose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh3WetWilly_start_1",
+                                    "InitValue": "matildaw_vsCh3WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh3WetWilly_start_2",
+                                    "InitValue": "matildaw_vsCh3WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh3WetWilly_defeated_1",
+                                    "InitValue": "matildaw_vsCh3WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_hostilelose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh4WetWilly_hostilelose_1",
+                                    "InitValue": "matildaw_vsCh4WetWilly_hostilelose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh5WetWilly_defeated_1",
+                                    "InitValue": "matildaw_vsCh5WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh6WetWilly_defeated_1",
+                                    "InitValue": "matildaw_vsCh6WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_vsCh6WetWilly_defeated_2",
+                                    "InitValue": "matildaw_vsCh6WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_1",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_2",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_3",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_4",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S9_Turncoat_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S13_1",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S13_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S13_2",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S13_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch8_S13_3",
+                                    "InitValue": "matildaw_Q_Main_Ch8_S13_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S9_1",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S9_2",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S9_3",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S9_4",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S10_1",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S10_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S10_2",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S10_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S12_1",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S12_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S12_2",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S12_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "matildaw_Q_Main_Ch9_S12_3",
+                                    "InitValue": "matildaw_Q_Main_Ch9_S12_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

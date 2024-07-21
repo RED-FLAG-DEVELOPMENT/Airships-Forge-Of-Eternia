@@ -1,0 +1,312 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0\n",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_0_name",
+                                    "InitValue": "Pirnmill_RP_QuestID_0_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_0_des",
+                                    "InitValue": "Pirnmill_RP_QuestID_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_0_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_0_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "GuideLocation": {
+                                "LocationPointEnumListType": {
+                                    "locationTypeList": [
+                                        "SCRIPTED_ENCOUNTER"
+                                    ],
+                                    "$type": "LocationPointEnumListType"
+                                }
+                            },
+                            "GuideLocationID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        10
+                                    ],
+                                    "InitValue": [
+                                        10
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_1_name",
+                                    "InitValue": "Pirnmill_RP_QuestID_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_1_des",
+                                    "InitValue": "Pirnmill_RP_QuestID_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_1_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_1_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "GuideLocation": {
+                                "LocationPointEnumListType": {
+                                    "locationTypeList": [
+                                        "PORT"
+                                    ],
+                                    "$type": "LocationPointEnumListType"
+                                }
+                            },
+                            "GuideLocationID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_2_name",
+                                    "InitValue": "Pirnmill_RP_QuestID_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_2_des",
+                                    "InitValue": "Pirnmill_RP_QuestID_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_1_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_1_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_1_2"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_1_2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "GuideLocation": {
+                                "LocationPointEnumListType": {
+                                    "locationTypeList": [
+                                        "PORT"
+                                    ],
+                                    "$type": "LocationPointEnumListType"
+                                }
+                            },
+                            "GuideLocationID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_3_name",
+                                    "InitValue": "Pirnmill_RP_QuestID_3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_QuestID_3_des",
+                                    "InitValue": "Pirnmill_RP_QuestID_3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_tools0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "goods_tools0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "goods_treasure0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

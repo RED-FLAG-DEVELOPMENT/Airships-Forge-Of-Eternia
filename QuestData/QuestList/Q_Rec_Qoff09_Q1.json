@@ -1,0 +1,82 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff09_Q1_name",
+                                    "InitValue": "Q_Rec_Qoff09_Q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff09_Q1_des",
+                                    "InitValue": "Q_Rec_Qoff09_Q1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Rec_Qoff09_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Rec_Qoff09_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Flag_Rec_Qoff09_Q1",
+                                        "1",
+                                        "currency1",
+                                        "500"
+                                    ],
+                                    "InitValue": [
+                                        "Flag_Rec_Qoff09_Q1",
+                                        "1",
+                                        "currency1",
+                                        "500"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff09_2",
+                                    "InitValue": "Q_Rec_Qoff09_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

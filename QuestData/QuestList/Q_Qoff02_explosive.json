@@ -1,0 +1,92 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff02_S7_name",
+                                    "InitValue": "Q_Qoff02_S7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff02_S7_des",
+                                    "InitValue": "Q_Qoff02_S7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff02_item7",
+                                        "1",
+                                        "mat_smokelessPowder",
+                                        "10",
+                                        "mat_miningExplosive",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff02_item7",
+                                        "1",
+                                        "mat_smokelessPowder",
+                                        "10",
+                                        "mat_miningExplosive",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff02_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff02_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff02_S7",
+                                    "InitValue": "Q_Qoff02_S7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

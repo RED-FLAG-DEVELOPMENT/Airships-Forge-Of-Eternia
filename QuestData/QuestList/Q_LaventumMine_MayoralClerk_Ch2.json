@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "LaventumMine_Clerk_ch2_1_name",
+                                    "InitValue": "LaventumMine_Clerk_ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "LaventumMine_Clerk_ch2_1_des",
+                                    "InitValue": "LaventumMine_Clerk_ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item12",
+                                        "1",
+                                        "key_chap2_item13",
+                                        "1",
+                                        "flag_Q_LaventumMine_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item12",
+                                        "1",
+                                        "key_chap2_item13",
+                                        "1",
+                                        "flag_Q_LaventumMine_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item14",
+                                        "1",
+                                        "flag_Q_IpswickSpring_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item14",
+                                        "1",
+                                        "flag_Q_IpswickSpring_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S14",
+                                    "InitValue": "Q_Main_Ch2_S14",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

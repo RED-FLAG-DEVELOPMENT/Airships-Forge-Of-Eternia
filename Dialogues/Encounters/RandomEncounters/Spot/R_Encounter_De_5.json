@@ -1,0 +1,153 @@
+[
+    {
+        "Key": "Dialogue",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "e_common_t1_merchantship_sp_1",
+                                    "InitValue": "e_common_t1_merchantship_sp_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "e_common_t1_merchantship_sp_2",
+                                    "InitValue": "e_common_t1_merchantship_sp_2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "e_common_t1_merchantship_sp_3",
+                                    "InitValue": "e_common_t1_merchantship_sp_3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WhoSpeaks": {
+                                "StringType": {
+                                    "_string": "VIP{0}",
+                                    "InitValue": "VIP{0}",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "SpeechLines": {
+                                "StringType": {
+                                    "_string": "e_common_t1_merchantship_sp_4",
+                                    "InitValue": "e_common_t1_merchantship_sp_4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Color": {
+                                "StringType": {
+                                    "_string": "#ffffff",
+                                    "InitValue": "#ffffff",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

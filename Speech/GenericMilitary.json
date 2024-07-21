@@ -1,0 +1,834 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_onselfretreating",
+                                    "InitValue": "genericmilitary_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_onselfsurrender",
+                                    "InitValue": "genericmilitary_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_start_1",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_start_2",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_start_3",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_start_4",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_start_5",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_defeated_1",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_defeated_2",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_defeated_3",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5RearAdmiralThomas_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh5RearAdmiralThomas_defeated_4",
+                                    "InitValue": "genericmilitary_vsCh5RearAdmiralThomas_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff05_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Rec_Qoff05_S3_1",
+                                    "InitValue": "genericmilitary_Q_Rec_Qoff05_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff05_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Rec_Qoff05_S3_2",
+                                    "InitValue": "genericmilitary_Q_Rec_Qoff05_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_1",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_2",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_3",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_4",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_5",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S9_Turncoat_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_6",
+                                    "InitValue": "genericmilitary_Q_Main_Ch8_S9_Turncoat_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_start_1",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_start_2",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_end_1",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_end_2",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_end_3",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8RSPRescuer_end_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsCh8RSPRescuer_end_4",
+                                    "InitValue": "genericmilitary_vsCh8RSPRescuer_end_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Grimshaw_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Grimshaw_start_1",
+                                    "InitValue": "genericmilitary_vsQoff03Grimshaw_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Grimshaw_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Grimshaw_start_2",
+                                    "InitValue": "genericmilitary_vsQoff03Grimshaw_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Grimshaw_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Grimshaw_start_3",
+                                    "InitValue": "genericmilitary_vsQoff03Grimshaw_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Grimshaw_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Grimshaw_start_4",
+                                    "InitValue": "genericmilitary_vsQoff03Grimshaw_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Grimshaw_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Grimshaw_start_5",
+                                    "InitValue": "genericmilitary_vsQoff03Grimshaw_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_1",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_2",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_3",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_4",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_5",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff03Niall_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff03Niall_start_6",
+                                    "InitValue": "genericmilitary_vsQoff03Niall_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_1",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_2",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_3",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_4",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_5",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_start_6",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_defeated_1",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_defeated_2",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Lieutenant_defeated_3",
+                                    "InitValue": "genericmilitary_vsQoff06Lieutenant_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_start_1",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_start_2",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_start_3",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_start_4",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_start_5",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_defeated_1",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_defeated_2",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_defeated_3",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_defeated_4",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmilitary_vsQoff06Boss_defeated_5",
+                                    "InitValue": "genericmilitary_vsQoff06Boss_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

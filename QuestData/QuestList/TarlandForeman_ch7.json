@@ -1,0 +1,84 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "TarlandForeman_Q_Main_Ch7_S6_Heinrich_S2_name",
+                                    "InitValue": "TarlandForeman_Q_Main_Ch7_S6_Heinrich_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "TarlandForeman_Q_Main_Ch7_S6_Heinrich_S2_des",
+                                    "InitValue": "TarlandForeman_Q_Main_Ch7_S6_Heinrich_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6_Heinrich_S2",
+                                    "InitValue": "Q_Main_Ch7_S6_Heinrich_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

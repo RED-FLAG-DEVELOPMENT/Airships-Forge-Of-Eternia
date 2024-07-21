@@ -1,0 +1,859 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "greeting1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting1",
+                                    "InitValue": "karaw_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting2",
+                                    "InitValue": "karaw_greeting2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting3",
+                                    "InitValue": "karaw_greeting3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting4",
+                                    "InitValue": "karaw_greeting4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting5",
+                                    "InitValue": "karaw_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_goodbye1",
+                                    "InitValue": "karaw_goodbye1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_goodbye2",
+                                    "InitValue": "karaw_goodbye2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_goodbye3",
+                                    "InitValue": "karaw_goodbye3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_goodbye4",
+                                    "InitValue": "karaw_goodbye4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_goodbye5",
+                                    "InitValue": "karaw_goodbye5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_1",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_2",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_3",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_4",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_5",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_6",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_7",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_NPC69_S1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F1_NPC69_S1_8",
+                                    "InitValue": "karaw_P2F1_NPC69_S1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "openning_store",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_greeting1",
+                                    "InitValue": "karaw_greeting1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_greeting2",
+                                    "InitValue": "karaw_greeting2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "karaw_greeting3",
+                                    "InitValue": "karaw_greeting3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID3": {
+                                "StringType": {
+                                    "_string": "karaw_greeting4",
+                                    "InitValue": "karaw_greeting4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID4": {
+                                "StringType": {
+                                    "_string": "karaw_greeting5",
+                                    "InitValue": "karaw_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_player_insuffe_fund1",
+                                    "InitValue": "karaw_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_player_insuffe_fund2",
+                                    "InitValue": "karaw_player_insuffe_fund2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "karaw_player_insuffe_fund3",
+                                    "InitValue": "karaw_player_insuffe_fund3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_merchant_insuffie_fund1",
+                                    "InitValue": "karaw_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_merchant_insuffie_fund2",
+                                    "InitValue": "karaw_merchant_insuffie_fund2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_cargo_full1",
+                                    "InitValue": "karaw_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_cargo_full2",
+                                    "InitValue": "karaw_cargo_full2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_out_of_stock1",
+                                    "InitValue": "karaw_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_out_of_stock2",
+                                    "InitValue": "karaw_out_of_stock2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_needless_item1",
+                                    "InitValue": "karaw_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "karaw_needless_item2",
+                                    "InitValue": "karaw_needless_item2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_0",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_0",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_1",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_2",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_3",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_4",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_5",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_6",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_7",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_GoverOffice_1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_PirnmillRP_GoverOffice_1_8",
+                                    "InitValue": "karaw_PirnmillRP_GoverOffice_1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F14_NPC69_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F14_NPC69_S1_1",
+                                    "InitValue": "karaw_P2F14_NPC69_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F14_NPC69_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F14_NPC69_S1_2",
+                                    "InitValue": "karaw_P2F14_NPC69_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F14_NPC69_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F14_NPC69_S1_3",
+                                    "InitValue": "karaw_P2F14_NPC69_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F14_NPC69_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F14_NPC69_S1_4",
+                                    "InitValue": "karaw_P2F14_NPC69_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F14_NPC69_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_P2F14_NPC69_S1_5",
+                                    "InitValue": "karaw_P2F14_NPC69_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_1",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_2",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_3",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_4",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_5",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_6",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_7",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_8",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S4_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_Q_Main_Ch8_S4_9",
+                                    "InitValue": "karaw_Q_Main_Ch8_S4_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_vsCh10Wilkurs_start_1",
+                                    "InitValue": "karaw_vsCh10Wilkurs_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_vsCh10Wilkurs_start_2",
+                                    "InitValue": "karaw_vsCh10Wilkurs_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_50intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_vsCh10Wilkurs_50intr_1",
+                                    "InitValue": "karaw_vsCh10Wilkurs_50intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_vsCh10Wilkurs_defeated_1",
+                                    "InitValue": "karaw_vsCh10Wilkurs_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "karaw_vsCh10Wilkurs_defeated_2",
+                                    "InitValue": "karaw_vsCh10Wilkurs_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

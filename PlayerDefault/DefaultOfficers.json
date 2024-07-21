@@ -1,0 +1,9 @@
+{"OfficerList":[{"UUID":0,"BaseID":143,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":20000,"LocationId":0}},
+                
+/*
+{"UUID":1,"BaseID":7,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":20000,"LocationId":0}},
+		{"UUID":2,"BaseID":8,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":20000,"LocationId":0}},
+
+                {"UUID":3,"BaseID":52,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":100000,"LocationId":0}},
+		{"UUID":4,"BaseID":53,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":100000,"LocationId":0}},
+		{"UUID":5,"BaseID":54,"CurrentLevel":1,"CurrentEXP":0,"VictoryPoint":0,"CurrentRelationship":0,"Location":{"LocationType":100000,"LocationId":0}}*/]}

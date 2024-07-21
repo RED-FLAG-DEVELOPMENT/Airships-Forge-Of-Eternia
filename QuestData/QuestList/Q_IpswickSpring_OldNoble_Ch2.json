@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "OldNoble_Q_Main_Ch2_2_name",
+                                    "InitValue": "OldNoble_Q_Main_Ch2_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "OldNoble_Q_Main_Ch2_2_des",
+                                    "InitValue": "OldNoble_Q_Main_Ch2_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item22",
+                                        "1",
+                                        "key_chap2_item8",
+                                        "1",
+                                        "flag_Q_IpswickSpring_OldNoble_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item22",
+                                        "1",
+                                        "key_chap2_item8",
+                                        "1",
+                                        "flag_Q_IpswickSpring_OldNoble_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item23",
+                                        "1",
+                                        "currency1",
+                                        "30000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item23",
+                                        "1",
+                                        "currency1",
+                                        "30000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S22",
+                                    "InitValue": "Q_Main_Ch2_S22",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

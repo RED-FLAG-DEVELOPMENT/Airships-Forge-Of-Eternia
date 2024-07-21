@@ -1,0 +1,92 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch9_S1_Name",
+                                    "InitValue": "AgathaS_Q_Main_Ch9_S1_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch9_S1_Des",
+                                    "InitValue": "AgathaS_Q_Main_Ch9_S1_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item32",
+                                        "1",
+                                        "key_chap8_item33",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item32",
+                                        "1",
+                                        "key_chap8_item33",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item1",
+                                        "1",
+                                        "currency1",
+                                        "39000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item1",
+                                        "1",
+                                        "currency1",
+                                        "39000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S1",
+                                    "InitValue": "Q_Main_Ch9_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

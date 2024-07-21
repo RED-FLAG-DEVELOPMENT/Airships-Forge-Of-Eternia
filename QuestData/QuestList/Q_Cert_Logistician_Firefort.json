@@ -1,0 +1,277 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S1_name",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S1_des",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "5825"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "5825"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item1",
+                                        "1",
+                                        "mat_cocoa0",
+                                        "65"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item1",
+                                        "1",
+                                        "mat_cocoa0",
+                                        "65"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S2_name",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S2_des",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item2",
+                                        "1",
+                                        "currency1",
+                                        "9700"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item2",
+                                        "1",
+                                        "currency1",
+                                        "9700"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item3",
+                                        "1",
+                                        "mat_beehive0",
+                                        "80"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item3",
+                                        "1",
+                                        "mat_beehive0",
+                                        "80"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S3_name",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S3_des",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item4",
+                                        "1",
+                                        "currency1",
+                                        "12500"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item4",
+                                        "1",
+                                        "currency1",
+                                        "12500"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item5",
+                                        "1",
+                                        "mat_latex0",
+                                        "100"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item5",
+                                        "1",
+                                        "mat_latex0",
+                                        "100"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S4_name",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Cert_Logistician_Firefort_S4_des",
+                                    "InitValue": "Q_Cert_Logistician_Firefort_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_career2_0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_career2_0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

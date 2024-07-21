@@ -1,0 +1,964 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch6_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_1",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_2",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_3",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_4",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_5",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_6",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_7",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_8",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_9",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S4_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S4_10",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S4_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_1",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_2",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_3",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_4",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_5",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_6",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S14_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Main_Ch6_S14_7",
+                                    "InitValue": "brunhildw_Q_Main_Ch6_S14_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "openning_store",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_openning_store1",
+                                    "InitValue": "brunhildw_openning_store1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_openning_store2",
+                                    "InitValue": "brunhildw_openning_store2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "brunhildw_openning_store3",
+                                    "InitValue": "brunhildw_openning_store3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID3": {
+                                "StringType": {
+                                    "_string": "brunhildw_openning_store4",
+                                    "InitValue": "brunhildw_openning_store4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID4": {
+                                "StringType": {
+                                    "_string": "brunhildw_openning_store5",
+                                    "InitValue": "brunhildw_openning_store5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_player_insuffe_fund1",
+                                    "InitValue": "brunhildw_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_player_insuffe_fund2",
+                                    "InitValue": "brunhildw_player_insuffe_fund2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "brunhildw_player_insuffe_fund3",
+                                    "InitValue": "brunhildw_player_insuffe_fund3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_merchant_insuffie_fund1",
+                                    "InitValue": "brunhildw_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_merchant_insuffie_fund2",
+                                    "InitValue": "brunhildw_merchant_insuffie_fund2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_cargo_full1",
+                                    "InitValue": "brunhildw_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_cargo_full2",
+                                    "InitValue": "brunhildw_cargo_full2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_out_of_stock1",
+                                    "InitValue": "brunhildw_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_out_of_stock2",
+                                    "InitValue": "brunhildw_out_of_stock2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_needless_item1",
+                                    "InitValue": "brunhildw_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "brunhildw_needless_item2",
+                                    "InitValue": "brunhildw_needless_item2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_1",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_2",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_3",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_4",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_5",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_6",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_7",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_8",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_A_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_9",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_A_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_1",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_2",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_3",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_4",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_5",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_6",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_7",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_intro_Brunhilde_B_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_8",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_intro_Brunhilde_B_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_1",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_2",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_3",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_4",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_5",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_6",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_7",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_8",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_9",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S2_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_Q_Com_Conglomerate_S2_10",
+                                    "InitValue": "brunhildw_Q_Com_Conglomerate_S2_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_start_1",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_start_2",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_start_3",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_start_4",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_50intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_50intr_1",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_50intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_defeated_1",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_defeated_2",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_defeated_3",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "brunhildw_vsCh10Wilkurs_defeated_4",
+                                    "InitValue": "brunhildw_vsCh10Wilkurs_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

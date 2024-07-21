@@ -1,0 +1,82 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_4thSRN_name",
+                                    "InitValue": "Q_Com_4thSRN_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_4thSRN_des",
+                                    "InitValue": "Q_Com_4thSRN_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "consume_material0",
+                                        "60",
+                                        "consume_ammo0",
+                                        "60"
+                                    ],
+                                    "InitValue": [
+                                        "consume_material0",
+                                        "60",
+                                        "consume_ammo0",
+                                        "60"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_4thSRN",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_4thSRN",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_4thSRN",
+                                    "InitValue": "OnComQuestListDelivery_4thSRN",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

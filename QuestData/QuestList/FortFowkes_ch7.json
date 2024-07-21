@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S1_name",
+                                    "InitValue": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S1_des",
+                                    "InitValue": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item5_3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item5_3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item13",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6_FortFowkes_S1",
+                                    "InitValue": "Q_Main_Ch7_S6_FortFowkes_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S2_name",
+                                    "InitValue": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S2_des",
+                                    "InitValue": "FortFowkes_Q_Main_Ch7_S6_FortFowkes_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item13",
+                                        "1",
+                                        "weapon12",
+                                        "2",
+                                        "engine9",
+                                        "2",
+                                        "flag_Q_Main_Ch7_S6_3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item13",
+                                        "1",
+                                        "weapon12",
+                                        "2",
+                                        "engine9",
+                                        "2",
+                                        "flag_Q_Main_Ch7_S6_3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item14",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item14",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6_FortFowkes_S2",
+                                    "InitValue": "Q_Main_Ch7_S6_FortFowkes_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

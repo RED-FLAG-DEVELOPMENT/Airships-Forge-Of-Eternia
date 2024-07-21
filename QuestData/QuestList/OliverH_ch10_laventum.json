@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "OliverH_Q_Main_Ch10_S13_name",
+                                    "InitValue": "OliverH_Q_Main_Ch10_S13_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "OliverH_Q_Main_Ch10_S13_des",
+                                    "InitValue": "OliverH_Q_Main_Ch10_S13_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item18",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item18",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S13",
+                                    "InitValue": "Q_Main_Ch10_S13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "OliverH_Q_Main_Ch10_S17_name",
+                                    "InitValue": "OliverH_Q_Main_Ch10_S17_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "OliverH_Q_Main_Ch10_S17_des",
+                                    "InitValue": "OliverH_Q_Main_Ch10_S17_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item21",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S12",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item21",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item22",
+                                        "1",
+                                        "flag_ch10_WilkursLeave",
+                                        "1",
+                                        "currency1",
+                                        "100000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item22",
+                                        "1",
+                                        "flag_ch10_WilkursLeave",
+                                        "1",
+                                        "currency1",
+                                        "100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S17",
+                                    "InitValue": "Q_Main_Ch10_S17",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

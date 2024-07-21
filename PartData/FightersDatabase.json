@@ -1,0 +1,2585 @@
+[
+    {
+        "Key": "FightersData",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Fighter000",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter000",
+                                    "InitValue": "Fighter000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter000_name",
+                                    "InitValue": "Fighter000_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 560,
+                                    "InitValue": 560,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 100,
+                                    "InitValue": 100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 2394,
+                                    "InitValue": 2394,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 1910,
+                                    "InitValue": 1910,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 611,
+                                    "InitValue": 611,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Lance",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Lance000",
+                                    "InitValue": "Lance000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 1.31,
+                                    "InitValue": 1.31,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 16,
+                                    "InitValue": 16,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 720,
+                                    "InitValue": 720,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Kinetic_Lance_M",
+                                    "InitValue": "Play_Fire_Kinetic_Lance_M",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter001",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter001",
+                                    "InitValue": "Fighter001",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter001_name",
+                                    "InitValue": "Fighter001_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 4200,
+                                    "InitValue": 4200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 25,
+                                    "InitValue": 25,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 350,
+                                    "InitValue": 350,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 8189,
+                                    "InitValue": 8189,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 6530,
+                                    "InitValue": 6530,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 2085,
+                                    "InitValue": 2085,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Lance",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Lance004",
+                                    "InitValue": "Lance004",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 1.17,
+                                    "InitValue": 1.17,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.25,
+                                    "InitValue": 0.25,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 84,
+                                    "InitValue": 84,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 3024,
+                                    "InitValue": 3024,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Kinetic_Lance_M",
+                                    "InitValue": "Play_Fire_Kinetic_Lance_M",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter002",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter002",
+                                    "InitValue": "Fighter002",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter002_name",
+                                    "InitValue": "Fighter002_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 2380,
+                                    "InitValue": 2380,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 500,
+                                    "InitValue": 500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 10726,
+                                    "InitValue": 10726,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 3848,
+                                    "InitValue": 3848,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 2730,
+                                    "InitValue": 2730,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet007",
+                                    "InitValue": "Bullet007",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 230,
+                                    "InitValue": 230,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 0.45,
+                                    "InitValue": 0.45,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 900,
+                                    "InitValue": 900,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Musket",
+                                    "InitValue": "Play_Fire_Musket",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter003",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter003",
+                                    "InitValue": "Fighter003",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter003_name",
+                                    "InitValue": "Fighter003_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 4080,
+                                    "InitValue": 4080,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 550,
+                                    "InitValue": 550,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 11286,
+                                    "InitValue": 11286,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 4050,
+                                    "InitValue": 4050,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 2875,
+                                    "InitValue": 2875,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet013",
+                                    "InitValue": "Bullet013",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 265,
+                                    "InitValue": 265,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 2.2,
+                                    "InitValue": 2.2,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.1,
+                                    "InitValue": 0.1,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 2400,
+                                    "InitValue": 2400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Musket",
+                                    "InitValue": "Play_Fire_Musket",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter004",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter004",
+                                    "InitValue": "Fighter004",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter004_name",
+                                    "InitValue": "Fighter004_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 10200,
+                                    "InitValue": 10200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 35,
+                                    "InitValue": 35,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 3000,
+                                    "InitValue": 3000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 25,
+                                    "InitValue": 25,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 960,
+                                    "InitValue": 960,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 16929,
+                                    "InitValue": 16929,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 9045,
+                                    "InitValue": 9045,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 4313,
+                                    "InitValue": 4313,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Lance",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Lance006",
+                                    "InitValue": "Lance006",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 1.36,
+                                    "InitValue": 1.36,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.25,
+                                    "InitValue": 0.25,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 2160,
+                                    "InitValue": 2160,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Kinetic_Lance_M",
+                                    "InitValue": "Play_Fire_Kinetic_Lance_M",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter005",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter005",
+                                    "InitValue": "Fighter005",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 5,
+                                    "InitValue": 5,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter005_name",
+                                    "InitValue": "Fighter005_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 8000,
+                                    "InitValue": 8000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 50,
+                                    "InitValue": 50,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 1120,
+                                    "InitValue": 1120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 19751,
+                                    "InitValue": 19751,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 10560,
+                                    "InitValue": 10560,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 5031,
+                                    "InitValue": 5031,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Missile",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Missile003",
+                                    "InitValue": "Missile003",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 240,
+                                    "InitValue": 240,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 1210,
+                                    "InitValue": 1210,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 1210,
+                                    "InitValue": 1210,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Kinetic_Lance_M",
+                                    "InitValue": "Play_Fire_Kinetic_Lance_M",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter006",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter006",
+                                    "InitValue": "Fighter006",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter006_name",
+                                    "InitValue": "Fighter006_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 5400,
+                                    "InitValue": 5400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 40,
+                                    "InitValue": 40,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 850,
+                                    "InitValue": 850,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 7524,
+                                    "InitValue": 7524,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet001",
+                                    "InitValue": "Bullet001",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 230,
+                                    "InitValue": 230,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 2.32,
+                                    "InitValue": 2.32,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 92,
+                                    "InitValue": 92,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 1656,
+                                    "InitValue": 1656,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SpawnSound": {
+                                "StringType": {
+                                    "_string": "Play_Ship_Propeller",
+                                    "InitValue": "Play_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "DespawnSound": {
+                                "StringType": {
+                                    "_string": "Stop_Ship_Propeller",
+                                    "InitValue": "Stop_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Cannon_M",
+                                    "InitValue": "Play_Fire_Cannon_M",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter007",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter007",
+                                    "InitValue": "Fighter007",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 7,
+                                    "InitValue": 7,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter007_name",
+                                    "InitValue": "Fighter007_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 45,
+                                    "InitValue": 45,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 900,
+                                    "InitValue": 900,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 7524,
+                                    "InitValue": 7524,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet005",
+                                    "InitValue": "Bullet005",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 140,
+                                    "InitValue": 140,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 2.35,
+                                    "InitValue": 2.35,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 7,
+                                    "InitValue": 7,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 105,
+                                    "InitValue": 105,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 2100,
+                                    "InitValue": 2100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SpawnSound": {
+                                "StringType": {
+                                    "_string": "Play_Ship_Propeller",
+                                    "InitValue": "Play_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "DespawnSound": {
+                                "StringType": {
+                                    "_string": "Stop_Ship_Propeller",
+                                    "InitValue": "Stop_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Cannon_L",
+                                    "InitValue": "Play_Fire_Cannon_L",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter008",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter008",
+                                    "InitValue": "Fighter008",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 8,
+                                    "InitValue": 8,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter008_name",
+                                    "InitValue": "Fighter008_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 4800,
+                                    "InitValue": 4800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 35,
+                                    "InitValue": 35,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 750,
+                                    "InitValue": 750,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 7524,
+                                    "InitValue": 7524,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet004",
+                                    "InitValue": "Bullet004",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 180,
+                                    "InitValue": 180,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 45,
+                                    "InitValue": 45,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 0.22,
+                                    "InitValue": 0.22,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.1,
+                                    "InitValue": 0.1,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 15,
+                                    "InitValue": 15,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 1650,
+                                    "InitValue": 1650,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SpawnSound": {
+                                "StringType": {
+                                    "_string": "Play_Ship_Propeller",
+                                    "InitValue": "Play_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "DespawnSound": {
+                                "StringType": {
+                                    "_string": "Stop_Ship_Propeller",
+                                    "InitValue": "Stop_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Rotary_Cannon_S",
+                                    "InitValue": "Play_Fire_Rotary_Cannon_S",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Fighter009",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter009",
+                                    "InitValue": "Fighter009",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PrefabID": {
+                                "IntType": {
+                                    "_int": 9,
+                                    "InitValue": 9,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Fighter009_name",
+                                    "InitValue": "Fighter009_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Hitpoint": {
+                                "IntType": {
+                                    "_int": 4800,
+                                    "InitValue": 4800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DamageResistance": {
+                                "IntType": {
+                                    "_int": 35,
+                                    "InitValue": 35,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShieldCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RechargeRate": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ReturnRange": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Mass": {
+                                "IntType": {
+                                    "_int": 800,
+                                    "InitValue": 800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Aerodynamic": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "Propulsion": {
+                                "IntType": {
+                                    "_int": 7524,
+                                    "InitValue": 7524,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Torque": {
+                                "IntType": {
+                                    "_int": 6000,
+                                    "InitValue": 6000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManoeuvringThrust": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsIgnoreCollide": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AIType": {
+                                "StringType": {
+                                    "_string": "Suicide",
+                                    "InitValue": "Suicide",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "CaptainID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "GunnerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "NavigatorID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "EngineerID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "QuartermasterID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectileTypes": {
+                                "ProjectileEnumType": {
+                                    "projectileType": "Bullet",
+                                    "$type": "ProjectileEnumType"
+                                }
+                            },
+                            "ProjectileID": {
+                                "StringType": {
+                                    "_string": "Bullet015",
+                                    "InitValue": "Bullet015",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "WeaponDirection": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponRange": {
+                                "IntType": {
+                                    "_int": 210,
+                                    "InitValue": 210,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BulletSpread": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "FiringArc": {
+                                "IntType": {
+                                    "_int": 45,
+                                    "InitValue": 45,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "IsNullifyable": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CooldownBetweenVolley": {
+                                "FloatType": {
+                                    "_float": 0.32,
+                                    "InitValue": 0.32,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ShotPerVolley": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProjectilePerShot": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CooldownBetweenShot": {
+                                "FloatType": {
+                                    "_float": 0.15,
+                                    "InitValue": 0.15,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "AmmoPerVolley": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SpawnSound": {
+                                "StringType": {
+                                    "_string": "Play_Ship_Propeller",
+                                    "InitValue": "Play_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "DespawnSound": {
+                                "StringType": {
+                                    "_string": "Stop_Ship_Propeller",
+                                    "InitValue": "Stop_Ship_Propeller",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActionSound": {
+                                "StringType": {
+                                    "_string": "Play_Fire_Rotary_Cannon_S",
+                                    "InitValue": "Play_Fire_Rotary_Cannon_S",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

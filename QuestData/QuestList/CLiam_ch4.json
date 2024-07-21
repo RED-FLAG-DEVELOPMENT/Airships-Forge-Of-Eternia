@@ -1,0 +1,151 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S1_name",
+                                    "InitValue": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S1_des",
+                                    "InitValue": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item5_3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item5_3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item13",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch4_S5_CLiam_S1",
+                                    "InitValue": "Q_Main_Ch4_S5_CLiam_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S4_name",
+                                    "InitValue": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S4_des",
+                                    "InitValue": "CLiam_ch4_Q_Main_Ch4_S5_CLiam_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item15",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item15",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item16",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item16",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch4_S5_CLiam_S4",
+                                    "InitValue": "Q_Main_Ch4_S5_CLiam_S4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

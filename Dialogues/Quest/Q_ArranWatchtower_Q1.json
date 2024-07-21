@@ -1,0 +1,71 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_ArranWatchtower_Q1_name",
+                                    "InitValue": "Q_ArranWatchtower_Q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_ArranWatchtower_Q1_des",
+                                    "InitValue": "Q_ArranWatchtower_Q1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Q_ArranWatchtower_Q1_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Q_ArranWatchtower_Q1_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_ArranWatchtower_Q1_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_ArranWatchtower_Q1_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

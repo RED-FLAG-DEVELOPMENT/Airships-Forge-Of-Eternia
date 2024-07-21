@@ -1,0 +1,69 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "PirnmillRP_2_S1_0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumOfficeManager_PirnmillRP_2_S1_0",
+                                    "InitValue": "SilberblumOfficeManager_PirnmillRP_2_S1_0",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_2_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumOfficeManager_PirnmillRP_2_S1_1",
+                                    "InitValue": "SilberblumOfficeManager_PirnmillRP_2_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_2_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumOfficeManager_PirnmillRP_2_S1_2",
+                                    "InitValue": "SilberblumOfficeManager_PirnmillRP_2_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_2_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumOfficeManager_PirnmillRP_2_S1_3",
+                                    "InitValue": "SilberblumOfficeManager_PirnmillRP_2_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

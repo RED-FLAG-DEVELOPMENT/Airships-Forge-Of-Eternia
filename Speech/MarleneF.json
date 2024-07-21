@@ -1,0 +1,339 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_1",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_2",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_3",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_4",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_5",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_6",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_7",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_8",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_9",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_10",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_11",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_12",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S1_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S1_13",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S1_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_1",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_2",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_3",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_4",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_5",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_6",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_7",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_8",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S6_Marlene_S4_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "marlenef_Q_Main_Ch7_S6_Marlene_S4_9",
+                                    "InitValue": "marlenef_Q_Main_Ch7_S6_Marlene_S4_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

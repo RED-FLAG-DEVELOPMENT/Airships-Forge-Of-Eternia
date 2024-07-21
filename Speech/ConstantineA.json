@@ -1,0 +1,504 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch7_S5_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_1",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_2",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_3",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_4",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_5",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_6",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_7",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_8",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_9",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_10",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_11",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_12",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_13",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S5_14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S5_14",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S5_14",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_1",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_2",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_3",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_4",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_5",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_6",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_7",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_8",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_9",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_10",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_11",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_12",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S8_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S8_13",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S8_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_1",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_2",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_3",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_4",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_5",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S11_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "constantinea_Q_Main_Ch7_S11_6",
+                                    "InitValue": "constantinea_Q_Main_Ch7_S11_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

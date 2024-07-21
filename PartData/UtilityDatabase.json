@@ -1,0 +1,227 @@
+[
+    {
+        "Key": "Utility",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "utility0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "utility0",
+                                    "InitValue": "utility0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "Utility",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "Utility",
+                                    "InitValue": "Utility",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "ut_small_restroom",
+                                    "InitValue": "ut_small_restroom",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 3200,
+                                    "InitValue": 3200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 25,
+                                    "InitValue": 25,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MoraleBonus": {
+                                "IntType": {
+                                    "_int": 100,
+                                    "InitValue": 100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TravelBonus": {
+                                "StringType": {
+                                    "_string": "N/A",
+                                    "InitValue": "N/A",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Visual": {
+                                "StringType": {
+                                    "_string": "N/A",
+                                    "InitValue": "N/A",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "utility1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "utility1",
+                                    "InitValue": "utility1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "Utility",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "Utility",
+                                    "InitValue": "Utility",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "ut_fishing_perch",
+                                    "InitValue": "ut_fishing_perch",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 12800,
+                                    "InitValue": 12800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 120,
+                                    "InitValue": 120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MoraleBonus": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TravelBonus": {
+                                "StringType": {
+                                    "_string": "Add 800-1500 supply every minute",
+                                    "InitValue": "Add 800-1500 supply every minute",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Visual": {
+                                "StringType": {
+                                    "_string": "Crews randomly shooting hooks at passing creatures",
+                                    "InitValue": "Crews randomly shooting hooks at passing creatures",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

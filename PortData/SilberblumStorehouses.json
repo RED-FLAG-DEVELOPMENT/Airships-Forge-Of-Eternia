@@ -1,0 +1,1252 @@
+[
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2,
+                                        4
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "ProjectGreenerPasture",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        11,
+                                        12
+                                    ],
+                                    "InitValue": [
+                                        11,
+                                        12
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_storeoffice_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_storeoffice_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_storeoffice_description",
+                                    "InitValue": "SilberblumStoreHouse_fac_storeoffice_description",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_storeoffice_shortdes",
+                                    "InitValue": "SilberblumStoreHouse_fac_storeoffice_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Default",
+                                    "InitValue": "Default",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "DepartureConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog",
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog",
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "PickUpSigrun_1"
+                                    ],
+                                    "InitValue": [
+                                        "PickUpSigrun_1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "DepartureConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "P2F1_Ch1_S2",
+                                        "P2F1_Ch1_S2_default"
+                                    ],
+                                    "InitValue": [
+                                        "P2F1_Ch1_S2",
+                                        "P2F1_Ch1_S2_default"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item1==0|flag_P2F1_Ch1_S2==0"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item1==0|flag_P2F1_Ch1_S2==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "DepartureItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item1==1|flag_P2F1_Ch1_S2==0",
+                                        "key_chap1_item1==1|flag_P2F1_Ch1_S2>0"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item1==1|flag_P2F1_Ch1_S2==0",
+                                        "key_chap1_item1==1|flag_P2F1_Ch1_S2>0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Grocery_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_Grocery_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Grocery_des",
+                                    "InitValue": "SilberblumStoreHouse_fac_Grocery_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Grocery_shortdes",
+                                    "InitValue": "SilberblumStoreHouse_fac_Grocery_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merchant_05"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant_05"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Flag_P2F1_NPC69_S1==1"
+                                    ],
+                                    "InitValue": [
+                                        "Flag_P2F1_NPC69_S1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_WarhouseOffice_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_WarhouseOffice_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_WarhouseOffice_des",
+                                    "InitValue": "SilberblumStoreHouse_fac_WarhouseOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_WarhouseOffice_shortdes",
+                                    "InitValue": "SilberblumStoreHouse_fac_WarhouseOffice_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Default",
+                                    "InitValue": "Default",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_PirnmillRP_p2_Storehouse"
+                                    ],
+                                    "InitValue": [
+                                        "Q_PirnmillRP_p2_Storehouse"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_3==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_3==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_name",
+                                    "InitValue": "Gen_fac_store_supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_des",
+                                    "InitValue": "Gen_fac_store_supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merchant_09"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant_09"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Supply_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_Supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Supply_des",
+                                    "InitValue": "SilberblumStoreHouse_fac_Supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "SpecialStoreIcon",
+                                    "InitValue": "SpecialStoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_SilberblumStorerhouse_Kara"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_SilberblumStorerhouse_Kara"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Flag_P2F1_NPC69_S1==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "InitValue": [
+                                        "Flag_P2F1_NPC69_S1==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_name",
+                                    "InitValue": "GenSupply_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_des",
+                                    "InitValue": "GenSupply_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_shortdes",
+                                    "InitValue": "GenSupply_fac_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "SupplyStation",
+                                    "InitValue": "SupplyStation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "SupplyStation"
+                                    ],
+                                    "InitValue": [
+                                        "SupplyStation"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "SilberblumStorehouse_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "SilberblumStorehouse_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_store_hub_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_store_hub_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_des",
+                                    "InitValue": "Gen_fac_store_hub_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_shortdes",
+                                    "InitValue": "Gen_fac_store_hub_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_SilberblumStorerhouse_Hub"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_SilberblumStorerhouse_Hub"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_logis_P0_q1_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_logis_P0_q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_S",
+                                    "InitValue": "Logistic_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P2_q1"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P2_q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_logis_P0_q2_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_logis_P0_q2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_M",
+                                    "InitValue": "Logistic_M",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P2_q2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P2_q2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_logis_P0_q3_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_logis_P0_q3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_L",
+                                    "InitValue": "Logistic_L",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P2_q3"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P2_q3"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_logis_P0_q4_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_logis_P0_q4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_logis_des",
+                                    "InitValue": "Gen_fac_logis_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Logistic_XL",
+                                    "InitValue": "Logistic_XL",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_logis_P2_q4"
+                                    ],
+                                    "InitValue": [
+                                        "Q_logis_P2_q4"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Underground_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_Underground_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_Underground_des",
+                                    "InitValue": "SilberblumStoreHouse_fac_Underground_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Default",
+                                    "InitValue": "Default",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "P2F14_NPC69_S1"
+                                    ],
+                                    "InitValue": [
+                                        "P2F14_NPC69_S1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch8_S3==0|Flag_P2F1_NPC69_S1>=1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch8_S3==0|Flag_P2F1_NPC69_S1>=1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_SecretProject_name",
+                                    "InitValue": "SilberblumStoreHouse_fac_SecretProject_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "SilberblumStoreHouse_fac_SecretProject_des",
+                                    "InitValue": "SilberblumStoreHouse_fac_SecretProject_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Default",
+                                    "InitValue": "Default",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_gat_P2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_gat_P2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch8_S3==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch8_S3==1|flag_ch10_WilkursLeave==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        6,
+                                        7,
+                                        8,
+                                        9,
+                                        10
+                                    ],
+                                    "InitValue": [
+                                        6,
+                                        7,
+                                        8,
+                                        9,
+                                        10
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        5
+                                    ],
+                                    "InitValue": [
+                                        5
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:200",
+                                        "mat_oak2:50|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:200",
+                                        "mat_oak2:50|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

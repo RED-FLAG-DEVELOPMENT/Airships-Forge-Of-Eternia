@@ -1,0 +1,84 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Qoff16_Sub2_Q0_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericshopkeeper_Qoff16_Sub2_Q0_1",
+                                    "InitValue": "genericshopkeeper_Qoff16_Sub2_Q0_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Qoff16_Sub2_Q0_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericshopkeeper_Qoff16_Sub2_Q0_2",
+                                    "InitValue": "genericshopkeeper_Qoff16_Sub2_Q0_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Qoff16_Sub2_Q0_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericshopkeeper_Qoff16_Sub2_Q0_3",
+                                    "InitValue": "genericshopkeeper_Qoff16_Sub2_Q0_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Qoff16_Sub2_Q0_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericshopkeeper_Qoff16_Sub2_Q0_4",
+                                    "InitValue": "genericshopkeeper_Qoff16_Sub2_Q0_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Qoff16_Sub2_Q0_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericshopkeeper_Qoff16_Sub2_Q0_5",
+                                    "InitValue": "genericshopkeeper_Qoff16_Sub2_Q0_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

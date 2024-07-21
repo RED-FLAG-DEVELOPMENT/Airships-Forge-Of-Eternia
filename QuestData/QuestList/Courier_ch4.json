@@ -1,0 +1,220 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S4_name",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S4_des",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch4_S4",
+                                    "InitValue": "Q_Main_Ch4_S4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S7_name",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S7_des",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item18",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item18",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch4_S7",
+                                    "InitValue": "Q_Main_Ch4_S7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S10_name",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Courier_ch4_Q_Main_Ch4_S10_des",
+                                    "InitValue": "Courier_ch4_Q_Main_Ch4_S10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item21",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item21",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item22",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item22",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch4_S10",
+                                    "InitValue": "Q_Main_Ch4_S10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

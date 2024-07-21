@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S1_Name",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S1_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S1_Des",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S1_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S1",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S3_Name",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S3_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S3_Des",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S3_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item7",
+                                        "1",
+                                        "key_chap9_item8",
+                                        "1",
+                                        "flag_ch9_Charlotte",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item7",
+                                        "1",
+                                        "key_chap9_item8",
+                                        "1",
+                                        "flag_ch9_Charlotte",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item9",
+                                        "1",
+                                        "currency1",
+                                        "50000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item9",
+                                        "1",
+                                        "currency1",
+                                        "50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S4_Charlotte_S3",
+                                    "InitValue": "Q_Main_Ch9_S4_Charlotte_S3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

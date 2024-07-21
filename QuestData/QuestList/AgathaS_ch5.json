@@ -1,0 +1,175 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch5_S2_Name",
+                                    "InitValue": "AgathaS_Q_Main_Ch5_S2_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch5_S2_Des",
+                                    "InitValue": "AgathaS_Q_Main_Ch5_S2_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item1",
+                                        "1",
+                                        "marker_9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item1",
+                                        "1",
+                                        "marker_9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item2",
+                                        "1",
+                                        "marker_10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item2",
+                                        "1",
+                                        "marker_10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch5_S2",
+                                    "InitValue": "Q_Main_Ch5_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch5_S16_Name",
+                                    "InitValue": "AgathaS_Q_Main_Ch5_S16_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AgathaS_Q_Main_Ch5_S16_Des",
+                                    "InitValue": "AgathaS_Q_Main_Ch5_S16_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item24",
+                                        "1",
+                                        "flag_Q_Main_Ch5_S1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item24",
+                                        "1",
+                                        "flag_Q_Main_Ch5_S1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item25",
+                                        "1",
+                                        "currency1",
+                                        "100000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item25",
+                                        "1",
+                                        "currency1",
+                                        "100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch5_S16",
+                                    "InitValue": "Q_Main_Ch5_S16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

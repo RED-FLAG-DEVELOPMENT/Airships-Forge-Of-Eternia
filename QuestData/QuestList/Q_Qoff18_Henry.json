@@ -1,0 +1,179 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S8_name",
+                                    "InitValue": "Q_Qoff18_S8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S8_des",
+                                    "InitValue": "Q_Qoff18_S8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff18_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff18_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff18_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff18_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S8",
+                                    "InitValue": "Q_Qoff18_S8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S10_name",
+                                    "InitValue": "Q_Qoff18_S10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S10_des",
+                                    "InitValue": "Q_Qoff18_S10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff18_item9",
+                                        "1",
+                                        "mat_fir2",
+                                        "40",
+                                        "mat_limestone1",
+                                        "40",
+                                        "mat_constructionBlock",
+                                        "20",
+                                        "flag_Q_Qoff18_S7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff18_item9",
+                                        "1",
+                                        "mat_fir2",
+                                        "40",
+                                        "mat_limestone1",
+                                        "40",
+                                        "mat_constructionBlock",
+                                        "20",
+                                        "flag_Q_Qoff18_S7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff18_item10",
+                                        "1",
+                                        "currency1",
+                                        "3000"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff18_item10",
+                                        "1",
+                                        "currency1",
+                                        "3000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff18_S10",
+                                    "InitValue": "Q_Qoff18_S10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

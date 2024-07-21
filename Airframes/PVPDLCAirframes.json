@@ -1,0 +1,32 @@
+[
+    {
+        "Key": "PVPDLCAirframes",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "2566400",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "AirframeID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        33,
+                                        34
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        33,
+                                        34
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

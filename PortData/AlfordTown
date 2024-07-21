@@ -1,0 +1,224 @@
+[
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "AlfordTown_fac_constructionsite_name",
+                                    "InitValue": "AlfordTown_fac_constructionsite_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "AlfordTown_fac_constructionsite_des",
+                                    "InitValue": "AlfordTown_fac_constructionsite_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "AlfordTown_fac_constructionsite_shortdes",
+                                    "InitValue": "AlfordTown_fac_constructionsite_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest",
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Quest",
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "CaitlinS_ch3"
+                                    ],
+                                    "InitValue": [
+                                        "CaitlinS_ch3"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        3,
+                                        5
+                                    ],
+                                    "InitValue": [
+                                        3,
+                                        5
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        64,
+                                        128,
+                                        256
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        64,
+                                        128,
+                                        256
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20",
+                                        "currency1:10000|mat_limestone0:20",
+                                        "currency1:25000|goods_buildBlock:50"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:500|mat_oak2:10",
+                                        "currency1:5000|mat_oak2:20",
+                                        "currency1:10000|mat_limestone0:20",
+                                        "currency1:25000|goods_buildBlock:50"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

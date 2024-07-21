@@ -1,0 +1,155 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S1_name",
+                                    "InitValue": "Q_Com_Conglomerate_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S1_des",
+                                    "InitValue": "Q_Com_Conglomerate_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item2",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item2",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S1",
+                                    "InitValue": "Q_Com_Conglomerate_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S9_name",
+                                    "InitValue": "Q_Com_Conglomerate_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S9_des",
+                                    "InitValue": "Q_Com_Conglomerate_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item9",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item9",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_SunvaleConglomerate",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_SunvaleConglomerate",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S9",
+                                    "InitValue": "Q_Com_Conglomerate_S9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

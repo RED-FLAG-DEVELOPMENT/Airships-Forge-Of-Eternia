@@ -1,0 +1,1593 @@
+[
+    {
+        "Key": "Governance",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        5,
+                                        12
+                                    ],
+                                    "InitValue": [
+                                        5
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Agrosciences",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        7,
+                                        8,
+                                        9
+                                    ],
+                                    "InitValue": [
+                                        7,
+                                        8,
+                                        9
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Manufactories",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        10,
+                                        11,
+                                        14
+                                    ],
+                                    "InitValue": [
+                                        10,
+                                        11
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        6
+                                    ],
+                                    "InitValue": [
+                                        6
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "InitValue": [
+                                        32,
+                                        96,
+                                        192,
+                                        384,
+                                        768
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Sunvale0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:10|currency1:500",
+                                        "mat_oak2:20|mat_limestone1:20|currency1:5000|permit_Sunvale0:1",
+                                        "mat_largeWarehousePlan:1|mat_limestone1:50|mat_steelBeam:30|currency1:20000",
+                                        "mat_extraLargeWarehousePlan:1|mat_steelBeam:30|mat_constructionBlock:50|mat_craneComponents:1|currency1:50000",
+                                        "mat_superLargeWarehousePlan:1|mat_constructionBlock:50|mat_reinforcedBlocks:30|mat_craneComponents:1|currency1:100000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        4,
+                                        13
+                                    ],
+                                    "InitValue": [
+                                        4,
+                                        13
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        3,
+                                        12,
+                                        24
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Sunvale0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "InitValue": [
+                                        "currency1:200",
+                                        "mat_oak2:50|permit_Sunvale0:1|currency1:10000",
+                                        "mat_oak2:50|mat_steelBeam:30|currency1:30000",
+                                        "mat_largeHangarPlan:1|mat_steelBeam:30|mat_constructionBlock:30|currency1:50000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "CommunityPlaza",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        3,
+                                        15
+                                    ],
+                                    "InitValue": [
+                                        3,
+                                        15
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_name",
+                                    "InitValue": "Gen_fac_store_supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_des",
+                                    "InitValue": "Gen_fac_store_supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merchant_09"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant_09"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Q1_MarshalsOffice_name",
+                                    "InitValue": "WestendManor_fac_Q1_MarshalsOffice_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Q1_MarshalsOffice_des",
+                                    "InitValue": "WestendManor_fac_Q1_MarshalsOffice_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Meeting",
+                                    "InitValue": "Meeting",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon",
+                                    "InitValue": "QuestIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_WestendManor_Q1"
+                                    ],
+                                    "InitValue": [
+                                        "Q_WestendManor_Q1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item27==1|flag_Q_WestendManor_Q1_item0==0"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item27==1|flag_Q_WestendManor_Q1_item0==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Winery_name",
+                                    "InitValue": "WestendManor_fac_Winery_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Winery_des",
+                                    "InitValue": "WestendManor_fac_Winery_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_WestendManor_Winery"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_WestendManor_Winery"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Supply_name",
+                                    "InitValue": "WestendManor_fac_Supply_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Supply_des",
+                                    "InitValue": "WestendManor_fac_Supply_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_supply_shortdes",
+                                    "InitValue": "Gen_fac_store_supply_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_WestendManor_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_WestendManor_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_name",
+                                    "InitValue": "GenSupply_fac_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_des",
+                                    "InitValue": "GenSupply_fac_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "GenSupply_fac_shortdes",
+                                    "InitValue": "GenSupply_fac_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "SupplyStation",
+                                    "InitValue": "SupplyStation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "SupplyStation"
+                                    ],
+                                    "InitValue": [
+                                        "SupplyStation"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "WestendManor_Supply"
+                                    ],
+                                    "InitValue": [
+                                        "WestendManor_Supply"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_BrunEstate_Qoff17_name",
+                                    "InitValue": "WestendManor_fac_BrunEstate_Qoff17_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_BrunEstate_Qoff17_des",
+                                    "InitValue": "WestendManor_fac_BrunEstate_Qoff17_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_BrunEstate_Qoff17_shortdes",
+                                    "InitValue": "WestendManor_fac_BrunEstate_Qoff17_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "CaitlinGQ3",
+                                    "InitValue": "CaitlinGQ3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Qoff17_S6"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Qoff17_S6"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff17_item5==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff17_item5==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_store_hub_name",
+                                    "InitValue": "WestendManor_fac_store_hub_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_des",
+                                    "InitValue": "Gen_fac_store_hub_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_hub_shortdes",
+                                    "InitValue": "Gen_fac_store_hub_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "RegularStore1",
+                                    "InitValue": "RegularStore1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_WestendManor_Hub"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_WestendManor_Hub"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "store_Agroscience_Gen_name",
+                                    "InitValue": "store_Agroscience_Gen_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "store_Agroscience_Gen_des",
+                                    "InitValue": "store_Agroscience_Gen_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Field2",
+                                    "InitValue": "Field2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Plantation",
+                                    "InitValue": "Plantation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_Agroscience_WestendManor"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_Agroscience_WestendManor"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Plantations_name",
+                                    "InitValue": "Gen_fac_ind_Plantations_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Field",
+                                    "InitValue": "Field",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Plantation",
+                                    "InitValue": "Plantation",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Plantations_WestendManor"
+                                    ],
+                                    "InitValue": [
+                                        "Plantations_WestendManor"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:20|mat_reinforcedCloth:10|mat_farmingTools:20|permit_Sunvale0:1|currency1:1200",
+                                        "mat_limestone1:40|mat_grapeSeeds:100|goods_fertilizer:100|currency1:7000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:27000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:20|mat_reinforcedCloth:10|mat_farmingTools:20|permit_Sunvale0:1|currency1:1200",
+                                        "mat_limestone1:40|mat_grapeSeeds:100|goods_fertilizer:100|currency1:7000",
+                                        "mat_constructionBlock:80|mat_steelBeam:80|mat_heavyMachinery:20|currency1:27000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Agrologists_name",
+                                    "InitValue": "Gen_fac_ind_Agrologists_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Agrologists",
+                                    "InitValue": "Agrologists",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Farm",
+                                    "InitValue": "Farm",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Agrologists_WestendManor"
+                                    ],
+                                    "InitValue": [
+                                        "Agrologists_WestendManor"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_oak2:40|mat_constructionBlock:20|mat_limestone1:40|permit_Sunvale0:1|currency1:15000",
+                                        "mat_limestone1:120|mat_heavyMachinery:50|mat_craneComponents:50|currency1:34000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_oak2:40|mat_constructionBlock:20|mat_limestone1:40|permit_Sunvale0:1|currency1:15000",
+                                        "mat_limestone1:120|mat_heavyMachinery:50|mat_craneComponents:50|currency1:34000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "store_Manufactory_Gen_name",
+                                    "InitValue": "store_Manufactory_Gen_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "store_Manufactory_Gen_des",
+                                    "InitValue": "store_Manufactory_Gen_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_store_local_shortdes",
+                                    "InitValue": "Gen_fac_store_local_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "HeavyFactory",
+                                    "InitValue": "HeavyFactory",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Baker",
+                                    "InitValue": "Baker",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_Manufactory_WestendManor"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_Manufactory_WestendManor"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_Culinarians_name",
+                                    "InitValue": "Gen_fac_ind_Culinarians_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "-",
+                                    "InitValue": "-",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "Gen_fac_ind_shortdes",
+                                    "InitValue": "Gen_fac_ind_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Culinarian",
+                                    "InitValue": "Culinarian",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "Baker",
+                                    "InitValue": "Baker",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Factory"
+                                    ],
+                                    "InitValue": [
+                                        "Factory"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Culinarians_WestendManor"
+                                    ],
+                                    "InitValue": [
+                                        "Culinarians_WestendManor"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag==0"
+                                    ],
+                                    "InitValue": [
+                                        "flag==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "StartLevel": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "UpgradedValue": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "mat_constructionBlock:200|mat_steelBeam:100|mat_industrialOvens:10|permit_Manufactory:1|currency1:20000",
+                                        "mat_constructionBlock:200|mat_steelBeam:100|mat_industrialOvens:15|currency1:100000",
+                                        "mat_foodFactoryBlueprint:1|mat_constructionBlock:200|mat_industrialOvens:20|mat_dynamos:150|currency1:200000"
+                                    ],
+                                    "InitValue": [
+                                        "mat_constructionBlock:200|mat_steelBeam:100|mat_industrialOvens:10|permit_Manufactory:1|currency1:20000",
+                                        "mat_constructionBlock:200|mat_steelBeam:100|mat_industrialOvens:15|currency1:100000",
+                                        "mat_foodFactoryBlueprint:1|mat_constructionBlock:200|mat_industrialOvens:20|mat_dynamos:150|currency1:200000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Q_Cert_Logistician_name",
+                                    "InitValue": "WestendManor_fac_Q_Cert_Logistician_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Q_Cert_Logistician_des",
+                                    "InitValue": "WestendManor_fac_Q_Cert_Logistician_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_Career_shortdes",
+                                    "InitValue": "fac_Career_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Importer",
+                                    "InitValue": "Importer",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Cert_Logictician_Westend"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Cert_Logictician_Westend"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_cert_logistician_item3==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_cert_logistician_item3==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff09_Dock_name",
+                                    "InitValue": "WestendManor_fac_Qoff09_Dock_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff09_Dock_des",
+                                    "InitValue": "WestendManor_fac_Qoff09_Dock_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff09_Dock_shortdes",
+                                    "InitValue": "WestendManor_fac_Qoff09_Dock_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Olivier_Dock",
+                                    "InitValue": "Olivier_Dock",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Qoff09_S10"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Qoff09_S10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff09_item9==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff09_item9==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Gen_fac_indust_name",
+                                    "InitValue": "Gen_fac_indust_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Gen_fac_indust_des",
+                                    "InitValue": "Gen_fac_indust_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "fac_shortdes_quest",
+                                    "InitValue": "fac_shortdes_quest",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Quest"
+                                    ],
+                                    "InitValue": [
+                                        "Quest"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_indust_P7"
+                                    ],
+                                    "InitValue": [
+                                        "Q_indust_P7"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "flag_storeopen_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff20_Winery_name",
+                                    "InitValue": "WestendManor_fac_Qoff20_Winery_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff20_Winery_des",
+                                    "InitValue": "WestendManor_fac_Qoff20_Winery_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "WestendManor_fac_Qoff20_Winery_shortdes",
+                                    "InitValue": "WestendManor_fac_Qoff20_Winery_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Roan_Winery",
+                                    "InitValue": "Roan_Winery",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "QuestIcon_S",
+                                    "InitValue": "QuestIcon_S",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Qoff20_S2"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Qoff20_S2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff20_item1==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff20_item1==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

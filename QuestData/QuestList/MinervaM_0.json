@@ -1,0 +1,3206 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_1_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_1_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S4",
+                                    "InitValue": "Q_Main_Ch2_S4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_2_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_2_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "2",
+                                    "InitValue": "2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_3_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_3_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S10",
+                                    "InitValue": "Q_Main_Ch2_S10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "3",
+                                    "InitValue": "3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_4_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_4_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item13",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "4",
+                                    "InitValue": "4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_5_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_5_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_5_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_5_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item14",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item14",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S16",
+                                    "InitValue": "Q_Main_Ch2_S16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "5",
+                                    "InitValue": "5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_6_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_6_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item18",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item18",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item20",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item20",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "6",
+                                    "InitValue": "6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_7_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_7_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item25",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item25",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "7",
+                                    "InitValue": "7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_8_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_8_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item26",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item26",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item28",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item28",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S27",
+                                    "InitValue": "Q_Main_Ch2_S27",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "8",
+                                    "InitValue": "8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_9_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_9_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item29",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item29",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item31",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item31",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "9",
+                                    "InitValue": "9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_10_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_10_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item32_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item32_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S33",
+                                    "InitValue": "Q_Main_Ch2_S33",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "10",
+                                    "InitValue": "10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_11_name",
+                                    "InitValue": "Minerva_Q_Main_Ch2_11_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch2_11_des",
+                                    "InitValue": "Minerva_Q_Main_Ch2_11_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "11",
+                                    "InitValue": "11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S1_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S1_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item34",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item1",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item1",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "12",
+                                    "InitValue": "12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S3_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S3_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item3",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item3",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "13",
+                                    "InitValue": "13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S5_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S5_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S5_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S5_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item5_1",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item1",
+                                        "1",
+                                        "key_chap4_item5_2",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item2",
+                                        "1",
+                                        "key_chap4_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item5_1",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item1",
+                                        "1",
+                                        "key_chap4_item5_2",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item2",
+                                        "1",
+                                        "key_chap4_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch4_S5_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "14",
+                                    "InitValue": "14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S6_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S6_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item8",
+                                        "1",
+                                        "key_chap4_item12",
+                                        "1",
+                                        "key_chap4_item16",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item8",
+                                        "1",
+                                        "key_chap4_item12",
+                                        "1",
+                                        "key_chap4_item16",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "15",
+                                    "InitValue": "15",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S8_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S8_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item18",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item18",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item19",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item19",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "16",
+                                    "InitValue": "16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S9_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S9_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item20",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item20",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item21",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item21",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "17",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "17",
+                                    "InitValue": "17",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S11_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S11_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S11_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S11_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item22",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item22",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "18",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "18",
+                                    "InitValue": "18",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S13_name",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S13_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch4_S13_des",
+                                    "InitValue": "Minerva_Q_Main_Ch4_S13_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item24",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item24",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap4_item25",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap4_item25",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "19",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "19",
+                                    "InitValue": "19",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S1_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S1_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item26",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item26",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item1",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item1",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S1",
+                                    "InitValue": "Q_Main_Ch7_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "20",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "20",
+                                    "InitValue": "20",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S3_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S3_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S3",
+                                    "InitValue": "Q_Main_Ch7_S3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "21",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "21",
+                                    "InitValue": "21",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S6_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S6_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item5_1",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_1",
+                                        "1",
+                                        "key_chap7_item5_2",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_2",
+                                        "1",
+                                        "key_chap7_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item5_1",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_1",
+                                        "1",
+                                        "key_chap7_item5_2",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_2",
+                                        "1",
+                                        "key_chap7_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch7_S6_3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6",
+                                    "InitValue": "Q_Main_Ch7_S6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "22",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "22",
+                                    "InitValue": "22",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S7_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S7_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item8",
+                                        "1",
+                                        "key_chap7_item12",
+                                        "1",
+                                        "key_chap7_item14",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item8",
+                                        "1",
+                                        "key_chap7_item12",
+                                        "1",
+                                        "key_chap7_item14",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item15",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item15",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S7",
+                                    "InitValue": "Q_Main_Ch7_S7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "23",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "23",
+                                    "InitValue": "23",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S9_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S9_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item16",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item16",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S9",
+                                    "InitValue": "Q_Main_Ch7_S9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "24",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "24",
+                                    "InitValue": "24",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S10_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S10_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item18",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item18",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item19",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item19",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S10",
+                                    "InitValue": "Q_Main_Ch7_S10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "25",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "25",
+                                    "InitValue": "25",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S13_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S13_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S13_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S13_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item21",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item21",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item22",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item22",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S13",
+                                    "InitValue": "Q_Main_Ch7_S13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "26",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "26",
+                                    "InitValue": "26",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S15_name",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S15_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch7_S15_des",
+                                    "InitValue": "Minerva_Q_Main_Ch7_S15_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item24",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item24",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S15",
+                                    "InitValue": "Q_Main_Ch7_S15",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "27",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "27",
+                                    "InitValue": "27",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S6_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S6_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item6",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item6",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S6",
+                                    "InitValue": "Q_Main_Ch8_S6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "28",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "28",
+                                    "InitValue": "28",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S9_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S9_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow",
+                                        "1",
+                                        "key_chap8_item10",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_Turncoat",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow",
+                                        "1",
+                                        "key_chap8_item10",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_Turncoat",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9",
+                                    "InitValue": "Q_Main_Ch8_S9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "29",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "29",
+                                    "InitValue": "29",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S10_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S10_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item13",
+                                        "1",
+                                        "key_chap8_item17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item13",
+                                        "1",
+                                        "key_chap8_item17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item18",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item18",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S10",
+                                    "InitValue": "Q_Main_Ch8_S10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "30",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "30",
+                                    "InitValue": "30",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S12_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S12_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S12_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S12_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item19",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item19",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item20",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item20",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S12",
+                                    "InitValue": "Q_Main_Ch8_S12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "31",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "31",
+                                    "InitValue": "31",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S14_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S14_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S14_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S14_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item22",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item22",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S14",
+                                    "InitValue": "Q_Main_Ch8_S14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "32",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "32",
+                                    "InitValue": "32",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S16_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S16_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S16_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S16_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item24",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item24",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item25",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item25",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S16",
+                                    "InitValue": "Q_Main_Ch8_S16",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "33",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "33",
+                                    "InitValue": "33",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S18_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S18_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S18_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S18_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item26",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item26",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item27",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item27",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S18",
+                                    "InitValue": "Q_Main_Ch8_S18",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "34",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "34",
+                                    "InitValue": "34",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S23_name",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S23_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch8_S23_des",
+                                    "InitValue": "Minerva_Q_Main_Ch8_S23_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item31",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item31",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item33",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item33",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S23",
+                                    "InitValue": "Q_Main_Ch8_S23",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "35",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "35",
+                                    "InitValue": "35",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch9_S14_name",
+                                    "InitValue": "Minerva_Q_Main_Ch9_S14_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch9_S14_des",
+                                    "InitValue": "Minerva_Q_Main_Ch9_S14_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item23",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item23",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item24",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item24",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S14",
+                                    "InitValue": "Q_Main_Ch9_S14",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "36",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "36",
+                                    "InitValue": "36",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch9_S17_name",
+                                    "InitValue": "Minerva_Q_Main_Ch9_S17_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch9_S17_des",
+                                    "InitValue": "Minerva_Q_Main_Ch9_S17_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item25",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item25",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item27",
+                                        "1",
+                                        "flag_Q_Main_Ch9_S17",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item27",
+                                        "1",
+                                        "flag_Q_Main_Ch9_S17",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch9_S17",
+                                    "InitValue": "Q_Main_Ch9_S17",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "37",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "37",
+                                    "InitValue": "37",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S2_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S2_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item2",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item2",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S2",
+                                    "InitValue": "Q_Main_Ch10_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "38",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "38",
+                                    "InitValue": "38",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S5_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S5_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S5_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S5_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item6",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item6",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S5",
+                                    "InitValue": "Q_Main_Ch10_S5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "39",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "39",
+                                    "InitValue": "39",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S8_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S8_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item12",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S8",
+                                    "InitValue": "Q_Main_Ch10_S8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "40",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "40",
+                                    "InitValue": "40",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S10_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S10_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S10_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S10_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item14",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item14",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item15",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item15",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S10",
+                                    "InitValue": "Q_Main_Ch10_S10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "41",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "41",
+                                    "InitValue": "41",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S12_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S12_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S12_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S12_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item16",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item16",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item17",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S12",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item17",
+                                        "1",
+                                        "flag_Q_Main_Ch10_S12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S12",
+                                    "InitValue": "Q_Main_Ch10_S12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "42",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "42",
+                                    "InitValue": "42",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S19_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S19_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S19_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S19_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item22",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item22",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item24",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item24",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch10_S19",
+                                    "InitValue": "Q_Main_Ch10_S19",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "43",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "43",
+                                    "InitValue": "43",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S22_name",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S22_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Minerva_Q_Main_Ch10_S22_des",
+                                    "InitValue": "Minerva_Q_Main_Ch10_S22_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item28",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item28",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

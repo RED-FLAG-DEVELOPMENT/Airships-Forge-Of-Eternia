@@ -1,0 +1,151 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_name",
+                                    "InitValue": "Q_Rec_Qoff11_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_Office_name_0_des",
+                                    "InitValue": "Q_Rec_Qoff11_Office_name_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_rec_qoff11_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_rec_qoff11_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_rec_qoff11_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_rec_qoff11_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_S2",
+                                    "InitValue": "Q_Rec_Qoff11_S2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_name",
+                                    "InitValue": "Q_Rec_Qoff11_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_Office_name_1_des",
+                                    "InitValue": "Q_Rec_Qoff11_Office_name_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_rec_qoff11_item2",
+                                        "1",
+                                        "currency1",
+                                        "6000"
+                                    ],
+                                    "InitValue": [
+                                        "key_rec_qoff11_item2",
+                                        "1",
+                                        "currency1",
+                                        "6000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_rec_qoff11_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_rec_qoff11_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff11_S3",
+                                    "InitValue": "Q_Rec_Qoff11_S3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

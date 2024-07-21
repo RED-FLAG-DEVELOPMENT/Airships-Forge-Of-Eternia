@@ -1,0 +1,97 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_SilbWaHo_name",
+                                    "InitValue": "Pirnmill_RP_SilbWaHo_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Pirnmill_RP_SilbWaHo_des",
+                                    "InitValue": "Pirnmill_RP_SilbWaHo_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_quest_PirnmillRP_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_quest_PirnmillRP_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "GuideLocation": {
+                                "LocationPointEnumListType": {
+                                    "locationTypeList": [
+                                        "PORT"
+                                    ],
+                                    "$type": "LocationPointEnumListType"
+                                }
+                            },
+                            "GuideLocationID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2
+                                    ],
+                                    "InitValue": [
+                                        2
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "PirnmillRP_SilbWaHo_S1",
+                                    "InitValue": "Q_PirnmillRP_SilbWaHo_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

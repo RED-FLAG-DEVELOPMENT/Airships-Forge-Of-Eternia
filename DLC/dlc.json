@@ -1,0 +1,35 @@
+[
+    {
+        "Key": "DLCData",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "2566400",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "DLCAppID": {
+                                "IntType": {
+                                    "_int": 2566400,
+                                    "InitValue": 2566400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "DLCKeyItemList": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "flag_DLC_War_Corvette"
+                                    ],
+                                    "InitValue": [
+                                        "flag_DLC_War_Corvette"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

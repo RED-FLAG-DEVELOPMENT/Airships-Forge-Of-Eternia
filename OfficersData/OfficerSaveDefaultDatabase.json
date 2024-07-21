@@ -1,0 +1,32 @@
+[
+    {
+        "Key": "Officers",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Officer": {
+                                "GameData.Officers.OfficerSaveData": {
+                                    "UUID": "0",
+                                    "BaseID": 143,
+                                    "CurrentLevel": 1,
+                                    "CurrentEXP": 0,
+                                    "VictoryPoint": 0,
+                                    "CurrentRelationship": 0,
+                                    "Location": {
+                                        "LocationType": "Ship",
+                                        "LocationId": 0
+                                    },
+                                    "$type": "GameData.Officers.OfficerSaveData"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

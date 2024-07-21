@@ -1,0 +1,182 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Agatha_Q_Main_Ch2_1_name",
+                                    "InitValue": "Agatha_Q_Main_Ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Agatha_Q_Main_Ch2_1_des",
+                                    "InitValue": "Agatha_Q_Main_Ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item2",
+                                        "1",
+                                        "flag_Q_BluegladeTown_OliverH_1_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item2",
+                                        "1",
+                                        "flag_Q_BluegladeTown_OliverH_1_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S2",
+                                    "InitValue": "Q_Main_Ch2_S2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Agatha_Q_Main_Ch2_2_name",
+                                    "InitValue": "Agatha_Q_Main_Ch2_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Agatha_Q_Main_Ch2_2_des",
+                                    "InitValue": "Agatha_Q_Main_Ch2_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item26",
+                                        "1",
+                                        "key_chap2_item30",
+                                        "1",
+                                        "key_chap2_item31",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item26",
+                                        "1",
+                                        "key_chap2_item30",
+                                        "1",
+                                        "key_chap2_item31",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item32_1",
+                                        "1",
+                                        "key_chap2_item32_2",
+                                        "1",
+                                        "permit_Sunvale0",
+                                        "1",
+                                        "currency1",
+                                        "10000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item32_1",
+                                        "1",
+                                        "key_chap2_item32_2",
+                                        "1",
+                                        "permit_Sunvale0",
+                                        "1",
+                                        "currency1",
+                                        "10000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "AirshipRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Tship_14"
+                                    ],
+                                    "InitValue": [
+                                        "Tship_14"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S31",
+                                    "InitValue": "Q_Main_Ch2_S31",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

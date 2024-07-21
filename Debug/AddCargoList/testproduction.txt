@@ -1,0 +1,29 @@
+mat_himmelritePlate 2
+mat_viriditeIngot 2
+mat_steelIngot 5
+mat_steelPlate 5
+
+mat_viriditeIngot 5
+mat_palladiumRods 1
+goods_tools0 10
+
+mat_tutonicFrame 3
+mat_propulsionSystem 1
+mat_steamEngineComponent 2
+mat_craneComponents 1
+mat_TCshipEquipment 2
+
+mat_tutonicFrame 25
+mat_propulsionSystem 6
+mat_steamEngineComponent 6
+mat_craneComponents 4
+mat_TCshipEquipment 10
+
+mat_water0 100
+mat_charcoal0 25
+mat_sandCrates 25
+mat_glasswares 100
+
+mat_cushions 20
+mat_kitchenware 10
+mat_shiprope 20

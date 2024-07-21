@@ -1,0 +1,167 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S1_name",
+                                    "InitValue": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S1_des",
+                                    "InitValue": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item5_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item5_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_HeinrichB_S1",
+                                    "InitValue": "Q_Main_Ch3_S5_HeinrichB_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S2_name",
+                                    "InitValue": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S2_des",
+                                    "InitValue": "Heinrich_Q_Main_Ch3_S5_HeinrichB_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item6",
+                                        "1",
+                                        "goods_fertilizer",
+                                        "200",
+                                        "mat_grainSeeds",
+                                        "100",
+                                        "mat_vegetableSeeds",
+                                        "50",
+                                        "flag_Q_Main_Ch3_S5_item1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item6",
+                                        "1",
+                                        "goods_fertilizer",
+                                        "200",
+                                        "mat_grainSeeds",
+                                        "100",
+                                        "mat_vegetableSeeds",
+                                        "50",
+                                        "flag_Q_Main_Ch3_S5_item1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item7",
+                                        "1",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item7",
+                                        "1",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_HeinrichB_S2",
+                                    "InitValue": "Q_Main_Ch3_S5_HeinrichB_S2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

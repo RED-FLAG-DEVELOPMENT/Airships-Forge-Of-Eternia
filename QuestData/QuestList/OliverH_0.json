@@ -1,0 +1,167 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Oliver_Q_Main_Ch2_1_name",
+                                    "InitValue": "Oliver_Q_Main_Ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Oliver_Q_Main_Ch2_1_des",
+                                    "InitValue": "Oliver_Q_Main_Ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item3",
+                                        "1",
+                                        "key_chap2_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item3",
+                                        "1",
+                                        "key_chap2_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item5",
+                                        "1",
+                                        "flag_Q_LaventumCity_OfficeOfTrade_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item5",
+                                        "1",
+                                        "flag_Q_LaventumCity_OfficeOfTrade_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S5",
+                                    "InitValue": "Q_Main_Ch2_S5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Oliver_Q_Main_Ch2_2_name",
+                                    "InitValue": "Oliver_Q_Main_Ch2_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Oliver_Q_Main_Ch2_2_des",
+                                    "InitValue": "Oliver_Q_Main_Ch2_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item28",
+                                        "1",
+                                        "flag_Q_BluegladeTown_OliverH_1_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item28",
+                                        "1",
+                                        "flag_Q_BluegladeTown_OliverH_1_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item29",
+                                        "1",
+                                        "permit_Everspring0",
+                                        "2",
+                                        "currency1",
+                                        "40000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item29",
+                                        "1",
+                                        "permit_Everspring0",
+                                        "2",
+                                        "currency1",
+                                        "40000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S28",
+                                    "InitValue": "Q_Main_Ch2_S28",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

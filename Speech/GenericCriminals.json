@@ -1,0 +1,339 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_onselfretreating",
+                                    "InitValue": "genericcriminals_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_onselfsurrender",
+                                    "InitValue": "genericcriminals_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5DrugBaron_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsCh5DrugBaron_start_1",
+                                    "InitValue": "genericcriminals_vsCh5DrugBaron_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5DrugBaron_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsCh5DrugBaron_start_2",
+                                    "InitValue": "genericcriminals_vsCh5DrugBaron_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5DrugBaron_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsCh5DrugBaron_start_3",
+                                    "InitValue": "genericcriminals_vsCh5DrugBaron_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_1",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_2",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_3",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_4",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_5",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_6",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff17_S7_Forger_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Qoff17_S7_Forger_S1_7",
+                                    "InitValue": "genericcriminals_Q_Qoff17_S7_Forger_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff12KidnapperLookout_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff12KidnapperLookout_start_1",
+                                    "InitValue": "genericcriminals_vsRecQoff12KidnapperLookout_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff12KidnapperLookout_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff12KidnapperLookout_start_2",
+                                    "InitValue": "genericcriminals_vsRecQoff12KidnapperLookout_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff12KidnapperLookout_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff12KidnapperLookout_start_3",
+                                    "InitValue": "genericcriminals_vsRecQoff12KidnapperLookout_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff12KidnapperLookout_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff12KidnapperLookout_start_4",
+                                    "InitValue": "genericcriminals_vsRecQoff12KidnapperLookout_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff12KidnapperLookout_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff12KidnapperLookout_start_5",
+                                    "InitValue": "genericcriminals_vsRecQoff12KidnapperLookout_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff12_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_Q_Rec_Qoff12_S2_1",
+                                    "InitValue": "genericcriminals_Q_Rec_Qoff12_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff06Brigands_start_1",
+                                    "InitValue": "genericcriminals_vsRecQoff06Brigands_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff06Brigands_start_2",
+                                    "InitValue": "genericcriminals_vsRecQoff06Brigands_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff06Brigands_start_3",
+                                    "InitValue": "genericcriminals_vsRecQoff06Brigands_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcriminals_vsRecQoff06Brigands_start_4",
+                                    "InitValue": "genericcriminals_vsRecQoff06Brigands_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

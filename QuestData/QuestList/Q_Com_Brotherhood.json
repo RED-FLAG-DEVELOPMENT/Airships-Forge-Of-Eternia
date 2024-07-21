@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_Brotherhood_name",
+                                    "InitValue": "Q_Com_Brotherhood_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_Brotherhood_des",
+                                    "InitValue": "Q_Com_Brotherhood_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_Trophy_1SRN_0",
+                                        "1",
+                                        "Key_Trophy_2SRN_0",
+                                        "1",
+                                        "Key_Trophy_3SRN_0",
+                                        "1",
+                                        "Key_Trophy_4SRN_0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "Key_Trophy_1SRN_0",
+                                        "1",
+                                        "Key_Trophy_2SRN_0",
+                                        "1",
+                                        "Key_Trophy_3SRN_0",
+                                        "1",
+                                        "Key_Trophy_4SRN_0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_Brotherhood",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_Brotherhood",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_Brotherhood",
+                                    "InitValue": "OnComQuestListDelivery_Brotherhood",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,2079 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onhostileopeningfire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileopeningfire_1",
+                                    "InitValue": "leonardm_onhostileopeningfire_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileopeningfire_2",
+                                    "InitValue": "leonardm_onhostileopeningfire_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_light",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_light_1",
+                                    "InitValue": "leonardm_onhostiletakingdamage_light_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_light_2",
+                                    "InitValue": "leonardm_onhostiletakingdamage_light_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_medium",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_medium_1",
+                                    "InitValue": "leonardm_onhostiletakingdamage_medium_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_medium_2",
+                                    "InitValue": "leonardm_onhostiletakingdamage_medium_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_heavy",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_heavy_1",
+                                    "InitValue": "leonardm_onhostiletakingdamage_heavy_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiletakingdamage_heavy_2",
+                                    "InitValue": "leonardm_onhostiletakingdamage_heavy_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilepowerplantdamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostilepowerplantdamaged_1",
+                                    "InitValue": "leonardm_onhostilepowerplantdamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostilepowerplantdamaged_2",
+                                    "InitValue": "leonardm_onhostilepowerplantdamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilecommanddamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostilecommanddamaged_1",
+                                    "InitValue": "leonardm_onhostilecommanddamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostilecommanddamaged_2",
+                                    "InitValue": "leonardm_onhostilecommanddamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiledrivedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiledrivedamaged_1",
+                                    "InitValue": "leonardm_onhostiledrivedamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostiledrivedamaged_2",
+                                    "InitValue": "leonardm_onhostiledrivedamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldbroken",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileshieldbroken_1",
+                                    "InitValue": "leonardm_onhostileshieldbroken_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileshieldbroken_2",
+                                    "InitValue": "leonardm_onhostileshieldbroken_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldrestored",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileshieldrestored_1",
+                                    "InitValue": "leonardm_onhostileshieldrestored_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileshieldrestored_2",
+                                    "InitValue": "leonardm_onhostileshieldrestored_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileammostoragedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileammostoragedamaged_1",
+                                    "InitValue": "leonardm_onhostileammostoragedamaged_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileammostoragedamaged_2",
+                                    "InitValue": "leonardm_onhostileammostoragedamaged_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileammostoragedestroyed",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileammostoragedestroyed_1",
+                                    "InitValue": "leonardm_onhostileammostoragedestroyed_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_onhostileammostoragedestroyed_2",
+                                    "InitValue": "leonardm_onhostileammostoragedestroyed_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillwakeboarding",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_skillwake_boarding_1",
+                                    "InitValue": "leonardm_skillwake_boarding_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_skillwake_boarding_2",
+                                    "InitValue": "leonardm_skillwake_boarding_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillobserveopposition",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_skillobserve_opposition_1",
+                                    "InitValue": "leonardm_skillobserve_opposition_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_skillobserve_opposition_2",
+                                    "InitValue": "leonardm_skillobserve_opposition_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilltrajectoryguidance",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_skilltrajectory_guidance_1",
+                                    "InitValue": "leonardm_skilltrajectory_guidance_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_skilltrajectory_guidance_2",
+                                    "InitValue": "leonardm_skilltrajectory_guidance_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skilldrawtherapier",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_skilldraw_the_rapier_1",
+                                    "InitValue": "leonardm_skilldraw_the_rapier_1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "leonardm_skilldraw_the_rapier_2",
+                                    "InitValue": "leonardm_skilldraw_the_rapier_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_1",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_2",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_3",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_4",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_5",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_6",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S2_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S2_7",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S2_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_spot_1",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_spot_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_spot_2",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_spot_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_start_1",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_start_2",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_start_3",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_1",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_2",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_3",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_4",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_5",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_6",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsRecQoff06Brigands_end_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsRecQoff06Brigands_end_7",
+                                    "InitValue": "leonardm_vsRecQoff06Brigands_end_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_1",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_2",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_3",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_4",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_5",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_6",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff06_S3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Rec_Qoff06_S3_7",
+                                    "InitValue": "leonardm_Q_Rec_Qoff06_S3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S1_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S2_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S2_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S2_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S2_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S2_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S2_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S2_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_7",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_8",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_9",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_10",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_11",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S3_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S3_12",
+                                    "InitValue": "leonardm_Q_Qoff06_S3_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_start_1",
+                                    "InitValue": "leonardm_vsQoff06Runners_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_start_2",
+                                    "InitValue": "leonardm_vsQoff06Runners_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_start_3",
+                                    "InitValue": "leonardm_vsQoff06Runners_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_defeated_1",
+                                    "InitValue": "leonardm_vsQoff06Runners_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_end_1",
+                                    "InitValue": "leonardm_vsQoff06Runners_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_end_2",
+                                    "InitValue": "leonardm_vsQoff06Runners_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_end_3",
+                                    "InitValue": "leonardm_vsQoff06Runners_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Runners_end_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Runners_end_4",
+                                    "InitValue": "leonardm_vsQoff06Runners_end_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S4_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S4_7",
+                                    "InitValue": "leonardm_Q_Qoff06_S4_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_start_1",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_start_2",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_start_3",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_start_4",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_start_5",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_end_1",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_end_2",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Lieutenant_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Lieutenant_end_3",
+                                    "InitValue": "leonardm_vsQoff06Lieutenant_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_7",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_8",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_9",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_10",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S5_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S5_11",
+                                    "InitValue": "leonardm_Q_Qoff06_S5_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S6_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S6_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S6_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S6_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S6_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S6_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S6_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S6_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_start_1",
+                                    "InitValue": "leonardm_vsQoff06Boss_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_start_2",
+                                    "InitValue": "leonardm_vsQoff06Boss_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_start_3",
+                                    "InitValue": "leonardm_vsQoff06Boss_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_start_4",
+                                    "InitValue": "leonardm_vsQoff06Boss_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_start_5",
+                                    "InitValue": "leonardm_vsQoff06Boss_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_defeated_1",
+                                    "InitValue": "leonardm_vsQoff06Boss_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_defeated_2",
+                                    "InitValue": "leonardm_vsQoff06Boss_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_end_1",
+                                    "InitValue": "leonardm_vsQoff06Boss_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff06Boss_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_vsQoff06Boss_end_2",
+                                    "InitValue": "leonardm_vsQoff06Boss_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S7_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S7_7",
+                                    "InitValue": "leonardm_Q_Qoff06_S7_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S8_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S8_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S8_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S8_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S8_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S8_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S8_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S8_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S8_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S8_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S8_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S8_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S8_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S8_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S8_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_1",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_2",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_3",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_4",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_5",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_6",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_7",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff06_S9_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "leonardm_Q_Qoff06_S9_8",
+                                    "InitValue": "leonardm_Q_Qoff06_S9_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

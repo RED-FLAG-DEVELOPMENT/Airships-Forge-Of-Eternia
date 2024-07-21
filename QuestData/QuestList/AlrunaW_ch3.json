@@ -1,0 +1,86 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Alruna_Q_Main_Ch3_S5_AlrunaW_S1_name",
+                                    "InitValue": "Alruna_Q_Main_Ch3_S5_AlrunaW_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Alruna_Q_Main_Ch3_S5_AlrunaW_S1_des",
+                                    "InitValue": "Alruna_Q_Main_Ch3_S5_AlrunaW_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item5_3",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item11",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item11",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_AlrunaW_S1",
+                                    "InitValue": "Q_Main_Ch3_S5_AlrunaW_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

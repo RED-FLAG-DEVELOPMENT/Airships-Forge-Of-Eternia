@@ -1,0 +1,1516 @@
+Key,English,Simplified Chinese,Traditional Chinese
+menu_newgame,New Game,新游戏,新遊戲
+menu_continue,Continue,继续,繼續
+menu_tutorials,Tutorials,教程,教程
+menu_credit,Credits,致谢,致謝
+menu_loadgame,Load Game,加载游戏,加載遊戲
+menu_multiplayer,Multiplayer,多人游戏,多人遊戲
+menu_setting,Settings,设置,設置
+menu_joindiscord,Discord Server,加入QQ讨论,加入QQ討論
+menu_exit,Exit,退出,退出
+menu_releasenote,Release Notes,发行说明,發行說明
+button_next,Next,下一页,下一頁
+button_prev,Prev,上一页,上一頁
+saveload_newsavefile,New Save File,新建保存文件,新建保存檔
+saveload_manualsaveslot,MANUAL SAVE SLOT,手动保存,手動保存
+saveload_locationheader,Location:,地点,地點
+saveload_wealthheader,Current Wealth:,当前财富：,當前財富：
+saveload_currentfleetheader,Current Fleet:,当前舰队：,當前艦隊：
+saveload_timeplayedheader,Time Played:,已游玩时间：,已遊玩時間：
+button_save,SAVE,保存,保存
+saveload_savegametitle,SAVE GAME,保存游戏,保存遊戲
+tutorial_tutorialbasiccombat,Basic Combat,基本战斗,基本戰鬥
+tutorial_tutorialshipcustom,Ship Customization,舰船定制,艦船定制
+tutorial_basictutorial,Basic Tutorials,基础教程,基礎教程
+tutorial_tutorialheader,TUTORIALS,教程,教程
+button_Begin,BEGIN,开始,開始
+menu_gamesetting,game settings,游戏设置,遊戲設置
+option_displaysetting,Display Settings,画面设置,畫面設置
+option_windowmode,Window Mode,窗口模式,窗口模式
+option_resolution,Resolution,分辨率,解析度
+option_on,ON,开,開
+option_audiosetting,Audio Settings,音频设置,音頻設置
+option_master,Master,主音量,主音量
+option_sfx,SFX,音效,音效
+option_music,Music,背景音乐,背景音樂
+option_voiceover,Voice Over,配音,配音
+option_controlmode,Control Mode,操作模式,操作模式
+option_controltype,Control Type,操作类型,操作類型
+option_volumetriccloudquality,Volumetric Cloud Quality,体积云质量,體積雲品質
+option_bluroptions,Blur Options,模糊选项,模糊選項
+option_openlogfilefolder,Open Log File Folder,打开日志文件夹,打開日誌檔夾
+option_opensavedatafolder,Open Save Data Folder,打开保存数据文件夹,打開保存數據檔夾
+option_displaydamage,display damage,显示伤害,顯示傷害
+option_camerashake,Camera shake,镜头抖动,鏡頭抖動
+option_battlecontrolguide,Battle Control Guide,战斗操作指南,戰鬥操作指南
+option_language,Language,语言,語言
+option_modsetting,game settings,模组设置,模組設置
+option_content,Content,内容,內容
+option_modsettingicon,"<sprite name=""Lock"">ModSettings","<sprite name=""Lock"">模组设置","<sprite name=""Lock"">模組設置"
+option_renderdistance,Render Distance,渲染距离,渲染距離
+option_expvolumetriccloudresolution,"[Experimental]
+Volumetric Cloud Resolution","[实验]
+体积云分辨率","[實驗]
+體積雲解析度"
+option_skyquality,Sky quality,天空质量,天空品質
+option_shadow,Shadow,阴影,陰影
+option_ssao,SSAO,屏幕空间环境光遮蔽,螢幕空間環境光遮蔽
+option_depthoffield,Depth-of-field,景深,景深
+option_general,General,通用,通用
+option_ship,Ship,舰船,艦船
+option_weapon,Weapon,武器,武器
+option_officers,Officers,军官,軍官
+option_camera,Camera,镜头,鏡頭
+option_menunaviation,Menu navigation,菜单导航,菜單導航
+option_itemactivation,Item Activation,项目启动,專案啟動
+option_debug,Debug,调试,調試
+option_keybinding,Key binding,按键设置,按鍵設置
+option_primary,Primary,主按键,主按鍵
+option_secondary,Secondary,次按键,次按鍵
+option_openmap,Open Map,打开地图,打開地圖
+option_button,Button,按钮,按鈕
+option_openshipcargo,Open Ship Cargo,打开舰船货舱,打開艦船貨艙
+option_openofficers,Open Officers Roster,打开军官页面,打開軍官頁面
+option_opentreasury,Open Treasury Screen,打开宝库页面,打開寶庫頁面
+option_openshiproster,Open Ships Roster,打开舰船名册,打開艦船名冊
+option_openshipdetail,Open Ship's Detail,打开舰船详细信息,打開艦船詳細資訊
+option_exitcancel,Exit/Cancel,退出/取消,退出/取消
+option_toggleuivisibility,Toggle UI Visibility,切换UI可视,切換UI可視
+option_timecontroltravel,Time Control : Travel,时间控制：航行,時間控制：航行
+option_timeresumepause,Time Resume/Pause,时间恢复/暂停,時間恢復/暫停
+option_togglegamespeed,Toggle Game Speed,切换游戏速度,切換遊戲速度
+option_timecontrolbattle,Time Control : Battle,时间控制：战斗,時間控制：戰鬥
+option_battleresumepause,Battle Resume/Pause,战斗恢复/暂停,戰鬥恢復/暫停
+option_speedupbattlehold,Speed Up Battle(Hold),战斗加速（长按）,戰鬥加速（長按）
+option_analog,Analog,模拟,模擬
+option_thrustaxis,Thrust Axis,推力轴,推力軸
+option_strafingaxis,Strafing Axis,扫射轴,掃射軸
+option_turnaxis,Turn Axis,转向轴,轉向軸
+option_digital,Digital,数字,數字
+option_forwardthrust,Forward Thrust,向前推动,向前推動
+option_backwardthrust,Backward Thrust,向后推动,向後推動
+option_turnright,Turn Right,右转,右轉
+option_turnleft,Turn Left,左转,左轉
+option_strafingright,Strafing Right,向右扫射,向右掃射
+option_strafingleft,Strafing Left,向左扫射,向左掃射
+option_travel,Travel,航行,航行
+option_cruisetowards,Cruise Towards,定向巡航,定向巡航
+option_stopcruising,Stop Cruising,停止巡航,停止巡航
+option_battlecontrol,Battle Control,作战控制,作戰控制
+option_fire,Fire,开火,開火
+option_directionalfirehold,Directional Fire [Hold],定向开火（长按）,定向開火（長按）
+option_bowfire,Bow Fire,船首开火,船首開火
+option_sternfire,Stern Fire,船尾开火,船尾開火
+option_starboardfire,Starboard Fire,右舷开火,右舷開火
+option_portfire,Port Fire,左舷开火,左舷開火
+option_firingchainselectionhold,Firing Chain Selection [Hold],发射链选择（长按）,發射鏈選擇（長按）
+option_firingchainnumber1,Firing chain number 1,1号发射链,1號發射鏈
+option_firingchainnumber2,Firing chain number 2,2号发射链,2號發射鏈
+option_firingchainnumber3,Firing chain number 3,3号发射链,3號發射鏈
+option_firingchainnumber4,Firing chain number 4,4号发射链,4號發射鏈
+option_firingchainnumber5,Firing chain number 5,5号发射链,5號發射鏈
+option_officerskillcontrol,Officer Skill Control,军官技能操作,軍官技能操作
+option_officerskillaction1,Officer Skill Action 1,军官技能动作1,軍官技能動作1
+option_officerskillaction2,Officer Skill Action 2,军官技能动作2,軍官技能動作2
+option_officerskillaction3,Officer Skill Action 3,军官技能动作3,軍官技能動作3
+option_officerskillaction4,Officer Skill Action 4,军官技能动作4,軍官技能動作4
+option_officerskillaction5,Officer Skill Action 5,军官技能动作5,軍官技能動作5
+option_officerskillaction6,Officer Skill Action 6,军官技能动作6,軍官技能動作6
+option_officerskillaction7,Officer Skill Action 7,军官技能动作7,軍官技能動作7
+option_activateskill,Activate Skill,发动技能,發動技能
+option_dollyaxis,Dolly Axis,滑动轴,滑動軸
+option_pedestralaxis,Pedestral Axis,上下轴,上下軸
+option_dollyforward,Dolly Forward,滑动向前,滑動向前
+option_dollybackward,Dolly Backward,滑动向后,滑動向後
+option_pedestralup,Pedestral Up,镜头向上,鏡頭向上
+option_pedestraldown,Pedestral Down,镜头向下,鏡頭向下
+option_changefocus,Change Focus,焦点变更,焦點變更
+option_orbithold,Camera Orbit [HOLD],轨道（长按）,軌道（長按）
+option_up,Up,向上,向上
+option_down,Down,向下,向下
+option_left,Left,向左,向左
+option_Right,Right,向右,向右
+option_generalplayership,General Player Ship,普通玩家舰船,普通玩家艦船
+option_repair,Repair,维修,維修
+option_refillammo,Refill Ammo,补充弹药,補充彈藥
+option_refillsupply,Refill Supply,补充物资,補充物資
+option_consumesupply,Consume Supply,物资消耗,物資消耗
+option_addsupplycrate,Add Supply Crate,添加物资箱,添加物資箱
+option_addfivecrew,Add Five Crew,增加5名船员,增加5名船員
+option_removefivecrew,Remove Five Crew,减少5名船员,減少5名船員
+option_removeshipmorale,Remove Ship Morale,降低舰船士气,降低艦船士氣
+option_increaseshipspeed,Increase Ship Speed,提高船速,提高船速
+option_decreaseshipspeed,Decrease Ship Speed,降低船速,降低船速
+option_printshipcoordinate,Print Ship Coordinate,发布舰船坐标,發佈艦船座標
+option_battle,Battle,战斗,戰鬥
+option_destroyplayership,Destroy player ship,摧毁玩家舰船,摧毀玩家艦船
+option_destroyenemyship,Destroy enemy ship,摧毁敌方舰船,摧毀敵方艦船
+option_removeplayercrew,Remove Player Crew,减少玩家船员,減少玩家船員
+option_removeenemycrew,Remove Enemy Crew,减少敌方船员,減少敵方船員
+option_repairenemyship,Repair Enemy Ship,维修敌方舰船,維修敵方艦船
+option_enemyunabletargeting,Enable Enemies Targeting,无法瞄准敌人,無法瞄準敵人
+option_enemycantargeting,Disable Enemies Targeting,可以瞄准敌人,可以瞄準敵人
+option_gameplay,Gameplay,游戏设置,遊戲設置
+option_display,Display,显示设置,顯示設置
+option_audio,Audio,音频设置,音頻設置
+option_graphic,Graphic,图像设置,圖像設置
+option_control,Control,操作设置,操作設置
+_removed_,-,-,-
+button_reset,Reset,重置,重置
+button_apply,Apply,应用,應用
+button_back,Back,返回,返回
+menu_releasecandidate,RELEASE CANDIDATE,发行版本,發行版本
+combat_popup_crew,Crew,船员,船員
+combat_popup_surrendered,SURRENDERED,投降,投降
+combat_command_selectcombatbehavior,Select combat behavior,选择战斗行为,選擇戰鬥行為
+combat_command_boardboardingtactic,Boarding,登船（登船战略）,登船（登船戰略）
+combat_command_attackfullassault,Assault,攻击,攻擊
+combat_command_attackevasiveassault,Evasive Assault,躲避攻击,躲避攻擊
+combat_command_evadefullevasion,Evasion,躲避,躲避
+combat_command_sternrake,Stern rake,船尾扫射,船尾掃射
+combat_command_outmanuever,Outmanuever,机动制胜,機動制勝
+combat_command_retreat,Retreat,撤退,撤退
+combat_command_regroup,Regroup,重新部署,重新部署
+battleconclude_victory,VICTORY,胜利,勝利
+battleconclude_obtained,OBTAINED,获得,獲得
+partpopup_itemname,Item Name,物品名称,物品名稱
+partpopup_itemtype,Item Type,物品类型,物品類型
+partpopup_repairteams,Repair Teams,维修团队,維修團隊
+partpopup_ammo,Ammo,弹药,彈藥
+partpopup_crewcapacity,Crew Capacity,船员规模,船員規模
+partpopup_crewregeneration,Crew Regeneration,船员恢复,船員恢復
+partpopup_slot,Slot,舱位,艙位
+partpopup_VIP,VIP,VIP,VIP
+partpopup_captain,Captain,船长,船長
+partpopup_gunner,Gunner,炮兵,炮兵
+partpopup_navigator,Navigator,领航员,領航員
+partpopup_engineer,Engineer,工程师,工程師
+partpopup_quartermaster,Quartermaster,舵手,舵手
+partpopup_npc,NPC,NPC,NPC
+partpopup_thrust,Thrust,直行,直行
+partpopup_turn,Turn,转弯,轉彎
+partpopup_Maneuver,Maneuver,操舵,操舵
+partpopup_supplystorage,Supply Storage,物资存储,物資存儲
+partpopup_supplygeneration,Supply Generation,物资产生,物資產生
+partpopup_cargospace,Cargo Space,货舱空间,貨艙空間
+partpopup_shield,Shield,护盾,護盾
+partpopup_recharged,Recharge,充电,充電
+partpopup_regeneration,Regeneration,恢复,恢復
+partpopup_resistance,Resistance,减伤,減傷
+partpopup_potency,Potency,火力,火力
+partpopup_fighteramount,Fighter Amount,战斗机数量,戰鬥機數量
+partpopup_range,,射程,射程
+partpopup_firingarc,Firing Arc,射击范围,射擊範圍
+partpopup_reload,Reload,装填弹药,裝填彈藥
+partpopup_energy,Energy,能量,能量
+partpopup_trainingtime,Rearming time,训练时间,訓練時間
+partpopup_trainingcost,Rearming cost,训练成本,訓練成本
+partpopup_stacksize,Stack Size,可存储数量,可存儲數量
+partpopup_fighterattributes,Fighter attributes,战斗机属性,戰鬥機屬性
+partpopup_guided,- G U I D E D -,- 显示指引 -,- 顯示指引 -
+partpopup_unguided,U N G U I D E D,不显示指引,不顯示指引
+partpopup_projectileattributes,Projectile attributes,弹药属性,彈藥屬性
+partpopup_explosive,Explosive,爆炸性,爆炸性
+partpopup_damagesnearbypartsoncedestroyed,Damages nearby parts once destroyed.,一旦被破坏，会对周围部分造成损害。,一旦被破壞，會對周圍部分造成損害。
+partpopup_placements,Placements,布局,佈局
+battleconclude_result,result,结果,結果
+battleconclude_playersfleet,Player's Fleet,玩家舰队,玩家艦隊
+battleconclude_winner,Winner,胜利,勝利
+battleconclude_enemysfleet,Enemy's fleet,敌方舰队,敵方艦隊
+battleconclude_defeat,Defeat,失败,失敗
+battleconclude_vs,vs,VS,VS
+battleconclude_flagship,Flagship,旗舰,旗艦
+battleconclude_damagedealt,Damage dealt,造成伤害,造成傷害
+battleconclude_damagerecieved,Damage receieved,受到伤害,受到傷害
+battleconclude_ammoused,Ammo used,消耗弹药,消耗彈藥
+battleconclude_materialused,Materials used,消耗材料,消耗材料
+battleconclude_escortI,Escort I,护卫舰 I,護衛艦 I
+battleconclude_escortII,Escort II,护卫舰 II,護衛艦 II
+shipattribute_fleetssupplies,Fleet's supplies,舰队物资,艦隊物資
+shipattribute_fuel,Fuel,燃料,燃料
+shipattribute_morale,Morale,士气,士氣
+shipattribute_ammunition,Ammunition,弹药,彈藥
+shipattribute_material,Materials,材料,材料
+shipattribute_Loading,Loading....,正在加载……,正在加載……
+shipattribute_shipoverview,SHIP OVERVIEW,舰船概况,艦船概況
+shipattribute_health,Health,生命值,生命值
+shipattribute_supply,Supply,物资,物資
+shipattribute_maxspeed,Max speed,最大速度,最大速度
+shipattribute_propulsion,Propulsion,推动力,推動力
+shipattribute_firepower,Firepower,火力,火力
+shipattribute_Morale,Morale,士气,士氣
+shipattribute_cargoslot,Cargo slot,货舱舱位,貨艙艙位
+shipattribute_Maxturnrate,Max turn rate,最大旋转速度,最大旋轉速度
+shipattribute_dryweight,Dry Weight,干重,幹重
+battleconclude_airshipacquired,AIRSHIPS ACQUIRED!,获得飞空艇！,獲得飛空艇！
+battleconclude_airships,AIRSHIPS,飞空艇,飛空艇
+battleconclude_actions,Actions,行动,行動
+surrender_surrendercharge,Surrender charge,投降费用,投降費用
+surrender_lootvalue,Loot Value,战利品价值,戰利品價值
+surrender_paywitheagle,Pay with Eagle,用金钱支付,用金錢支付
+surrender_totalvalue,Total Value,总价值,總價值
+surrender_payandleave,Pay and leave,支付并离开,支付並離開
+cargo_cargomanagement,Cargo management,货舱管理,貨艙管理
+cargo_excessitemswillbediscarded,Excess items will be discarded,多余物品将被丢弃,多餘物品將被丟棄
+surrender_spoilofwar,SPOIL OF WAR,战利品,戰利品價值
+surrender_transferall,Transfer All,全部转移,全部轉移
+surrender_leave,Leave,出发,出發
+surrender_paywithyourloot,Pay with your loots and/or eagle,用战利品和/或者金钱支付,用戰利品和/或者金錢支付
+port_shipyard,Shipyard,舰船定制,艦船定制
+port_takeoff,TAKE OFF,起飞,起飛
+cruise_fleetspeed,Fleet Speed,航行速度,航行速度
+cruise_kmh,km/h,km/h,km/h
+quest_quest,Quest,任务,任務
+quest_currentquest,Current Quest :,当前任务：,當前任務：
+quest_questdemands,Quest Demands :,任务需求：,任務需求：
+quest_questrewards,Quest Rewards :,任务奖励：,任務獎勵：
+quest_proceed,Proceed,任务完成,任務完成
+supplystation_max,MAX,上限,上限
+supplystation_supplystation,Supply station,补给站,補給站
+supplystation_refillall,Refill all,全部加满,全部加滿
+supplystation_payandreplenish,Pay and replenish,支付并补充,支付並補充
+supplystation_spendthenight,Spend the night,过夜,過夜
+supplystation_availablefrom4pm,(Available from 4 PM to 6 AM),（下午4点至清晨6点可用）,（下午4點至清晨6點可用）
+merchant_youravailableeagle,Available Fund:,您的可用资金：,您的可用資金：
+merchant_merchantcolon,Merchant :,商人：,商人：
+merchant_bulktransaction,Shift + Left-Click for bulk transaction,Shift + 左键单击可批量操作,Shift + 左鍵單擊可批量操作
+shipattribute_km,km,km,km
+shipattribute_summary,SUMMARY,摘要,摘要
+shipattribute_airframe,Airframe,机身,機身
+shipattribute_officer,Officers,军官,軍官
+shipattribute_cargo,Cargo,货舱,貨艙
+shipattribute_performance,PERFORMANCE,性能,性能
+shipattribute_cruise,Cruise,巡航,巡航
+shipattribute_Battle,Battle,战斗,戰鬥
+shipattribute_integrity,Integrity,完整度,完整度
+travel_currentdestination,Current Destination,当前目的地,當前目的地
+travel_customdestination,CUSTOM DESTINATION,自定义目的地,自定義目的地
+travel_eta,ETA :,预计到达时间：,預計到達時間：
+travel_legend,LEGEND,图例,圖例
+travel_port,PORT,港口,港口
+travel_fleet,FLEET,舰队,艦隊
+encounter_harvestable,HARVESTABLE,可获取,可獲取
+encounter_power,Power,动力,動力
+encounter_speed,Speed,速度,速度
+encounter_about,About,详情,詳情
+encounter_specialloot,Special loot,特殊战利品,特殊戰利品
+travel_portfacilities,Port Facilities,港口设施,港口設施
+travel_destinations,DESTINATIONS,目的地,目的地
+travel_selectyourdestination,Select your destination,请选择您的目的地,請選擇您的目的地
+hangar_hangar,Hangar,舰船库,艦船庫
+hangar_availablevessel,AVAILABLE VESSEL,可用舰船,可用艦船
+hangar_changeflagship,CHANGE FLAGSHIP,旗舰变更,旗艦變更
+hangar_blueprint,BLUEPRINT,设计图,設計圖
+hangar_portrait,PORTRAIT,外观,外觀
+hangar_information,"INFORMATION
+",信息,資訊
+hangar_officeronboard,OFFICER ONBOARD,飞艇军官,飛艇軍官
+shipattribute_cargohold,CARGO HOLD,货舱装载,貨艙裝載
+shipattribute_airframecolon,Airframe :,机身：,機身：
+shipattribute_descriptioncolon,Description :,说明：,說明：
+shipattribute_lengthbeamheight,Length/Beam/Height :,长度/宽度/高度：,長度/寬度/高度：
+shipattribute_totalgridcolon,Total grid :,网格总数：,網格總數：
+shipattribute_launchcolon,Launched :,发射：,發射：
+shipattribute_battlewinretreat,Battle/Win/Retreat :,战斗/胜利/撤退：,戰鬥/勝利/撤退：
+shipattribute_killcapsize,Kill/Capsize :,击杀/坠毁：,擊殺/墜毀：
+shiproster_meetthe,MEET THE,搭乘,搭乘
+shiproster_roster,Roster,名册,名冊
+pvp_setup_create,CREATE,创建,創建
+pvp_setup_customize,CUSTOMIZE,自定义,自定義
+pvp_setup_gamemode,GAME MODE,游戏模式,遊戲模式
+pvp_setup_classic,classic,经典,經典
+pvp_setup_versus,versus,对抗,對抗
+generic_comingsoon,coming soon,即将更新,即將更新
+pvp_setup_deathmatch,DEATH MATCH,死亡竞赛,死亡競賽
+pvp_setup_creatematch,CREATE MATCH,创建房间,創建房間
+pvp_lobby_activeskill,ACTIVE SKILL,主动技能,主動技能
+pvp_lobby_matchlobby,MATCH LOBBY,匹配大厅,匹配大廳
+pvp_lobby_roomcode,MATCH CODE,房间号,房間號
+pvp_lobby_matchinformation,MATCH INFORMATION,匹配信息,匹配資訊
+pvp_lobby_playeramount,player amount,玩家数量,玩家數量
+pvp_lobby_maximumshipplayer,MAXIMUM SHIP / player,舰船/玩家最大数量,艦船/玩家最大數量
+pvp_lobby_maxshipcost,maximum ship cost,舰船最大成本,艦船最大成本
+pvp_lobby_offlineonlinemode,offline / online mode,离线/在线模式,離線/線上模式
+pvp_lobby_online,online,联机,聯機
+pvp_lobby_battleground,BATTLE GROUND,战场,戰場
+button_changegamemode,CHANGE GAME MODE,更改游戏模式,更改遊戲模式
+pvp_lobby_blueteam,blue team,蓝方,藍方
+pvp_lobby_redteam,red team,红方,紅方
+button_join,JOIN,加入,加入
+pvp_lobby_escort,escort,护卫舰,護衛艦
+button_ready,READY,准备就绪,準備就緒
+pvp_lobby_availableslot,AVAILABLE SLOT,可选位置,可選位置
+pvp_lobby_selecting,Selecting...,选择中……,選擇中……
+pvp_lobby_matchstartin,MATCH STARTS IN,预计匹配时间,預計匹配時間
+button_leaveteam,LEAVE TEAM,离开队伍,離開隊伍
+button_kick,KICK,踢出,踢出
+pvp_lobby_noofship,NO. OF SHIP,舰船数量,艦船數量
+pvp_lobby_obstruction,OBSTRUCTION,障碍物,障礙物
+pvp_lobby_round,ROUND,回合,回合
+pvp_lobby_passiveskill,PASSIVE SKILL,被动技能,被動技能
+pvp_lobby_maximumcost,MAXIMUM COST,最大成本,最大成本
+pvp_lobby_enteramatchcode,Enter a match code,输入匹配号,輸入匹配號
+pvp_lobby_loadoutmanager,LOADOUT MANAGEMENT,装载管理,裝載管理
+pvp_lobby_select,SELECT,选择,選擇
+pvp_combat_yourshiphasbeen,YOUR SHIP HAS BEEN,您的舰船已经,您的艦船已經
+pvp_combat_disabled,DISABLED,残损,殘損
+pvp_conclude_statistic,STATISTIC,统计,統計
+pvp_conclude_totaldamage,TOTAL DAMAGE,总伤害,總傷害
+pvp_conclude_topdamage,TOP DAMAGE,最高伤害,最高傷害
+pvp_conclude_damagetaken,DAMAGE TAKEN,遭受伤害,遭受傷害
+pvp_conclude_total,Total,总计,總計
+pvp_conclude_playagain,PLAY AGAIN,重新开始,重新開始
+pvp_combat_matchstartincolon,MATCH STARTS IN :,预计匹配时间：,預計匹配時間：
+pvp_combat_hp,INTEGRITY,生命值,生命值
+pvp_combat_engaged,ENGAGED,交战,交戰
+pvp_combat_defeatallenemies,Defeat all enemies,击败所有敌人,擊敗所有敵人
+menu_pressanykey,Press Any Key,按任意键,按任意鍵
+intro_pressesctoskip,Press ESC to skip...,按ESC跳过,按ESC跳過
+officer_skill,Skill,技能,技能
+officer_lv,Lv.,Lv.,Lv.
+officer_traits,Traits,特性,特性
+officer_tactics,Tactics,战术,戰術
+menu_startingamewarning,Starting a new game will overwrite the latest Autosave file.,开始新游戏将自动覆盖自动保存的最新存档。,開始新遊戲將自動覆蓋自動保存的最新存檔。
+menu_wouldyouliketocontinue,Would you like to continue?,是否继续？,是否繼續？
+option_game_name,Airship: Kingdoms Adrift,飞空艇时代：贸易帝国,飛空艇時代：貿易帝國
+option_company_name,"Revolution Industry Co,Ltd. 2020","Revolution Industry Co,Ltd. 2020","Revolution Industry Co,Ltd. 2020"
+option_game,Game,游戏,遊戲
+option_howtoplay,How to Play,游戏玩法,遊戲玩法
+option_savegame,Save Game,保存游戏,保存遊戲
+option_quit_exittomainmenu,Exit To Main Menu,返回主菜单,返回主菜單
+option_quit_quittodesktop,Quit To Desktop,返回桌面,返回桌面
+option_reportabug,Report a bug,反馈错误,回饋錯誤
+option_joinusondiscord,Join us on Discord,加入QQ社区,加入QQ社區
+officer_careerprogress,Career Progress,职业发展,職業發展
+officer_passiveskills,Passive Skills,被动技能,被動技能
+officer_activeskills,Active Skills,主动技能,主動技能
+officer_rank,Rank,等级,等級
+officer_status,Status,状态,狀態
+officer_profile,Profile,简介,簡介
+officer_bio,BIO,个人履历,個人履歷
+officer_career,Career,职业,職業
+officer_promote,Promote,升级,升級
+officer_levelcolon,Level:,级别：,級別：
+officer_expcolon,| EXP:,| 经验：,| 經驗：
+officer_officercolon,| Officer:,| 军官：,| 軍官：
+officer_nextlevel,NEXT LEVEL,下一级,下一級
+shiproster_overview,OVERVIEW,概述,概述
+shiproster_history,HISTORY,历史记录,歷史記錄
+shiproster_generalspecification,GENERAL SPECIFICATION,通用标准,通用標準
+shiproster_servicerecord,SERVICE RECORD,服务记录,服務記錄
+shiproster_layout,Layout,布局,佈局
+shiproster_persec,/s,/秒,/秒
+generic_pressesctoclose,Press <b>[ESC]</b> or <b>[Click]</b> anywhere outside to close,按<b>[ESC]</b> 或 <b>[点击]</b>画面外的任意地方以关闭,按<b>[ESC]</b> 或 <b>[點擊]</b>畫面外的任意地方以關閉
+howto_subject_introductionheader,Introduction (2),简介 (2),簡介 (2)
+howto_subject_welcometoairshipkingdomsadrift,Welcome to Airship: Kingdoms Adrift,欢迎体验《飞空艇时代：贸易帝国》,歡迎體驗《飛空艇時代：貿易帝國》
+howto_subject_shipyardheader,Shipyard (3),舰船定制 (3),艦船定制 (3)
+howto_subject_airshipcustomization,Airship customization,飞艇定制,飛艇定制
+howto_subject_airshipparameter,Airship parameters,飞艇参数,飛艇參數
+howto_subject_firecontrolpalette,Fire control palette,武器模块,武器模組
+howto_subject_hangarheader,Hangar (2),舰船库 (2),艦船庫 (2)
+howto_subject_manageyourfleets,Manage your fleets,管理您的舰队,管理您的艦隊
+howto_subject_cargowarehouseheader,Cargo & Warehouse (1),货舱&仓库 (1),貨艙&倉庫 (1)
+howto_subject_manageyouritem,Manage your item,管理您的物品,管理您的物品
+howto_subject_officerandquestheader,Officer and Quest (1),军官与任务 (1),軍官與任務 (1)
+howto_subject_manageyourofficers,Manage your officers,管理您的军官,管理您的軍官
+howto_subject_traversalheader,Travelling (5),航行 (5),航行 (5)
+howto_subject_basicmovementcontrol,Basic movements,基础移动控制,基礎移動控制
+howto_subject_travelmode,Travel mode,旅行模式,旅行模式
+howto_subject_interactablesencounters,Interactables & encounters,互动&遭遇事件,互動&遭遇事件
+howto_subject_encountertypes,Encounter types,遭遇事件类型,遭遇事件類型
+howto_subject_navigationheader,Navigation (1),导航 (1),導航 (1)
+howto_subject_manageyourvoyage,Manage your voyage,导航图,導航圖
+howto_subject_battleheader,Battle (5),战斗 (5),戰鬥 (5)
+howto_subject_firingconverage,Firing coverage,攻击范围,攻擊範圍
+howto_subject_officertactic,Officer tactics,军官战术,軍官戰術
+howto_subject_closequarterscombat,Close quarters combat,近距离作战,近距離作戰
+howto_subject_surrendercapsizing,Surrender & capsizing,投降&坠毁,投降&墜毀
+howto_welcometoairship,"You have just received your first order. <style=""gold"">Jean</style> and <style=""gold"">Agatha</style> would expect that you perform it right away. There are things you need to get accustomed to in Airship: Kingdoms Adrift. We believe you are up to the task. Your career in the Segson Archipelago depends on your ability to do what you were asked to do and make your fortune while you're at it. Destiny has its way of lifting you up and bringing you down. Whenever life gives you lemons, make lemonade. You have always succeeded, through the long Great War and the years that followed. Build your wealth, gain influence, make the best out of every moment, and realize your dream—whatever that may be.","您刚刚收到第一份订单，<style=""gold"">吉恩</style>和<style=""gold"">阿加莎</style>希望能尽快完成。在《飞空艇时代：贸易帝国》中，您需要去学习和习惯一些事情，我们相信您可以胜任。您在萨斯赛克群岛的职业生涯决定于您是否有能力完成其他人的任务，当然，您也会在这过程中收获财富。命运会以它的方式给予你试炼，任何事情都有其两面性，完全取决于您的角度和处理方式。在漫长的大战中，以及那之后的一年里，您一直努力不懈，颇有建树。未来更是如此，您将积累财富，闻名世界。无论您的梦想是什么，请充分利用每一次机会，持之以恒，终有圆梦一日。","您剛剛收到第一份訂單，<style=""gold"">吉恩</style>和<style=""gold"">阿加莎</style>希望能儘快完成。在《飛空艇時代：貿易帝國》中，您需要去學習和習慣一些事情，我們相信您可以勝任。您在薩斯賽克群島的職業生涯決定於您是否有能力完成其他人的任務，當然，您也會在這過程中收穫財富。命運會以它的方式給予你試煉，任何事情都有其兩面性，完全取決於您的角度和處理方式。在漫長的大戰中，以及那之後的一年裏，您一直努力不懈，頗有建樹。未來更是如此，您將積累財富，聞名世界。無論您的夢想是什麼，請充分利用每一次機會，持之以恆，終有圓夢一日。"
+howto_instruction_head,Instruction,基础说明,基礎說明
+howto_instruction1,"You can listen to <style=""gold"">Jean, your shipmaster</style> regarding your mission information and its objective by clicking on his portrait. While following Jean's recommendations can enhance your career and maintain everyone's happiness, it's also acceptable to occasionally pursue your own path. However, keep in mind that Jean's guidance often opens doors to benefits you may not attain independently. Therefore, prioritize wisely.","您可以通过点击头像，听取<style=""gold"">吉恩，您的船长</style> 对于目前任务进程及目标的观点。按照他的建议行事，不仅对您的职业发展有好处，还可以令多方满意，从而获得更多影响力。或许他还可以给您一些关于任务优先级的提议，着眼于现在的目标，还是转变方向曲线救国，供您决定。除此之外，吉恩提供的方向可能使您收获一笔意外之财，因此请明智地优先采纳他的建议。","您可以通過點擊頭像，聽取<style=""gold"">吉恩，您的船長</style> 對於目前任務進程及目標的觀點。按照他的建議行事，不僅對您的職業發展有好處，還可以令多方滿意，從而獲得更多影響力。或許他還可以給您一些關於任務優先順序的提議，著眼於現在的目標，還是轉變方向曲線救國，供您決定。除此之外，吉恩提供的方向可能使您收穫一筆意外之財，因此請明智地優先採納他的建議。"
+howto_facilities_head,FACILITIES,港口设施,港口設施
+howto_facilities1,"You can access port facilities using the menu to the right side of the screen. Now, at the Silberblum Trading Company HQ, you have access to <style=""gold"">the Hangar</style>, <style=""gold"">the Warehouse</style>, <style=""gold"">Miss Agatha's office</style> and <style=""gold"">the Shipyard</style>. The HQ is one of many ports you can resupply and find out more about the Segson Archipelago and the Suthseg Kingdom. Each port is different. You should always explore every possible option in ports before you leave.","您可以通过屏幕右侧的菜单访问港口设施，当前处于斯波布鲁总部，您可以查看<style=""gold"">舰船库</style>，<style=""gold"">仓库</style>，<style=""gold"">阿加莎夫人的办公室</style>以及<style=""gold"">造船厂</style>。斯波布鲁总部仅是供您补给的众多港口之一，您可在塞格森群岛以及萨斯赛克王国境内寻找到更多。每个港口都有其区别，在您启航离开之前，应该尝试探索关于港口的每个可能性。","您可以通過螢幕右側的菜單訪問港口設施，當前處於斯波布魯總部，您可以查看<style=""gold"">艦船庫</style>，<style=""gold"">倉庫</style>，<style=""gold"">阿加莎夫人的辦公室</style>以及<style=""gold"">造船廠</style>。斯波布魯總部僅是供您補給的眾多港口之一，您可在塞格森群島以及薩斯賽克王國境內尋找到更多。每個港口都有其區別，在您啟航離開之前，應該嘗試探索關於港口的每個可能性。"
+howto_career_head,CAREER OPTIONS,职业选择,職業選擇
+howto_career1,Check out your career progression by examine everything you own.,通过您所拥有的一切，确定您的职业发展。,通過您所擁有的一切，確定您的職業發展。
+howto_airshipfitting1,"You will be able to refit your ship which is an <style=""gold"">Airframe</style> holding multiple parts together.Within the airframe, there are 6 types of <style=""gold"">grid</style> capable of housing different types of parts. You can  pick up parts from the tray to the left and grids would change to green, yellow and red highlights. These colors mean whether you can/cannot place the part onto the grid or which grid is currently occupied.","您可以按照喜好改装自己的飞艇，一架<style=""gold"">飞艇</style>是由多个零件组装而成的，共有6种<style=""gold"">格位</style>，以容纳不同类型的零部件。您可以从左侧选择零件，格位将显示为绿色/黄色/红色，不同的颜色表示您是否可以将该零件放置于此格位中，或该零件当前已占用了哪个格位。","您可以按照喜好改裝自己的飛艇，一架<style=""gold"">飛艇</style>是由多個零件組裝而成的，共有6種<style=""gold"">格位</style>，以容納不同類型的零部件。您可以從左側選擇零件，格位將顯示為綠色/黃色/紅色，不同的顏色表示您是否可以將該零件放置於此格位中，或該零件當前已佔用了哪個格位。"
+howto_airshipfitting2,"Parts can be placed into their compatible grid types 
+*with some placement restrictions","某些零件可被放置于兼容格位中
+*存在一些放置条件","某些零件可被放置於相容格位中
+*存在一些放置條件"
+howto_airshipfitting3,Follow the checklist and press “Finish”,按照检查表安装完成后点击“完成”,按照檢查表安裝完成後點擊“完成”
+howto_airshipparameters1,"1) Mana Shield -                                          Some ships have forcefield that could block attacks
+2) Ship’s Integrity  -                                    A combined amount of integrity from all parts onboard
+3) Power -                                                    Power plants produce power while other parts utilize them
+4) Propulsion Force -                                 A combined output of all drives onboard in Newton
+5) Crew Onboard  -                                    A combined amount of crew needed to operate ship parts
+6) Crew's Morale -                                     Officers need morale to issue commands
+7) Total Firepower -                                   A combined number of firepower on all weapons onboard
+8) Weight, Speed, and Turn -                    Weight and propulsion output determines ships performance
+9) Fleet's Supplies -                                   Amount of Ammo, fuel and Materials stored that is share among fleet members
+10) Cargo Space and Repair Team -        Cargo capacity and the amount of part that can be repaired at the same time","1) 魔法护盾——某些飞艇拥有可用于阻挡攻击的无形力障区
+2) 飞艇完整度——全部零部件的综合完整程度
+3) 动力——能源装置会提供动力，其他部分则消耗动力
+4) 推动力——飞艇上所有驱动装置的综合输出能力，单位为牛顿
+5) 飞艇船员——操作飞艇部件所需的船员总数
+6) 船员士气——军官发布命令需要一定的士气要求
+7) 总火力——飞艇所有武器的火力输出总和
+8) 重量、速度以及转动灵活性——飞艇的重量和推动力输出决定了飞艇性能
+9) 舰队物资——存储的弹药、燃料以及材料数量，可供舰队成员共享
+10) 货舱空间及维修团队——表示货物储存容量以及可被同时修复的零件数量","1) 魔法護盾——某些飛艇擁有可用於阻擋攻擊的無形力障區
+2) 飛艇完整度——全部零部件的綜合完整程度
+3) 動力——能源裝置會提供動力，其他部分則消耗動力
+4) 推動力——飛艇上所有驅動裝置的綜合輸出能力，單位為牛頓
+5) 飛艇船員——操作飛艇部件所需的船員總數
+6) 船員士氣——軍官發佈命令需要一定的士氣要求
+7) 總火力——飛艇所有武器的火力輸出總和
+8) 重量、速度以及轉動靈活性——飛艇的重量和推動力輸出決定了飛艇性能
+9) 艦隊物資——存儲的彈藥、燃料以及材料數量，可供艦隊成員共用
+10) 貨艙空間及維修團隊——表示貨物儲存容量以及可被同時修復的零件數量"
+howto_airshipparameters2,"Airships are complex machines comprised of numerous parts. With each part added onboard, the ship's performance undergoes changes. Conversely, during battle, if a ship part is destroyed, the ship loses performance corresponding to the contribution of the lost part. Here are the ship performance parameters:",飞艇是由许多部件组成的复杂机器，您在飞艇上放置的每一个零部件都会影响飞艇的对应性能。在战斗中，若一个零部件被彻底摧毁，飞艇将失去该部分增加的性能优势。以下是具体的飞艇性能参数：,飛艇是由許多部件組成的複雜機器，您在飛艇上放置的每一個零部件都會影響飛艇的對應性能。在戰鬥中，若一個零部件被徹底摧毀，飛艇將失去該部分增加的性能優勢。以下是具體的飛艇性能參數：
+howto_airshipparameters_head,AIRSHIP PARAMETERS,飞艇参数,飛艇參數
+howto_firecontrol_head,FIRE CONTROL PALETTE AND FIRING CHAIN PRESET,火力控制及发射链预设,火力控制及發射鏈預設
+howto_firecontrol1,Fire control palette displays weapon types available on each side of the ship. There are three symbolic bottons which appear only if that weapon type is available in that direction of a ship.,火力控制面板显示了飞艇每侧的可用武器类型，只有当该武器类型在飞艇某方向可用时，会出现三个象征性的显示。,火力控制面板顯示了飛艇每側的可用武器類型，只有當該武器類型在飛艇某方向可用時，會出現三個象徵性的顯示。
+howto_firecontrol2,"You can customize the ship firing behavior by activate/deactivate weapon type icons on each side, and the configuration will save permanently with each ship. you can switch between presets by clicking on the preset’s button.",您可以通过图标，激活/停用每侧的武器类型，来自定义飞艇的射击行为，该设置将以飞艇为单位永久保存。您可以通过单击预设按钮切换状态。,您可以通過圖示，啟動/停用每側的武器類型，來自定義飛艇的射擊行為，該設置將以飛艇為單位永久保存。您可以通過單擊預設按鈕切換狀態。
+howto_firecontrol3,WEAPON STATUS:,武器状态：,武器狀態：
+howto_firecontrol4,"Available :                   Display in <style=""lawngreen"">Green</style>
+Deactivated :               Display in White 
+Destroyed :                  Display in <style=""tomato"">Red</style>
+Being reloaded :         Display in <style=""grey"">Darker color</style>","可用：               显示为<style=""lawngreen"">绿色</style>
+已停用：           显示为白色
+被摧毁：           显示为<style=""tomato"">红色</style>
+重新装填弹药：显示为<style=""grey"">灰色</style>","可用： 顯示為<style=""lawngreen"">綠色</style>
+已停用： 顯示為白色
+被摧毀： 顯示為<style=""tomato"">紅色</style>
+重新裝填彈藥：顯示為<style=""grey"">灰色</style>"
+howto_firecontrol5,WEAPON TYPES:,武器类型：,武器類型：
+howto_firecontrol6,"Direct Fire Weapons:         
+<style=""grey"">Streams, Bullets,         
+Shells, and Lances</style>
+
+Guided Missile:                 
+<style=""grey"">Guided, powerful,         
+but consume high 
+amount of ammo</style>
+
+Torpedos:                         
+<style=""grey"">Unguided, very powerful,         
+consume a very high 
+amount of ammo</style>
+
+Mines:                        
+<style=""grey"">Stationary, very powerful,         
+consume a high 
+amount of ammo</style>","直接火力武器：         
+<style=""grey"">连发，可用子弹，
+可用炮弹，可用长矛</style>
+
+定向导弹：                 
+<style=""grey"">定向，强力，
+弹药消耗大</style>
+
+鱼雷                         
+<style=""grey"">非定向，非常强力，
+弹药消耗非常大</style>
+
+水雷：                        
+<style=""grey"">静止投放，非常强力，
+弹药消耗大</style>","直接火力武器： 
+<style=""grey"">連發，可用子彈，
+可用炮彈，可用長矛</style>
+
+定向導彈： 
+<style=""grey"">定向，強力，
+彈藥消耗大</style>
+
+魚雷 
+<style=""grey"">非定向，非常強力，
+彈藥消耗非常大</style>
+
+水雷： 
+<style=""grey"">靜止投放，非常強力，
+彈藥消耗大</style>"
+howto_manageyourship_head,MANAGE YOUR SHIP ROSTER,飞艇名册,飛艇名冊
+howto_manageyourship1,"Along your journey, you will gain access to more ships with varying strengths and weaknesses. Once acquired, your new ships would show up in the ship Roster. This list helps you keep track of where about you kept them or what tasks you have put them to.",在您的旅程中，将有机会获得更多不同的飞艇，一旦您收获了一架飞艇，将立刻出现在飞艇名册中。该列表可以帮助您定位该飞艇被放置在何处，或是您将其派遣至哪个任务。,在您的旅程中，將有機會獲得更多不同的飛艇，一旦您收穫了一架飛艇，將立刻出現在飛艇名冊中。該列表可以幫助您定位該飛艇被放置在何處，或是您將其派遣至哪個任務。
+howto_manageyourship2,"While you can manage your roster anywhere,  you can switch between ships only once you are at the same port as they do. Do not forget to go to the shipyard and move your officers along if you need them on the new ship.",尽管您可以在任何地点、时间对飞艇名册进行查看和管理，但只有您与该飞艇处于同一港口时，才能在不同飞艇之间切换。如果您的新飞艇需要军官，请不要忘记前往造船厂调动他们。,儘管您可以在任何地點、時間對飛艇名冊進行查看和管理，但只有您與該飛艇處於同一港口時，才能在不同飛艇之間切換。如果您的新飛艇需要軍官，請不要忘記前往造船廠調動他們。
+howto_manageitem_head,MANAGE YOUR ITEMS,物品管理,物品管理
+howto_manageitem1,"Check out your belongings by clicking on the <style=""gold"">Cargo</style> and <style=""gold"">Treasury</style> buttons or visiting any available <style=""gold"">Warehouses</style>. Items in the ship’s cargo holds and warehouses are required space to store. On the contrary, treasures are things that you keep to yourself along with recognition of good and bad deeds you have done, these would always be with you wherever you go without any space requirement.","通过点击<style=""gold"">货舱</style>和<style=""gold"">宝库</style>按钮，或查看任何可用的仓库，以检查您拥有的物品。船上货舱及仓库装载的物品都需要对用空间存放，相反，伴随着您所作的善举或恶行，您可以永远保留这些宝藏，且不需要消耗任何存放空间。","通過點擊<style=""gold"">貨艙</style>和<style=""gold"">寶庫</style>按鈕，或查看任何可用的倉庫，以檢查您擁有的物品。船上貨艙及倉庫裝載的物品都需要對用空間存放，相反，伴隨著您所作的善舉或惡行，您可以永遠保留這些寶藏，且不需要消耗任何存放空間。"
+howto_manageitem2,Select the primary inventory from any nearby ship or visit your treasury,选择附近任何一艘飞艇的主要库存，或查看您的宝库,選擇附近任何一艘飛艇的主要庫存，或查看您的寶庫
+howto_manageitem3,"Select and transfer item with any port or ship in vicinity, or explore any other known inventory",选择并转移附近的港口或飞艇的物品，或者探索其他任何已知的库存物品,選擇並轉移附近的港口或飛艇的物品，或者探索其他任何已知的庫存物品
+howto_officers_head,OFFICER’S PROFILE AND PERSONAL QUESTS,军官简介及个人任务,軍官簡介及個人任務
+howto_officers1,"Along your journey, you will be able to recruit officers whom you can assign to positions onboard your ships or have them manage your port businesses. And with combat experience, they will level up and become stronger. Your officers came with their talents, background, and their own quests, you can check them out by visiting their panels.",在您的征程中，您也可以自行招募军官，并将其分配至飞艇的各个职位，或者安排他们管理您的港口。随着战斗经验的积累，他们也会逐渐成长和愈加强大。您的军官有着各自的天赋、背景及个人任务，您可以通过访问其面板查看。,在您的征程中，您也可以自行招募軍官，並將其分配至飛艇的各個職位，或者安排他們管理您的港口。隨著戰鬥經驗的積累，他們也會逐漸成長和愈加強大。您的軍官有著各自的天賦、背景及個人任務，您可以通過訪問其面板查看。
+howto_officers2,OFFICER’S INFORMATION,军官信息,軍官資訊
+howto_officers3,OFFICER’S CAREER,军官生涯,軍官生涯
+howto_officers4,OFFICER’S QUEST,军官任务,軍官任務
+howto_officers5,"Select between Profile Tab, Bio Tab and Career Tab to reveal more information about your officers.",可以通过切换简介、个人履历以及职业选项卡来查看有关您的军官更多信息。,可以通過切換簡介、個人履歷以及職業選項卡來查看有關您的軍官更多資訊。
+howto_officers6,Select the Career Tab to view all officer’s traits and tactics. Hover the mouse cursor over the talents for more information.,选择职业选项卡，可以查看所有军官的特点及战术优势，将鼠标悬停在天赋之上，以获取更多信息。,選擇職業選項卡，可以查看所有軍官的特點及戰術優勢，將滑鼠懸停在天賦之上，以獲取更多資訊。
+howto_officers7,"Select the Quest Tab to check out their ongoing quests. To find out more about the quest items, hover the mouse over them.",选择任务选项卡可以查看他们正在进行的任务，若想了解更多任务相关信息，请将鼠标悬停在上面。,選擇任務選項卡可以查看他們正在進行的任務，若想瞭解更多任務相關資訊，請將滑鼠懸停在上面。
+howto_basicmovement_head,BASIC MOVEMENT CONTROLS,基本移动控制,基本移動控制
+howto_basicmovement1,"You will be spending a lot of time controlling your ship in the air - while traveling, and during battles. There are 2 ways to sail your ship around: mouse control and <style=""gold"">WASDQE</style> keyboard control.","无论是旅行还是战斗，您将花费大量时间在控制飞艇移动方面，有两种方式可以使您的飞艇四处移动：鼠标控制以及键盘上的<style=""gold"">WASDQE</style>键。","無論是旅行還是戰鬥，您將花費大量時間在控制飛艇移動方面，有兩種方式可以使您的飛艇四處移動：滑鼠控制以及鍵盤上的<style=""gold"">WASDQE</style>鍵。"
+howto_basicmovement2,MOUSE CONTROL,鼠标控制,滑鼠控制
+howto_basicmovement3,KEYBOARD CONTROL,键盘控制,鍵盤控制
+howto_basicmovement4,STRAFE MOVEMENT,攻击行为,攻擊行為
+howto_basicmovement5,"<style=""gold"">L.Click</style> anywhere on the screen to dictate your ship’s moving direction (indicated by the directional arrow). The further away from the ship you click, the faster you sail.","<style=""gold"">左键单击</style>屏幕上的任意位置确定飞艇移动方向（以方向箭头显示）。您的点击位置距离飞艇越远，航行速度就越快。","<style=""gold"">左鍵單擊</style>螢幕上的任意位置確定飛艇移動方向（以方向箭頭顯示）。您的點擊位置距離飛艇越遠，航行速度就越快。"
+howto_basicmovement6,Move back and forth,来回移动,來回移動
+howto_basicmovement7,Rotate your ship,旋转飞艇,旋轉飛艇
+howto_basicmovement8,Strafe left or right,攻击左侧或右侧,攻擊左側或右側
+howto_travelmode_head,TRAVEL MODES AND GAME SPEED CONTROL,航行模式与游戏速度控制,旅行模式與遊戲速度控制
+howto_travelmode1,"In this <style=""gold"">Travel Screen</style>, you can command your ships to go wherever you like. And there is a couple of ways to do so. You can take charge and pilot the ship yourself or plot your course and let Jean and the crew takes care of the rest.","在<style=""gold"">旅行界面</style>中，您可以命令飞艇前往任何想去的地方，有两种方式可以做到这一点——亲自驾驶飞艇，或提前规划航线，安排吉恩和其他船员按计划行驶。","在<style=""gold"">旅行介面</style>中，您可以命令飛艇前往任何想去的地方，有兩種方式可以做到這一點——親自駕駛飛艇，或提前規劃航線，安排吉恩和其他船員按計畫行駛。"
+howto_travelmode2,Press     to toggle between travel modes,按下      以切换行驶模式,按下 以切換行駛模式
+howto_travelmode3,"Pause    
+
+
+
+X1 Speed    
+
+
+
+X10 Speed","暂停    
+
+
+
+X1 倍速    
+
+
+
+X10 倍速","暫停 
+
+
+
+X1 倍速 
+
+
+
+X10 倍速"
+howto_travelmode4,"Go to the<style=""gold""> Navigation Chart</style> to select your destination by clicking on the mini-map panel","打开<style=""gold"">导航图</style>，通过在迷你地图上单击以选择您的目的地。","打開<style=""gold"">導航圖</style>，通過在迷你地圖上單擊以選擇您的目的地。"
+howto_travelmode5,The directional indicator will turn yellow when the ship is in autopilot mode,当飞艇处于自动驾驶模式时，方向指示灯将变为黄色。,當飛艇處於自動駕駛模式時，方向指示燈將變為黃色。
+howto_travelmode6,Pause / Play Toggle,切换暂停/继续,切換暫停/繼續
+howto_travelmode7,Game Speed Toggle,切换游戏速度,切換遊戲速度
+howto_travelmode8,Adjust game speed by pressing designated buttons or using the panel on the Top-right of the screen.,通过按下指定按钮，或使用屏幕右上角的面板来调整游戏速度。,通過按下指定按鈕，或使用螢幕右上角的面板來調整遊戲速度。
+howto_encounter1,"Once you discover new encounters, travel to them by clicking on their panel and select <style=""gold"">Go to location </style>, Additional interaction option will be available once they are nearby. All port interaction will be halted if you run into blockades, defeat them first. There are several types of skyfarer. Some are hostiles pirates and marauders, but most of them are harmless individuals. Hostile fleet will spend some time assessing the situation but they will eventually start the fight.","一旦您发现了新的遭遇事件，点击其面板并选择<style=""gold"">前往该地点</style>，行驶至附近时，将向您提供额外的互动选项。如果遭遇封锁，所有端口交互都将被禁用，您必须先击败对方。
+
+存在几种类型的遭遇对象，有些事敌对势力，海盗和掠夺者，但他们中的大多数并不会造成威胁。若遭遇敌对舰队，则需要花费一些时间评估局势，但终将发动战争。","一旦您發現了新的遭遇事件，點擊其面板並選擇<style=""gold"">前往該地點</style>，行駛至附近時，將向您提供額外的互動選項。如果遭遇封鎖，所有端口交互都將被禁用，您必須先擊敗對方。
+
+存在幾種類型的遭遇對象，有些事敵對勢力，海盜和掠奪者，但他們中的大多數並不會造成威脅。若遭遇敵對艦隊，則需要花費一些時間評估局勢，但終將發動戰爭。"
+howto_encounter2,"There are several types of skyfarer. Some are hostiles pirates and marauders, but most of them are harmless individuals. Hostile fleet will spend some time assessing the situation but they will eventually start the fight.",存在几种类型的遭遇对象，有些事敌对势力，海盗和掠夺者，但他们中的大多数并不会造成威胁。若遭遇敌对舰队，则需要花费一些时间评估局势，但终将发动战争。,存在幾種類型的遭遇對象，有些事敵對勢力，海盜和掠奪者，但他們中的大多數並不會造成威脅。若遭遇敵對艦隊，則需要花費一些時間評估局勢，但終將發動戰爭。
+howto_encounter3,":Weak fleet
+
+
+
+<style=""gold"">
+:Strong fleet
+</style>
+
+
+<style=""tomato"">
+:Very strong fleet  </style>","：脆弱的舰队
+
+
+
+<style=""gold"">
+：强大的舰队
+</style>
+
+
+<style=""tomato"">
+：非常强大的舰队</style>","：脆弱的艦隊
+
+
+
+<style=""gold"">
+：強大的艦隊
+</style>
+
+
+<style=""tomato"">
+：非常強大的艦隊</style>"
+howto_encounter4,Choose how you would interact with places and fleet encounters,选择地点和遭遇舰队队的互动方式,選擇地點和遭遇艦隊隊的互動方式
+howto_encounter5,You can view each encounter information by clicking on their encounter panel.,您可以通过单击遭遇事件的面板查看更多信息。,您可以通過單擊遭遇事件的面板查看更多資訊。
+howto_encounter6,All fleet encounters will be labled with a power level number which represents their combat capability,所有的舰队遭遇战都将通过数字标记其作战能力。,所有的艦隊遭遇戰都將通過數字標記其作戰能力。
+howto_typesofencounter_head,TYPES OF ENCOUNTER,遭遇类型,遭遇類型
+howto_typesofencounter1,"On your journey in Airship: Kingdoms Adrift, there will be many of encounter types for the you to discover. You can interact with ports and fleets, gather treasure and resources in the sky or learn more about the lore of the game to enrich your gameplay experience, try to explore and interact with all of them as you see fit.",当您在《飞空艇时代：贸易帝国》中历险时，会遇到很多类型的遭遇事件。您可以通过与港口及舰队互动，收集天空中的宝藏与资源；还可以了解更多游戏剧情及故事，丰富游戏体验之后，尝试在合适的时间探索且进行互动。,當您在《飛空艇時代：貿易帝國》中歷險時，會遇到很多類型的遭遇事件。您可以通過與港口及艦隊互動，收集天空中的寶藏與資源；還可以瞭解更多遊戲劇情及故事，豐富遊戲體驗之後，嘗試在合適的時間探索且進行互動。
+howto_typesofencounter_harvestable,HARVESTABLE,可获物品,可獲物品
+howto_typesofencounter_spectacle,SPECTACLE,奇观,奇觀
+howto_typesofencounter2,Engage in combat or have a peaceful interaction for non-hostile fleets,参与战斗或与非敌对舰队进行和平互动。,參與戰鬥或與非敵對艦隊進行和平互動。
+howto_typesofencounter3,"Make a business transaction, customize ships or pursue a story quest.",可进行商业贸易、定制飞艇或探索故事。,可進行商業貿易、定制飛艇或探索故事。
+howto_typesofencounter4,"Havest valueble items from the balloons, floatsams and resource nodes",热气球、漂浮物或资源节点处可获取有价值的物品。,熱氣球、漂浮物或資源節點處可獲取有價值的物品。
+howto_typesofencounter5,Discover the spectacle encounter to learn more about the world of Airship: Kingdoms Adrift,探索壮丽的奇观，可以了解更多关于《飞空艇时代：贸易帝国》的故事。,探索壯麗的奇觀，可以瞭解更多關於《飛空艇時代：貿易帝國》的故事。
+howto_typesofencounter6,Explore the encounters to progress through their questlines,探索遭遇事件以完成任务。,探索遭遇事件以完成任務。
+howto_navigation_head,NAVIGATION CHART,导航图,導航圖
+howto_navigation1,"Since you have acquired the navigation chart of Europa and the Segson Archipelago before you arrived, you can check out and navigate the archipelago anytime during travel by opening up the ""Navigation Chart"". You can check out details of items on the map by clicking on them or selecting them from the side panel to the right of the chart. You can select the destination then plot the course to have Jean and the crew handles the voyage from here as well.",在您开始历险之前，已经获取到欧罗巴以及萨斯赛克群岛的导航图，因此，您可以在旅程的任意时间打开“导航图”查看并定向造访。您可以通过单击地图上的物品查看详细信息，或者在导航图右侧面板选中它们。您也可以选择目的地，指定航线，交由吉恩和其他船员定向操作。,在您開始歷險之前，已經獲取到歐羅巴以及薩斯賽克群島的導航圖，因此，您可以在旅程的任意時間打開“導航圖”查看並定向造訪。您可以通過單擊地圖上的物品查看詳細資訊，或者在導航圖右側面板選中它們。您也可以選擇目的地，指定航線，交由吉恩和其他船員定向操作。
+howto_navigation2,Check or select your destination by clicking on an icon on the map or selecting from the list to the side of the screen.Right Click anywhere to deselect the currently selected destination.,通过单击地图上的图标或在侧边的列表中进行目的地的选定和检查。右键单击任意位置，可取消当前选定的目的地。,通過單擊地圖上的圖示或在側邊的列表中進行目的地的選定和檢查。右鍵單擊任意位置，可取消當前選定的目的地。
+howto_navigation3,Manage your voyage with the Destination panel,通过目的地面板管理您的航线,通過目的地面板管理您的航線
+howto_navigation4,Click to Issue the Go to order,点击以发布航行命令,點擊以發佈航行命令
+howto_navigation5,Click to pause the voyage,点击以暂停航行,點擊以暫停航行
+howto_navigation6,Click to stop the voyage,点击以停止航行,點擊以停止航行
+howto_firingcontrol_head,FIRING CONTROL,开火控制,開火控制
+howto_firingcontrol1,"Press <style=""gold"">SPACE</style> to activate your weapons. You can dumb fire all types of <style=""gold"">torpedoes</style>, but <style=""gold"">missiles</style> and <style=""gold"">cannons</style> require a target within range to fire.","按下<style=""gold"">空格键</style>以激活您的武器，所有类型的<style=""gold"">鱼雷</style>都可以随意发射，但<style=""gold"">导弹</style>与<style=""gold"">大炮</style>的发射需要敌方处于射程内。","按下<style=""gold"">空格鍵</style>以啟動您的武器，所有類型的<style=""gold"">魚雷</style>都可以隨意發射，但<style=""gold"">導彈</style>與<style=""gold"">大炮</style>的發射需要敵方處於射程內。"
+howto_firingrange_head,FIRING RANGE,武器射程,武器射程
+howto_firingrange1,"When in battle, study your enemy’s combat styles and capabilities using their ship’s blueprint on the bottom-right of the screen. Once battle starts, click on any ship’s blueprint to view more information to help you strategize your plan of attack.",处于战斗状态时，可以通过屏幕右下键的飞艇蓝图来研究敌方的作战风格和能力。战斗过程中，点击任何船只的蓝图都可以查看更多信息，帮助您制定作战计划。,處於戰鬥狀態時，可以通過螢幕右下鍵的飛艇藍圖來研究敵方的作戰風格和能力。戰鬥過程中，點擊任何船隻的藍圖都可以查看更多資訊，幫助您制定作戰計畫。
+howto_firingrange2,This ship has firing arcs covering its bow (front) and port (left side) sides.,此飞艇的船头（前部）和左舷（左侧）显示出射击范围。,此飛艇的船頭（前部）和左舷（左側）顯示出射擊範圍。
+howto_firingrange3,"The <style=""tomato"">red</style>-<style=""gold"">yellow</style>-<style=""lawngreen"">green</style> lines of your ship indicate your weapon effectiveness                 (<style=""lawngreen"">Green = most damage dealt</style>, <style=""tomato"">Red = least damage dealt</style>).","这条<style=""tomato"">红</style>-<style=""gold"">黄</style>-<style=""lawngreen"">绿</style>线表示了您飞艇的武器有效性。
+（<style=""lawngreen"">绿色部分=伤害效能最高</style>, <style=""tomato"">红色=伤害效能最低</style>）。","這條<style=""tomato"">紅</style>-<style=""gold"">黃</style>-<style=""lawngreen"">綠</style>線表示了您飛艇的武器有效性。
+（<style=""lawngreen"">綠色部分=傷害效能最高</style>, <style=""tomato"">紅色=傷害效能最低</style>）。"
+howto_officertactic1,"Your officers will play a large role during combat. They will always be at your disposal to assign duties. By <style=""gold"">Activating their unique tactics</style>, new opportunities can be available, like boosting your ship’s performance, allocating/managing resources, or bringing new strategic advantages. Activate their unique tactics from the <style=""gold"">‘Tactics’ tab</style>.","您的军官将在战斗中扮演重要角色，您可以随时给他们分派任务。您可以通过<style=""gold"">激活他们的特殊战术</style>获得新的优势，比如提高飞艇性能、分配/管理资源、增加新的战略优势。在军官<style=""gold"">战术选项卡</style>中可以激活他们的特殊战术。","您的軍官將在戰鬥中扮演重要角色，您可以隨時給他們分派任務。您可以通過<style=""gold"">啟動他們的特殊戰術</style>獲得新的優勢，比如提高飛艇性能、分配/管理資源、增加新的戰略優勢。在軍官<style=""gold"">戰術選項卡</style>中可以啟動他們的特殊戰術。"
+howto_officertactic2,"<style=""gold"">Hover cursor</style> over the officers’ panel or use <style=""gold"">arrow keys</style> to expand ‘Tactic' list","通过在军官面板<style=""gold"">悬停鼠标</style>或使用<style=""gold"">方向键</style>可以展开战术列表。","通過在軍官面板<style=""gold"">懸停滑鼠</style>或使用<style=""gold"">方向鍵</style>可以展開戰術列表。"
+howto_officertactic3,Each officer has their own unique talent set.,每个军官都有自己的特殊天赋。,每個軍官都有自己的特殊天賦。
+howto_officertactic4,See Pros and Cons of each tactic in the ‘Talent Tooltip’ panel.,可以在天赋工具提示面板中查看每一个天赋的优势与劣势。,可以在天賦工具提示面板中查看每一個天賦的優勢與劣勢。
+howto_officertactic5,"You can override the ship control from officers by activating their manaul combat tactics, which can also provide additional benefits.",您可以通过激活军官的战斗战术来改变他们对飞艇的控制，这也可以提供额外的优势。,您可以通過啟動軍官的戰鬥戰術來改變他們對飛艇的控制，這也可以提供額外的優勢。
+howto_rammingboarding_head,"RAMMING, BOARDING, AND CREW SYSTEMS",撞击，登船与船员系统,撞擊，登船與船員系統
+howto_rammingboarding1,"Close quarter combat is always available to you. Ram your ship into the enemy’s ship to deal significant damage, or bring your ship closer to initiate a boarding sequence.",您可以随时使用近距离战斗，即将您的飞艇撞向敌方以造成重大伤害，或者将您的飞艇靠近敌方，开启强行登船序列。,您可以隨時使用近距離戰鬥，即將您的飛艇撞向敵方以造成重大傷害，或者將您的飛艇靠近敵方，開啟強行登船序列。
+howto_rammingboarding2,"When boarding, both ship’s crews will attack, as long as both ships are within boarding range. The fleet with no crew standing will have no choice but to surrender.",选择登船攻击时，只要两艘飞艇处于可登船范围内，双方船员都会互相攻击以及登上对方飞艇。,選擇登船攻擊時，只要兩艘飛艇處於可登船範圍內，雙方船員都會互相攻擊以及登上對方飛艇。
+howto_rammingboarding3,"When in close proximity with the enemy, the skull icon represents the boarding sequence. As soon as the skull bar is full, crews from both sides will begin boarding the enemy ship.",当靠近敌方飞艇时，头骨图标表示登船序列，一旦进度条满，双方船员就会开始相互攻占飞艇。,當靠近敵方飛艇時，頭骨圖示表示登船序列，一旦進度條滿，雙方船員就會開始相互攻佔飛艇。
+howto_rammingboarding4,The sword represents your boarding strength and the shield represents your defense.,剑代表您的登船武力值，盾牌代表您的防御值。,劍代表您的登船武力值，盾牌代表您的防禦值。
+howto_surrenderordestroy_head,SURRENDER OR DESTROY SHIP,投降或摧毁飞艇,投降或摧毀飛艇
+howto_surrenderordestroy1,"Each part of the ship can be wrecked individually. If <style=""gold"">Command parts</style>, <style=""gold"">Power Plants</style>, or <style=""gold"">Drives</style> health reaches zero, 		that ship will capsize. A defeat will result in <style=""gold"">GAME OVER</style>. The player can then choose to retry the encounter with the lastest save file or load another file for an alternative path. ","飞艇的每一个部分都可以被单独损坏，但如果是<style=""gold"">指挥部件</style>，<style=""gold"">能源装置</style>或是<style=""gold"">驱动装置</style>的生命值达到0，则会导致飞艇倾覆，<style=""gold"">游戏结束</style>。
+您可以通过加载最后一个存档重启遭遇战，或是加载其他存档以避开遭遇战。","飛艇的每一個部分都可以被單獨損壞，但如果是<style=""gold"">指揮部件</style>，<style=""gold"">能源裝置</style>或是<style=""gold"">驅動裝置</style>的生命值達到0，則會導致飛艇傾覆，<style=""gold"">遊戲結束</style>。
+您可以通過加載最後一個存檔重啟遭遇戰，或是加載其他存檔以避開遭遇戰。"
+howto_surrenderordestroy2,"You can choose to surrender your fleet with Jean's <style=""gold"">Parlay</style> tactic, use<style=""gold""> Disengage</style> tactic to run away or continue battling and risk destruction. Remember,  your enemies will have the same choices.","您可以选择使用吉恩的<style=""gold"">谈判</style>战术，停战投降，使用<style=""gold""> 脱身</style>战术逃离战场，或是冒着被摧毁的风险坚持战斗。但请牢记，您的敌人也会有同样的可用选项。","您可以選擇使用吉恩的<style=""gold"">談判</style>戰術，停戰投降，使用<style=""gold""> 脫身</style>戰術逃離戰場，或是冒著被摧毀的風險堅持戰鬥。但請牢記，您的敵人也會有同樣的可用選項。"
+howto_surrenderordestroy3,"
+
+You can pay the charge with either loots, Eagle, 
+or the combination of the two.",您可以使用战利品、鹰币或是二者结合的方式支付费用。,您可以使用戰利品、鷹幣或是二者結合的方式支付費用。
+howto_surrenderordestroy4,"
+You can surrender with Jean’s Parlay tactic",您可以使用吉恩的谈判战术停战投降,您可以使用吉恩的談判戰術停戰投降
+howto_surrenderordestroy5,"If you want to surrender, or simply that paying some toll collectors can be more efficient for your pocket. 
+Regularly normal battle compensation can be quite higher than what extorters and toll collectors demand.","如果您想通过投降或是简单粗暴地支付“过路费”、“贿赂金”行事，或许更有效率。
+通常来说，常规的战斗赔偿金可能比劫掠者和收费员要求的金额更高。","如果您想通過投降或是簡單粗暴地支付“過路費”、“賄賂金”行事，或許更有效率。
+通常來說，常規的戰鬥賠償金可能比劫掠者和收費員要求的金額更高。"
+howto_surrenderordestroy6,"A defeat will result in <style=""gold"">GAME OVER</style>. The player can then choose to retry the encounter with the lastest save file or load another file for an alternative path.","一次作战失败将导致<style=""gold"">游戏结束</style>，您可以通过加载最后一个存档重启遭遇战，或是加载其他存档以避开遭遇战。","一次作戰失敗將導致<style=""gold"">遊戲結束</style>，您可以通過加載最後一個存檔重啟遭遇戰，或是加載其他存檔以避開遭遇戰。"
+button_previous,Previous,上一个,上一個
+merchant_warehouse,Warehouse,仓库,倉庫
+merchant_treasury,Treasury,宝库,寶庫
+merchant_sellprice,Sell Price,售价,售價
+merchant_cannotsellthisitem,Cannot sell this item,无法出售此物品,無法出售此物品
+shipattribute_cruisecolon,Cruise :,巡航：,巡航：
+shipattribute_battlecolon,Battle :,战斗：,戰鬥：
+shipattribute_intengritycolon,Integrity :,完整度：,完整度：
+shipattribute_potencycolon,Potency :,火力：,火力：
+merchant_merchantavailableeagle,Merchant's Budget:,商人可用鹰币：,商人可用鷹幣：
+merchant_chooseamount,Amount,选择数量,選擇數量
+merchant_buypricefor0unit,Buy Price for 0 units :,0 单位的购买价格：,0 單位的購買價格：
+button_buy,Buy,购买,購買
+button_cancel,Cancel,取消,取消
+facility_warehousestorage,Warehouse storage,仓库存储,倉庫存儲
+facility_requireconstruction,Require Construction,需要建设,需要建設
+facility_upgradetounlock,Upgrade the facility to unlock,升级设施以解锁,升級設施以解鎖
+storage_storagelocation,Storage Location,存储位置,存儲位置
+storage_currentlocation,Current Location,当前位置,當前位置
+storage_anotherlocation,Other Locations,其他位置,其他位置
+shiproster_allship,ALL SHIPS,全部飞艇,全部飛艇
+shiproster_all,All,全部,全部
+shiproster_sizes,S,S,S
+shiproster_sizem,M,M,M
+shiproster_sizel,L,L,L
+shiproster_sizexl,XL,XL,XL
+shiproster_ports,Ports,港口,港口
+shiproster_ships,Ships,飞艇,飛艇
+shiproster_playersflagship,Your Flagship,玩家旗舰,玩家旗艦
+shiproster_currentship,CURRENT SHIP,当前飞艇,當前飛艇
+shiproster_transfer,Transfer,运输,運輸
+officerpanel_promoteofficer,Promote officer,军官升级,軍官升級
+officerpanel_areyoursuretouse,Are you sure to use,您确定使用,您確定使用
+officerpanel_topromote,to promote?,升级？,升級？
+production_availablerecipes,AVAILABLE RECIPES,可用配方,可用配方
+production_selectitemtotransfer,Select an item to produce,选择要运输的物品,選擇要運輸的物品
+production_recipe,RECIPE,配方,配方
+production_selectmaterial,Materials from the LOCAL WAREHOUSE,当地仓库的材料,當地倉庫的材料
+production_duration,Duration,持续时间,持續時間
+production_priceperunit,Price per unit,单价,單價
+production_amountcolon,Amount:,数量：,數量：
+production_tolocalwarehouse,To Local Warehouse,至本地仓库,至本地倉庫
+production_placeorder,Place Order,生产,生產
+production_ignoreitemquality,Ignore Item Quality,无视物品质量,無視物品品質
+production_governingofficer,Governing Officer,管理人员,管理人員
+generic_futurecontent,Future Content,未来更新内容,未來更新內容
+production_currentlyinproduction,CURRENTLY IN PRODUCTION,正在生产,正在生產
+production_localwarehouse,Local Warehouse,当地仓库,當地倉庫
+production_inproduction,In Production,生产中,生產中
+production_materialselection,Material SELECTION,材料选择,材料選擇
+production_selectprefermaterials,Select Material quality levels for this batch of production,选择此批次生产的材料质量级别,選擇此批次生產的材料品質級別
+production_selectitemscolon,Selected Items:,选择物品：,選擇物品：
+production_rightclicktounassign,Right click to unassign item,右键单击以取消物品分配,右鍵單擊以取消物品分配
+production_localwarehousematerial,LOCAL WAREHOUSE Materials,当地仓库材料,當地倉庫材料
+production_shifttobatch,Shift + Left Click for batch selection,Shift+左键进行批量选择,Shift+左鍵進行批量選擇
+production_availablematerial,AVAILABLE Materials,可用材料,可用材料
+narrative_yourecieveitem,You recieved item:,您收到物品：,您收到物品：
+narrative_newairframeunlocked,NEW AIRFRAME UNLOCKED,解锁新机身,解鎖新機身
+narrative_newofficerjoin,NEW OFFICER JOINED,新军官加入,新軍官加入
+narrative_skip,"SKIP
+",跳过,跳過
+battle_space,Space,空格,空格
+battle_fireweapons,Fire Weapons,武器发射,武器發射
+battle_move,Move,移动,移動
+surrender_penalties,TOLL AND BATTLE COMPENSATION,通行费与战斗赔偿金,通行費與戰鬥賠償金
+battle_youarelosttothesky,you are lost to the sky,您败北于此,您敗北於此
+saveload_latestautosave,Latest autosave,最新自动存档,最新自動存檔
+button_main menu,Main menu,主菜单,主菜單
+saveload_manualsave,MANUAL SAVE,手动保存,手動保存
+saveload_autosave,AUTO SAVE,自动保存,自動保存
+warning_exitconfirmation,Are you sure you want to exit to main menu?,您确定退出至主菜单吗？,您確定退出至主菜單嗎？
+button_no,no,否,否
+button_yes,yes,是,是
+career_choosenation,Choose Your Home Nation,选择您的所属国籍,選擇您的所屬國籍
+factionname_AK,AECERLIAN KINGDOM,伊塞利亚王国,伊塞利亞王國
+factionname_NVR,NEW VIRIDIAN REPUBLIC,新翠共和国,新翠共和國
+factionname_TC,TEUTONIC CONFEDERATION,条顿联盟,條頓聯盟
+career_startership,Starter ship,初始飞艇,初始飛艇
+factiontext_AK1,Powerful fleet,强力舰队,強力艦隊
+factiontext_AK2,"Azure Eagles of the Azure Ring, Aecerlia Kingdom is the
+most powerful nation of the Azure Ring, boasting the
+most powerful fleet and advanced magical technology.","来自蓝环地区的蔚蓝之鹰，伊塞利亚王国
+是蓝环地区最强大的的国家，
+拥有最强力的舰队和现金的魔法技术。","來自藍環地區的蔚藍之鷹，伊塞利亞王國
+是藍環地區最強大的的國家，
+擁有最強力的艦隊和現金的魔法技術。"
+factiontext_AK3,Traditionalist,传统主义,傳統主義
+factiontext_AK4,"Their citizen are very disciplined and formal people.
+they followed the old teaching of their ancestors to their
+heart, while not shy away from making change.","他们的公民都非常强调纪律与规则。
+遵循着祖先留下的古老传统，
+与此同时，也毫不避讳对糟粕文化的变更。","他們的公民都非常強調紀律與規則。
+遵循著祖先留下的古老傳統，
+與此同時，也毫不避諱對糟粕文化的變更。"
+factiontext_AK5,Militaristic culture,军国主义文化,軍國主義文化
+factiontext_AK6,"In Aecerlian, those who takes arms and fight for his or her
+nation, especially those who achieve greatness, will gain
+untold prestige and recognition. While other professions
+service of the nation.","在伊塞利亚，那些勇于拿起武器捍卫国家之人，
+尤其是为此取得伟大成就的人，
+都将获得不可估量的声望与认可。
+其他行业的职业者也会以服务于国家为荣。","在伊塞利亞，那些勇於拿起武器捍衛國家之人，
+尤其是為此取得偉大成就的人，
+都將獲得不可估量的聲望與認可。
+其他行業的職業者也會以服務於國家為榮。"
+factiontext_NVR1,Versatile fleet,多样舰队,多樣艦隊
+factiontext_NVR2,"New Viridian Republic, Mares of the Viridian Ring, the Republic is the most powerful nation of the Viridian Ring with many other nations under its sphere of influence and controlling large and diverse fleet.",新翠共和国无疑是绿环地区的力量之源，它集合了该地区最强大的多个国家，并控制着庞大且多样化的舰队。,新翠共和國無疑是綠環地區的力量之源，它集合了該地區最強大的多個國家，並控制著龐大且多樣化的艦隊。
+factiontext_NVR3,Progressionist,进步主义,進步主義
+factiontext_NVR4,The ‘green ringers’ are brave and cultured people. They are skilled traders and eloquent diplomats who value progression and profits above all else.,绿环人都是勇气与修养并存的人群，既是技术娴熟的商人，又是舌灿莲花的外交官，将进步与利润看得高于一切。,綠環人都是勇氣與修養並存的人群，既是技術嫺熟的商人，又是舌燦蓮花的外交官，將進步與利潤看得高於一切。
+factiontext_NVR5,Mercantilism,商业主义,商業主義
+factiontext_NVR6,"In the NVR, wealth and success will only come to those who seek them and great achievement can only be attained by those who excel above the others. As a result, traders and merchants rank among the most common professions in the country.","在新翠共和国，只有努力寻求财富与成功才有机会出人头地，最伟大的成就则需要超越他人才得以实现。
+因此，贸易与商人是这个国家最常见的职业之一。","在新翠共和國，只有努力尋求財富與成功才有機會出人頭地，最偉大的成就則需要超越他人才得以實現。
+因此，貿易與商人是這個國家最常見的職業之一。"
+factiontext_TC1,Sturdy Fleet,顽强舰队,頑強艦隊
+factiontext_TC2,"Teutonic Confederation, dragons of the Silver Ring, a confederation of clans and tribes of the harsh Silver Ring. Their Airships are uniquely designed to rely on no sail and wind by utilizing the power of ‘black science’","条顿联盟堪称银环之龙，由环境最为恶劣的银环部落与氏族构建而成。
+他们的飞艇由于独特的“黑科技”加持，依靠无帆无风即可远航。","條頓聯盟堪稱銀環之龍，由環境最為惡劣的銀環部落與氏族構建而成。
+他們的飛艇由於獨特的“黑科技”加持，依靠無帆無風即可遠航。"
+factiontext_TC3,Survivalist,生存主义,生存主義
+factiontext_TC4,"The ‘silver ringers’ are hardy and strong people, shaped by the harsh environment of the cold Silver Ring. They are gifted warriors and brilliant inventors with an unyielding will to survive.","银环人的强壮与顽强的特性，完全由该地区冰冷恶劣的环境所塑造。
+他们都是天赋异禀的战士和才华横溢的发明家，有着不屈不挠的生存意志。","銀環人的強壯與頑強的特性，完全由該地區冰冷惡劣的環境所塑造。
+他們都是天賦異稟的戰士和才華橫溢的發明家，有著不屈不撓的生存意志。"
+factiontext_TC5,Pragmatism,实用主义,實用主義
+factiontext_TC6,"In the Confederation, everyone worked to contribute to the survival and prosperity of the community. This makes the people of the Confederation place more value on resources and knowledge rather than culture and entertainment
+","在条顿联邦，每个人都在努力为社区的生存和繁荣做贡献。
+这使得联邦人民更重视资源与知识，而非文化与娱乐。","在條頓聯邦，每個人都在努力為社區的生存和繁榮做貢獻。
+這使得聯邦人民更重視資源與知識，而非文化與娛樂。"
+career_choosecareerbackground,CHOOSE YOUR CAREER BACKGROUND,请选择您的职业背景,請選擇您的職業背景
+careertext_combatant,"You were among the best your nation has to offer to the Great Sky War. Instead of wasting your talent in risky battles. You were put to good use away from the main theaters, sometimes in your nation's territory and sometimes, far within the enemy's.",你是所在民族在伟大的天空之战中最强大的成员之一，与其在冒险的战斗中浪费天赋，不如投身于最重要的战场中发光发热。有时你会捍卫己方每一寸领土，有时你也会深入敌后挥汗洒泪。,你是所在民族在偉大的天空之戰中最強大的成員之一，與其在冒險的戰鬥中浪費天賦，不如投身於最重要的戰場中發光發熱。有時你會捍衛己方每一寸領土，有時你也會深入敵後揮汗灑淚。
+career_startingitems,Starting items,初始物品,初始物品
+careername_combatant,COMBATANT,战斗专家,戰鬥專家
+careertext_logistician,"There has never been a shortage of need to move things around, especially while there is a continental war going on. You began your career years ago by piloting freighters for navy suppliers until you saved enough to purchase your own ship.",这里从不缺乏物品运送的需求，尤其是在大范围的战争期间。几年前，你就开始了自己的职业生涯，起初是为海军供应商的货艇引航，直到存下了足够的金钱购买自己的运输飞艇。,這裏從不缺乏物品運送的需求，尤其是在大範圍的戰爭期間。幾年前，你就開始了自己的職業生涯，起初是為海軍供應商的貨艇引航，直到存下了足夠的金錢購買自己的運輸飛艇。
+careername_logistician,LOGISTICIAN,物流专家,物流專家
+careertext_industrialist,"Life has been quiet and fulfilling while you spend your days counting and hauling warehouse stock while optimizing your parents factory productivity over the years. The war has been exaggerating the demand of your goods and you knew it, but it is very difficult to resist the temptation to expand when there’s profit to be made.",多年来，你在清点与搬运仓库库存，以及尽可能优化家族工厂生产效率的每一天都过得平静而充实。你很清楚的知道，是那场大型战争夸大了您的商品战争，但当面对实打实的利润时，很难抵抗住扩张规模的诱惑。,多年來，你在清點與搬運倉庫庫存，以及盡可能優化家族工廠生產效率的每一天都過得平靜而充實。你很清楚的知道，是那場大型戰爭誇大了您的商品戰爭，但當面對實打實的利潤時，很難抵抗住擴張規模的誘惑。
+careername_industrialist,INDUSTRIALIST,实业专家,實業專家
+career_registration,REGISTRATION,注册,註冊
+career_firstname,First Name:,名：,名：
+career_middlename,Middle Name:,中间名：,中間名：
+career_default_James,James​,詹姆斯,詹姆斯
+career_default_P,P,P.,P.
+career_default_Harvey,Harvey​,哈维,哈維
+career_lastname,Last Name:,姓：,姓：
+career_alias,Alias:,别名：,別名：
+career_default_Wanderer,Wanderer​,漂泊者,漂泊者
+career_youarecolon,You are:,您是：,您是：
+career_biography,BIOGRAPHY,个人履历,個人履歷
+career_background,Background,背景,背景
+career_nationality,Nationality,国籍,國籍
+career_letter1,"Thank you very much for your kind consideration to Join the Silberblum Trading Company.
+
+Within this envelope you would find an exchange note for the up front payment as per our agreement and a handbook
+detailing rules and regulation that you must comply while under the company’s employment. Your ship has also been
+granted one way passage into the Suthsegian Border during the week of your arrival so please be at the kingdom’s
+border on time. 
+
+Looking forward to meet you in person on October 592. 
+","首先，非常感谢您考虑加入斯波布鲁贸易公司，我为此感到十分荣幸。
+
+我在此信封中附上以下物品：协议预付款的兑换单据以及一本关于您在工作期间必须遵守的章程与条例手册。
+在您抵达的一周内，您的飞艇也将获得进入萨斯赛克边境的单程许可，因此，请准时前往王国边境。
+
+期待与您在592年10月的会面。","首先，非常感謝您考慮加入斯波布魯貿易公司，我為此感到十分榮幸。
+
+我在此信封中附上以下物品：協議預付款的兌換單據以及一本關於您在工作期間必須遵守的章程與條例手冊。
+在您抵達的一周內，您的飛艇也將獲得進入薩斯賽克邊境的單程許可，因此，請準時前往王國邊境。
+
+期待與您在592年10月的會面。"
+career_letter2,Agatha Schwartz,阿加莎·施瓦茨,阿加莎·施瓦茨
+career_letter3,The Silberblum Trading Company,斯波布鲁贸易公司,斯波布魯貿易公司
+career_creatinganewprofile,Creating a new career profile...,正在创建新的职业档案……,正在創建新的職業檔案……
+shipattribute_unavailable,Unavailable,不可用,不可用
+shipattribute_cannon,CANNON,大炮,大炮
+shipattribute_missile,MISSILE,导弹,導彈
+shipattribute_torpedo,TORPEDO,鱼雷,魚雷
+shipattribute_pervolley,Per Volley,每次截击,每次截擊
+shipcolor_alpha,Alpha,初始,初始
+shipcolor_r,R:,红：,紅：
+shipcolor_g,G:,绿：,綠：
+shipcolor_b,B:,蓝：,藍：
+shipcolor_hex,Hex:,色彩进位：,色彩進位：
+shipyard_refit,Refit the ship?,重新装配飞艇？,重新裝配飛艇？
+shipyard_revert,Revert to previous setup?,是否恢复到之前的设置？,是否恢復到之前的設置？
+button_confirm,Confirm,确认,確認
+inventory_switchtotransfer,Switch to transfer mode,切换运输模式,切換運輸模式
+inventory_transferitem,Transfer Item,物品运输,物品運輸
+shipfitting_placeselect,Place / Select,放置/选择,放置/選擇
+shipfitting_removecancel,Remove / Cancel,移除/取消,移除/取消
+shipfitting_rotate,Rotate,更换,更換
+shipfitting_exterior,Exterior,外观,外觀
+shipfitting_plating,Plating,护板,護板
+shipfitting_storage,Storage,仓储,倉儲
+shipfitting_interior,Interior,内部装置,內部裝置
+shipfitting_drive,Drive,驱动装置,驅動裝置
+shipfitting_na,N/A,不可用,不可用
+button_undo,Undo,撤销,撤銷
+button_redo,Redo,恢复,恢復
+shipfitting_shipparts,Ship Parts,飞艇零部件,飛艇零部件
+shipfitting_checklist,CHECKLIST,核对表,核對表
+shipfitting_finish,FINISH,完成,完成
+language_menu_header,LANGUAGE SETTINGS,语言设置,語言設置
+language_menu_des,"You can change the language next time in the <style=""medalliongold"">Setting menu</style>","您可以在<style=""medalliongold"">设置菜单</style>里更改语言。","您可以在<style=""medalliongold"">設置菜單</style>裏更改語言。"
+howto_capturingship1,CAPTURING AIRSHIP,俘获飞艇,俘獲飛艇
+howto_capturingship2,"To capture an airship, make sure that it is capturable by checking out its <style=""gold"">tooltip</style> or <style=""gold"">airship info</style>. There are two ways to capture an airship. The best way that has a 100% chance of capture is to board the ship and decrease its crew to zero. For the other way that has a lower chance, some airships will be captured after surrendering themselves after sustaining a certain amount of damage (more suitable for capturing civilian airships)","在尝试俘获飞艇之前，请先查看<style=""gold"">工具</style>或者<style=""gold"">飞艇信息</style>以确保该飞艇是可被俘获的。通常来说，俘获飞艇有两种方式：1）俘获概率为100% - 登上敌方飞艇并消灭对方全部船员；2）概率较低 - 某些飞艇会在遭受一定程度的损害之后向您投降。方法2更适合用于俘获民用飞艇。","在嘗試俘獲飛艇之前，請先查看<style=""gold"">工具</style>或者<style=""gold"">飛艇資訊</style>以確保該飛艇是可被俘獲的。通常來說，俘獲飛艇有兩種方式：1）俘獲概率為100% - 登上敵方飛艇並消滅對方全部船員；2）概率較低 - 某些飛艇會在遭受一定程度的損害之後向您投降。方法2更適合用於俘獲民用飛艇。"
+howto_capturingship3,Enemy's escort1 is captured!,敌方的护卫舰1已被俘获！,敵方的護衛艦1已被俘獲！
+howto_capturingship4,Select your prefered destination for your new airship.,请为您的新飞艇选择一个目的地。,請為您的新飛艇選擇一個目的地。
+howto_supplymanagement1,SUPPLY MANAGEMENT,物资管理,物資管理
+howto_supplymanagement2,"For your fleet to be operating at its full capacity, make sure to manage these 5 fundamental fleet resources properly:
+
+1.Materials        Normally, without any cost, broken ship parts will be repaired at a slow pace. On the contrary, having a building Materials to 
+                        replace will increase the repair speed immensely.
+
+2. Fuel             Activating the cruising mode to achieve maximum fleet speed is very vital. The fuel will be spent both to initiate and sustain the 
+                        cruising system. Larger and more ship in the fleet will also mean higher fuel consumption rate for the player.
+
+3. Ammo         Suthseg's sky can be full of surprises. So the ammunition for your armaments are always one of the top priorities. While some of 
+                        the ship parts can produce ammunition but usually in a small quantity. resupply from  time to time is advised 
+
+4. Crew            Keep the crew amount high so the airship can function properly without any low-crew penalty, crew number also play an 
+                        important part in any boarding situation.
+    
+5. Morale         It is very important to keep your crews happy, morale will be spent on the activation and sustainment of officer
+                        tactics and also have a large impact on your boarding performance as well.","为了使您的舰队可以满载运行，请确保对以下五种基础舰队资源进行有效管理：
+
+1.材料       通常情况下，在没有任何支出的时候，破损的飞艇部件将会以缓慢的速度被修复，
+                 但如果拥有一种可直接替换的材料时，将大大提高部件维修速度。
+
+2.燃料       保持巡航模式对维持舰队最大速度至关重要，燃料将用于启动和保持巡航模式的运行。
+                 舰队中的飞艇数量越多，质量越大，意味着玩家的燃料消耗越高。
+
+3.弹药       萨斯赛克的天空总是充满惊喜，因此，您需要时刻保持弹药充足。
+                 尽管某些飞艇部件可以生产弹药，但数量通常很少，建议经常补足弹药数量。
+
+4.船员       保持足够多的船员，以保证您的飞艇可以正常工作，不至于受到人手不足的影响。
+                 除此之外，在强行攻占敌方飞艇时，船员的数量也很重要。
+
+5.士气       让您的船员保持心情娱乐非常重要，士气将被用于激活和维持军官战术。
+                 除此之外，在强行攻占敌方飞艇时，士气也有其作用。","為了使您的艦隊可以滿載運行，請確保對以下五種基礎艦隊資源進行有效管理：
+
+1.材料 通常情況下，在沒有任何支出的時候，破損的飛艇部件將會以緩慢的速度被修復，
+ 但如果擁有一種可直接替換的材料時，將大大提高部件維修速度。
+
+2.燃料 保持巡航模式對維持艦隊最大速度至關重要，燃料將用於啟動和保持巡航模式的運行。
+ 艦隊中的飛艇數量越多，品質越大，意味著玩家的燃料消耗越高。
+
+3.彈藥 薩斯賽克的天空總是充滿驚喜，因此，您需要時刻保持彈藥充足。
+ 儘管某些飛艇部件可以生產彈藥，但數量通常很少，建議經常補足彈藥數量。
+
+4.船員 保持足夠多的船員，以保證您的飛艇可以正常工作，不至於受到人手不足的影響。
+ 除此之外，在強行攻佔敵方飛艇時，船員的數量也很重要。
+
+5.士氣 讓您的船員保持心情娛樂非常重要，士氣將被用於啟動和維持軍官戰術。
+ 除此之外，在強行攻佔敵方飛艇時，士氣也有其作用。"
+howto_supplymanagement3,"You can refill any fleet's resources at the supply stations which will be available for most of the ports located in the dock district.
+While all supply types are always available in the station, the costs of each type can vary depending on the port location. 
+
+Don't sleep on the Silberblum supply stations as they will usually have more affordable resource prices.
+
+You can also use the supply station to rest and skip the night (only available between 4pm and 6am)","您可以在任意一个补给站补充舰队资源，大多数港口的码头区都会有补给站的存在。
+尽管补给站有各种资源，但不同位置的港口补给站所提供的资源类型成本不同。
+
+斯波布鲁补给站的资源价格通常最为实惠，请不要错过。
+
+您也可以在补给站休息和过夜（仅在下午四点至第二天早上六点可用）。","您可以在任意一個補給站補充艦隊資源，大多數港口的碼頭區都會有補給站的存在。
+儘管補給站有各種資源，但不同位置的港口補給站所提供的資源類型成本不同。
+
+斯波布魯補給站的資源價格通常最為實惠，請不要錯過。
+
+您也可以在補給站休息和過夜（僅在下午四點至第二天早上六點可用）。"
+howto_cruisemode1,CRUISE MODE,巡航模式,巡航模式
+howto_cruisemode2,"Depending on the fleet’s performance, the commander can enter cruise mode to travel faster. While there is no significant downside to activating the cruising drive,  it is not possible for ships to turn while cruising and it also takes a bit of time to prime the cruising drive.",舰队的性能决定指挥官是否可以启用巡航模式以更快到达目的地，尽管巡航模式没有什么明显的负面影响，但飞艇在巡航过程中无法转变航向，启动巡航模式也需要一定的时间。,艦隊的性能決定指揮官是否可以啟用巡航模式以更快到達目的地，儘管巡航模式沒有什麼明顯的負面影響，但飛艇在巡航過程中無法轉變航向，啟動巡航模式也需要一定的時間。
+howto_cruisemode3,"For a fleet with multiple ships, use the slowest ship as a base for cruising calculation except for the supply usage calculation, which will use a sum amount instead.",对于拥有多艘飞艇的舰队而言，将以速度最慢的飞艇作为巡航计算的基础，但物资使用量除外，它将统计整个舰队的消耗总额。,對於擁有多艘飛艇的艦隊而言，將以速度最慢的飛艇作為巡航計算的基礎，但物資使用量除外，它將統計整個艦隊的消耗總額。
+howto_addingescortairships1,ADDING ESCORT AIRSHIPS,增加护卫舰,增加護衛艦
+howto_addingescortairships2,"As you progress, you will have a chance to expand your fleet. Getting a new airship as a quest reward, capturing a surrendered one, buying from merchants or even building one from your shipwright are all valid options for attaining a new member for your fleet.",伴随着您的发展与进步，您将有机会进一步扩大舰队规模，可用方式如下：以新飞艇作为任务完成奖励；俘虏一艘投降的飞艇；从商人手中购买；在造船厂亲自打造。这都将成为您增加新成员的有效选择。,伴隨著您的發展與進步，您將有機會進一步擴大艦隊規模，可用方式如下：以新飛艇作為任務完成獎勵；俘虜一艘投降的飛艇；從商人手中購買；在造船廠親自打造。這都將成為您增加新成員的有效選擇。
+howto_addingescortairships3,"You can have up to 3 airships in your fleet. Which are flagship, escort1 and escort2 respectively. While you have a direct-control of your flagship, the 2 escorts will be your AI companions which will follow you around on your voyage and will act according to their preset combat behavior which you can re-issue between the combat.",您的舰队中最多可以包含3艘飞艇，分别是旗舰、护卫舰1和护卫舰2.虽然您可以直接控制您的旗舰，但这两艘护卫舰将由您的AI同伴驾驶，他们会在您航行过程中紧随步伐，并根据他们预设的战斗行为行事，该战斗行为可以在战斗环节之间进行重设。,您的艦隊中最多可以包含3艘飛艇，分別是旗艦、護衛艦1和護衛艦2.雖然您可以直接控制您的旗艦，但這兩艘護衛艦將由您的AI同伴駕駛，他們會在您航行過程中緊隨步伐，並根據他們預設的戰鬥行為行事，該戰鬥行為可以在戰鬥環節之間進行重設。
+howto_addingescortairships4,"Beware!, a destroyed escort ship will be lost permanently.",请注意！一旦您的护卫舰被摧毁，您将永久失去它。,請注意！一旦您的護衛艦被摧毀，您將永久失去它。
+howto_subject_addingescortairships,adding escort airships,增加护卫舰,增加護衛艦
+howto_subject_cruisemode,cruise mode,巡航模式,巡航模式
+howto_subject_capturingairship,capturing airship,俘获飞艇,俘獲飛艇
+howto_subject_supplymanagement,supply management,物资管理,物資管理
+howto_subject_fleetresourceheader,fleet resources (1),舰队资源（1）,艦隊資源（1）
+hangar_shipcost,Ship Cost,飞艇成本,飛艇成本
+battle_summary_discarded,"DISCARDED
+",丢弃,丟棄
+pvp_setup_create_new_vessel,CREATE NEW VESSEL,创建新飞艇,創建新飛艇
+option_setting_zoomsensitivity,Zoom Sensitivity,缩放灵敏度,縮放靈敏度
+narrative_press,Press,按,按
+narrative_tocontinue,to continue,继续,繼續
+careertext_combatant_full,"You were among the best your nation has to offer to the Great Sky War. Instead of wasting your talent in risky battles. You were put to good use away from the main theaters, sometimes in your nation's territory and sometimes, far within the enemy's.
+
+At first, you were a rising talent among peers, cruising and hunting wanted men and ships wherever they may be. After being hardened by years of service, you left the army and become a hired hand, serving whatever cause you deem worthy. Years with endless supplies of jobs, have left you with your guard down. 
+
+As the war stalled, you sold your things to keep men on the payroll. Then the year drags on, and you contemplate loaning your ship and giving up a life of a skyfarer. At that desperate moment, you received ""The Letter""","你是所在民族在伟大的天空之战中最强大的成员之一，与其在冒险的战斗中浪费天赋，不如投身于最重要的战场中发光发热。有时你会捍卫己方每一寸领土，有时你也会深入敌后挥汗洒泪。
+
+起初，你只是同龄人行伍中一个颇有天赋的新星而已，无论身处何地，你都会致力于查找和追击通缉犯和他们的舰队。经过多年的军队服役，你逐渐变得强大起来，离开了国家军队，成为了一名雇佣兵，继续从事自己认为有意义的事业。多年来，职业发展一路通畅，你开始有些放松警惕了。
+
+随着战争的停滞，你不得以卖掉了个人资产，才能支付那些员工的工资。然后日复一日，年复一年，你打算靠出租自己的飞艇生活，放弃在天空中漫无目的游荡的生活。就在近乎绝望之际，你收到了“那封信”。","你是所在民族在偉大的天空之戰中最強大的成員之一，與其在冒險的戰鬥中浪費天賦，不如投身於最重要的戰場中發光發熱。有時你會捍衛己方每一寸領土，有時你也會深入敵後揮汗灑淚。
+
+起初，你只是同齡人行伍中一個頗有天賦的新星而已，無論身處何地，你都會致力於查找和追擊通緝犯和他們的艦隊。經過多年的軍隊服役，你逐漸變得強大起來，離開了國家軍隊，成為了一名雇傭兵，繼續從事自己認為有意義的事業。多年來，職業發展一路通暢，你開始有些放鬆警惕了。
+
+隨著戰爭的停滯，你不得以賣掉了個人資產，才能支付那些員工的工資。然後日復一日，年復一年，你打算靠出租自己的飛艇生活，放棄在天空中漫無目的遊蕩的生活。就在近乎絕望之際，你收到了“那封信”。"
+careertext_logistician_full,"There has never been a shortage of need to move things around, especially while there is a continental war going on. You began your career years ago by piloting freighters for navy suppliers until you saved enough to purchase your own ship.
+
+For the first few years of being your own boss, business was really great. Then, as the war started to slow down, even though there are still plenty of jobs, none of them pay well enough to achieve your dream of making it big for your ship and crew.
+
+You've tried broadening your offers and seeking out new clients, but it seems that the market just isn't as lucrative as it once was. One day while the crew is loading your next haul and you are looking at your balance sheet going further and further into the negatives, ""The Letter"" arrives.","这里从不缺乏物品运送的需求，尤其是在大范围的战争期间。几年前，你就开始了自己的职业生涯，起初是为海军供应商的货艇引航，直到存下了足够的金钱购买自己的运输飞艇。
+
+自己翻身做老板当家的前几年里，生意真是做得顺风顺水。然后，伴随着战争的停滞，尽管市面上充斥着各种工作，但没有任何一份工作的薪水足以支撑你的梦想，让你继续扩大舰队规模。
+
+你一直在尝试降低报价以寻求新客户，但这个行业已经不似曾经那般有利可图。直到有一天，当船员们装卸着下一批货物时，你看着越来越糟糕的资产负债表，收到了“那封信”。","這裏從不缺乏物品運送的需求，尤其是在大範圍的戰爭期間。幾年前，你就開始了自己的職業生涯，起初是為海軍供應商的貨艇引航，直到存下了足夠的金錢購買自己的運輸飛艇。
+
+自己翻身做老闆當家的前幾年裏，生意真是做得順風順水。然後，伴隨著戰爭的停滯，儘管市面上充斥著各種工作，但沒有任何一份工作的薪水足以支撐你的夢想，讓你繼續擴大艦隊規模。
+
+你一直在嘗試降低報價以尋求新客戶，但這個行業已經不似曾經那般有利可圖。直到有一天，當船員們裝卸著下一批貨物時，你看著越來越糟糕的資產負債表，收到了“那封信”。"
+careertext_industrialist_full,"Life has been quiet and fulfilling while you spend your days counting and hauling warehouse stock while optimizing your parents factory productivity over the years. The war has been exaggerating the demand of your goods and you knew it, but it is very difficult to resist the temptation to expand when there’s profit to be made.
+
+Years passed, you inherited everything your parents own after they passed away. Then newspapers started to arrive for months with no news of battles as you also started receiving less order form the navy. You took a glance at the loan contracts you and your parents have piled up since the war began and your brain started to go to places it has never been.
+
+You have read the news about the Great Mana Coil and new opportunities that open up in Suthseg so you bought yourself and new ship, a gunnery officer, and a crew to make the voyage. Then out of a sheer coincidence, you received “The Letter”.","多年来，你在清点与搬运仓库库存，以及尽可能优化家族工厂生产效率的每一天都过得平静而充实。你很清楚的知道，是那场大型战争夸大了您的商品战争，但当面对实打实的利润时，很难抵抗住扩张规模的诱惑。
+
+时间一点一滴流逝，你从过世的父母手中彻底接管了一切。然而一连几个月的报纸都不再提及战争状态，你也很少接收来自海军的订单了。你看了一眼那个你和长辈们奋斗过的地方，那些积累起来的贷款合同，思绪越飘越远。
+
+你阅读过一篇篇关于伟大魔法环的新闻，还有萨斯赛克一展头角的新鲜事，于是你决定购买一艘新的飞艇，雇佣了一名炮手和船员，开启这次航行。纯属巧合，你收到了“那封信”。","多年來，你在清點與搬運倉庫庫存，以及盡可能優化家族工廠生產效率的每一天都過得平靜而充實。你很清楚的知道，是那場大型戰爭誇大了您的商品戰爭，但當面對實打實的利潤時，很難抵抗住擴張規模的誘惑。
+
+時間一點一滴流逝，你從過世的父母手中徹底接管了一切。然而一連幾個月的報紙都不再提及戰爭狀態，你也很少接收來自海軍的訂單了。你看了一眼那個你和長輩們奮鬥過的地方，那些積累起來的貸款合同，思緒越飄越遠。
+
+你閱讀過一篇篇關於偉大魔法環的新聞，還有薩斯賽克一展頭角的新鮮事，於是你決定購買一艘新的飛艇，雇傭了一名炮手和船員，開啟這次航行。純屬巧合，你收到了“那封信”。"
+tutorial_cameracontrol1,Locate the enemy by using middle-mouse scroll        to zoom in/out,使用鼠标滚轮缩放画面来定位敌人,使用滑鼠滾輪縮放畫面來定位敵人
+tutorial_cameracontrol2,Hold right-mouse              and move to rotate the camera,按住鼠标右键          并移动以旋转镜头,按住滑鼠右鍵 並移動以旋轉鏡頭
+tutorial_speedcontrol1,"Hold <style=""gold"">W</style> to reach maximum speed","按住<style=""gold"">W</style>以达到最快速度","按住<style=""gold"">W</style>以達到最快速度"
+tutorial_speedcontrol2,"While the ship is in motion, hold <style=""gold"">A</style> or <style=""gold"">D</style> to turn","当船在移动过程中，按住<style=""gold"">A</style>或<style=""gold"">D</style>进行左右转向","當船在移動過程中，按住<style=""gold"">A</style>或<style=""gold"">D</style>進行左右轉向"
+tutorial_speedcontrol3,"<style=""grey"">You can also control the ship's speed and turning with left-mouse button</style>","<style=""grey"">您也可以通过鼠标左键控制飞艇速度及转弯</style>  ","<style=""grey"">您也可以通過滑鼠左鍵控制飛艇速度及轉彎</style>"
+tutorial_maneuver1,"Hold <style=""gold"">S</style> to decelerate and move backward","按住<style=""gold"">S</style>减速并后退","按住<style=""gold"">S</style>減速並後退"
+tutorial_maneuver2,"Hold <style=""gold"">Q</style> / <style=""gold"">E</style> to strafe left and right respectively","按住<style=""gold"">Q</style>/<style=""gold"">E</style>可以实现向左/向右扫射","按住<style=""gold"">Q</style>/<style=""gold"">E</style>可以實現向左/向右掃射"
+tutorial_aim1,"Move closer to the enemy and place it within your <style=""gold"">Firing Arcs</style>","靠近敌人，并将其置于您<style=""gold"">射击范围</style>内","靠近敵人，並將其置於您<style=""gold"">射擊範圍</style>內"
+tutorial_aim2,"Keep the enemy in the <style=""gold"">Firing Arcs</style> to maintain your targeting then hold <style=""gold"">SPACE</style> to fire","始终保持您的敌人位于<style=""gold"">射击范围</style>中以保证您可以击中目标，按住<style=""gold"">空格键</style>对其发动攻击","始終保持您的敵人位於<style=""gold"">射擊範圍</style>中以保證您可以擊中目標，按住<style=""gold"">空格鍵</style>對其發動攻擊"
+tutorial_aim3,"<style=""grey"">Get closer to improve your accuracy</style>","<style=""grey"">靠近一点以提高准确率</style>","<style=""grey"">靠近一點以提高準確率</style>"
+tutorial_gamespeedcontrol1,"Click      or press <style=""gold"">X</style> to pause the game, make it easier to assess the situation","点击          或按<style=""gold"">X</style>以暂停游戏，便于评估战斗情况","點擊 或按<style=""gold"">X</style>以暫停遊戲，便於評估戰鬥情況"
+tutorial_gamespeedcontrol2,"<style=""grey"">You can also accelerate the game speed with          or hold TAB</style>","<style=""grey"">您也可以通过使用或按住TAB加速游戏</style>","<style=""grey"">您也可以通過使用或按住TAB加速遊戲</style>"
+tutorial_knowenemy1,Click          to open the enemy’s information panel,点击          以打开敌方信息面板,點擊 以打開敵方資訊面板
+tutorial_knowenemy2,"Each part of the ship can be wrecked individually, if all <style=""gold"">Command parts</style>,
+ <style=""gold"">Power plants</style>, or <style=""gold"">Drives</style> get destroyed, that ship will capsize.","飞艇的每一个部分都可以被单独损坏，但如果所有<style=""gold"">指挥部件</style>，<style=""gold"">能源装置</style>或是<style=""gold"">驱动装置</style>被摧毁，则会导致飞艇倾覆。","飛艇的每一個部分都可以被單獨損壞，但如果所有<style=""gold"">指揮部件</style>，<style=""gold"">能源裝置</style>或是<style=""gold"">驅動裝置</style>被摧毀，則會導致飛艇傾覆。"
+tutorial_defeatenemy1,"Now you are ready, try to shoot the enemy down",现在，您已经准备好了，尝试击落敌人吧,現在，您已經準備好了，嘗試擊落敵人吧
+tutorial_defeatenemy2,Don’t forget to lead a moving target,别忘了控制移动的目标,別忘了控制移動的目標
+tutorial_installweapon1,"<style=""extgrid"">The Exterior grids</style> allow the placement of <style=""gold"">Weapons</style>, <style=""gold"">Platings</style>, and <style=""gold"">Storage parts</style>","<style=""extgrid"">外部格位</style>允许放置<style=""gold"">武器</style>、<style=""gold"">护板</style>以及<style=""gold"">存储部件</style>","<style=""extgrid"">外部格位</style>允許放置<style=""gold"">武器</style>、<style=""gold"">護板</style>以及<style=""gold"">存儲部件</style>"
+tutorial_installweapon2,"Select the <style=""gold"">Weapons</style> from the left panel and place them on the <style=""lawngreen"">available grids</style>","从左侧面板中选择<style=""gold"">武器</style>并将其放置在<style=""lawngreen"">可用格位</style>中","從左側面板中選擇<style=""gold"">武器</style>並將其放置在<style=""lawngreen"">可用格位</style>中"
+tutorial_installweapon3,"<style=""grey"">You can rotate the weapon with mouse scrolling</style>","<style=""grey"">您可以通过鼠标滚动来旋转武器</style>","<style=""grey"">您可以通過滑鼠滾動來旋轉武器</style>"
+tutorial_installdrive1,"<style=""drvgrid"">The Drive Grids</style> allow the placement of <style=""gold"">Platings</style>, and <style=""gold"">Drives</style>","<style=""drvgrid"">驱动格位</style>允许放置<style=""gold"">护板</style>以及<style=""gold"">驱动装置</style>","<style=""drvgrid"">驅動格位</style>允許放置<style=""gold"">護板</style>以及<style=""gold"">驅動裝置</style>"
+tutorial_installdrive2,"Select the <style=""gold"">Drives</style> from the left panel and place them on the <style=""lawngreen"">available grids</style>","从左侧面板中选择<style=""gold"">驱动装置</style>并将其放置在<style=""lawngreen"">可用格位</style>中","從左側面板中選擇<style=""gold"">驅動裝置</style>並將其放置在<style=""lawngreen"">可用格位</style>中"
+tutorial_installpowerplant1,"<style=""intgrid"">The Interior grids</style> allow the placement of <style=""gold"">Power Plants</style>, <style=""gold"">Platings</style>, <style=""gold"">Officer Rooms</style>, and <style=""gold"">Storage parts</style>","<style=""intgrid"">内部装置格位</style>允许放置<style=""gold"">能源装置</style>、<style=""gold"">护板</style>、<style=""gold"">军官房间</style>以及<style=""gold"">存储部件</style>","<style=""intgrid"">內部裝置格位</style>允許放置<style=""gold"">能源裝置</style>、<style=""gold"">護板</style>、<style=""gold"">軍官房間</style>以及<style=""gold"">存儲部件</style>"
+tutorial_installpowerplant2,"Select the <style=""gold"">Power Plants</style> and <style=""gold"">Officer Room</style> from the left panel and place them on the <style=""lawngreen"">available grids</style>","从左侧面板中选择<style=""gold"">能源装置</style>和<style=""gold"">军官房间</style>并将其放置在<style=""lawngreen"">可用格位</style>中","從左側面板中選擇<style=""gold"">能源裝置</style>和<style=""gold"">軍官房間</style>並將其放置在<style=""lawngreen"">可用格位</style>中"
+tutorial_installpowerplant3,"<style=""grey"">An airship needs at least one officer room and a surplus power generation to be functional.</style>","<style=""grey"">一艘飞艇至少需要一个军官房间和一个备用发动装置才能正常工作。</style>","<style=""grey"">一艘飛艇至少需要一個軍官房間和一個備用發動裝置才能正常工作。</style>"
+tutorial_installstorage1,"<style=""strgrid"">The Storage grids</style> only allow the placement of <style=""gold"">Storage rooms</style>","<style=""strgrid"">存储格位</style>仅允许放置<style=""gold"">储物室</style>","<style=""strgrid"">存儲格位</style>僅允許放置<style=""gold"">儲物室</style>"
+tutorial_installstorage2,"Select the <style=""gold"">Storage rooms</style> from the left panel and place them on the <style=""lawngreen"">available grids</style>","从左侧面板中选择<style=""gold"">储物室</style>并将其放置在<style=""lawngreen"">可用格位</style>中","從左側面板中選擇<style=""gold"">儲物室</style>並將其放置在<style=""lawngreen"">可用格位</style>中"
+tutorial_installstorage3,"<style=""grey"">Ammo storages are essential for your weapons, make sure to have a proper 
+number of them for your combat strategy.</style>","<style=""grey"">弹药储备对您的战斗而言至关重要，请确保有合适的弹药库，为您的战斗策略提供充足弹药。</style>","<style=""grey"">彈藥儲備對您的戰鬥而言至關重要，請確保有合適的彈藥庫，為您的戰鬥策略提供充足彈藥。</style>"
+tutorial_installplating1,"<style=""pltgrid"">The Plating grids</style> only allow the placement of <style=""gold"">Protection parts</style>","<style=""pltgrid"">护板格位</style>仅允许放置<style=""gold"">保护性部件</style>","<style=""pltgrid"">護板格位</style>僅允許放置<style=""gold"">保護性部件</style>"
+tutorial_installplating2,"Select the <style=""gold"">Protection parts</style> from the left panel and place them on the <style=""lawngreen"">available grids</style>","从左侧面板选择<style=""gold"">保护性部件</style>并将其放置在<style=""lawngreen"">可用格位</style>中","從左側面板選擇<style=""gold"">保護性部件</style>並將其放置在<style=""lawngreen"">可用格位</style>中"
+tutorial_installofficer1,Officers provide new strategic options and parameter boosts for your airship,军官们将为您的飞艇提供更多战略选择和参数提升,軍官們將為您的飛艇提供更多戰略選擇和參數提升
+tutorial_installofficer2,"Select <style=""gold"">Nathaniel</style> from the <style=""gold"">Officer Tab</style> and assign him to the <style=""gold"">Captain Slot</style>","从<style=""gold"">军官选项卡</style>中选择<style=""gold"">纳撒尼尔</style>，将其分配至<style=""gold"">船长职位</style>","從<style=""gold"">軍官選項卡</style>中選擇<style=""gold"">納撒尼爾</style>，將其分配至<style=""gold"">船長職位</style>"
+tutorial_coloring1,"Click on the <style=""gold"">Coloring button</style> to enter the <style=""gold"">Visual customization mode</style>","点击<style=""gold"">着色</style>按钮进入<style=""gold"">视觉自定义模式</style>","點擊<style=""gold"">著色</style>按鈕進入<style=""gold"">視覺自定義模式</style>"
+tutorial_coloring2,Pick new colors for your ship and click on the button again to return,为您的飞艇选择新的颜色，并再次点击按钮返回,為您的飛艇選擇新的顏色，並再次點擊按鈕返回
+tutorial_aim4,Each weapon has its own cooldown timer,每一种武器都有自己的冷却时长,每一種武器都有自己的冷卻時長
+tutorial_aim5,"The respective weapon status bar will be increased
+once a weapon is ready to fire again.",一旦某个武器准备好再次射击，便会增加相应的武器状态栏。,一旦某個武器準備好再次射擊，便會增加相應的武器狀態欄。
+tutorial_shipyardfinish1,"Make sure that you complete your <style=""gold"">Checklist</style>","请确保您完成了<style=""gold"">核对表</style>","請確保您完成了<style=""gold"">核對表</style>"
+tutorial_shipyardfinish2,"Click on the <style=""gold"">Finish</style> button to complete you airship customization","点击<style=""gold"">完成</style>按钮以退出飞艇定制","點擊<style=""gold"">完成</style>按鈕以退出飛艇定制"
+pvp_lobby_match_size_1v1,1 VS 1,1 VS 1,1 VS 1
+pvp_lobby_match_size_2v2,2 VS 2,2 VS 2,2 VS 2
+pvp_lobby_match_size_3v3,3 VS 3,3 VS 3,3 VS 3
+pvp_budget_unlimited,UNLIMITED,无限,無限
+pvp_loading_screen_header,LOADING MULTIPLAYER GAME...,正在加载多人游戏……,正在加載多人遊戲……
+pvp_loading_screen_progress,Sending data (0) of (0),正在发送(0)的数据(0),正在發送(0)的數據(0)
+pvp_match_start_countdown,Starting in: (1),预计匹配时间：(1),預計匹配時間：(1)
+pvp_match_result_winner,WINNER,赢家,贏家
+supplystation_currentsupply,Current Supply,当前物资,當前物資
+supplystation_perunit,Per Unit,每单位,每單位
+supplystation_total,Total,总计,總計
+option_mappanning,Map Panning,缩放地图,縮放地圖
+shipattribute_boardingpower,Boarding Power :,登船动力：,登船動力：
+shipattribute_boardingresist,Boarding Resist :,登船阻力：,登船阻力：
+shipattribute_thrustefficiency,Thrust Efficiency :,推动效率：,推動效率：
+shipattribute_maneuveringefficiency,Maneuvering Efficiency :,机动效率：,機動效率：
+shipattribute_turnefficiency,Turn Efficiency :,转向效率：,轉向效率：
+shipattribute_powergenerationefficiency,Power Generation Efficiency :,能源生成效率：,能源生成效率：
+shipattribute_shieldgenerationefficiency,Shield Generation Efficiency :,护盾生成效率：,護盾生成效率：
+shipattribute_drivereadyingtime,Drive Readying Time :,驱动准备时间：,驅動準備時間：
+shipattribute_driveprimingtime,Drive Priming Time :,驱动启动时间：,驅動啟動時間：
+shipattribute_accelerationfactor,Acceleration Factor :,加速系数：,加速係數：
+shipattribute_maxcruisingdrivefactor,Max Cruising Drive Factor :,最大巡航系数：,最大巡航係數：
+shipattribute_protectedcrew,Protected Crew :,受保护船员：,受保護船員：
+shipattribute_materialstorage,Materials Storage :,材料储量：,材料儲量：
+shipattribute_powerstorage,Power Storage :,能源储量：,能源儲量：
+shipattribute_ammostorage,Ammo Storage :,弹药储量：,彈藥儲量：
+option_setting_orbitsensitivity,Orbit Sensitivity,轨道灵敏度,軌道靈敏度
+combat_gameover,Game Over,游戏结束,遊戲結束
+warehousetext_singletransfer,: Transfer one,：单个转移,：單個轉移
+warehousetext_stacktransfer,: Transfer stack,：大量转移,：大量轉移
+warehousetext_duplicatedtransfer,: Transfer identical,：同类转移,：同類轉移
+surrender_currenteagle,Current Eagle,现有鹰币,現有鷹幣
+surrender_amounttopay,Amount to pay,需支付数额,需支付數額
+partpopup_dmgnegation,Dmg Negation,减伤,減傷
+partpopup_selfhardening,Self Hardening,单次损伤上限,單次損傷上限
+partpopup_tag_dampening,Dampening,阻尼,阻尼
+partpopup_tag_denypen,Deny Pen.,///,///
+partpopup_damage,Damage,伤害,傷害
+partpopup_blastradius,Blast Radius,爆破半径,爆破半徑
+partpopup_integrity,Integrity,完整度,完整度
+partpopup_crewdamage,Crew Damage,船员伤害,船員傷害
+partpopup_projectilespeed,Projectile Speed,弹丸速度,彈丸速度
+partpopup_turnrate,Turn rate,转向速度,轉向速度
+partpopup_shieldandrecharge,Shield/Recharge,护罩/充电,護罩/充電
+partpopup_resistance,Resistance,减伤,減傷
+partpopup_timetofulldamage,Time to full damage,导致完全损坏的时间,導致完全損壞的時間
+partpopup_trackingradius,Tracking Radius,追踪半径,追蹤半徑
+partpopup_armedradius,Armed Radius,武装半径,武裝半徑
+partpopup_range,Range,射程,射程
+partpopup_firingarc,Firing Arc,射击角度,射擊角度
+partpopup_ammostorageandpershot,Ammo Storage/Per shot,弹药储存/每次射击,彈藥儲存/每次射擊
+partpopup_fighterspeed,Fighter Speed,射速,射速
+partpopup_reload,Reload,重新装填,重新裝填
+partpopup_cruisingpreparetime,Cruise Priming Time,巡航准备时间,巡航準備時間
+partpopup_cruisingcountdowntime,Cruise Activation Time,巡航倒计时,巡航倒計時
+partpopup_cruisingacceleration,Cruising Acceleration,巡航加速度,巡航加速度
+partpopup_maxcruisingspeed,Max Cruising Thrust,最大巡航速度,最大巡航速度
+partpopup_tag_mana,Mana,魔法,魔法
+partpopup_tag_explosive,Explosive,爆炸性,爆炸性
+partpopup_tag_interceptor,Interceptor,拦截,攔截
+partpopup_tag_piercing,Penetration,穿透,穿透
+partpopup_materialstorage,Materials Storage,材料储存,材料儲存
+partpopup_maximummorale,Maximum Morale,最大士气,最大士氣
+partpopup_protectedcrew,Protected Crew,受保护船员,受保護船員
+partpopup_boardingdefense,Boarding Defense,登船防御,登船防禦
+partpopup_manaweapondamage,Mana Weapon Damage,魔法武器伤害,魔法武器傷害
+partpopup_materialgeneration,Materials Generation,材料生成,材料生成
+partpopup_fuelstorage,Fuel Storage,燃料储存,燃料儲存
+partpopup_fuelgeneration,Fuel Generation,燃料生成,燃料生成
+partpopup_boardingdamage,Boarding Damage,登船伤害,登船傷害
+partpopup_boardingrange,Boarding Range,登船半径,登船半徑
+partpopup_passiverepair,Passive Repair,被动修复,被動修復
+partpopup_activerepair,Active Repair,主动修复,主動修復
+partpopup_shipaccuracy,Ship Accuracy,飞艇精度,飛艇精度
+partpopup_shiptravelmorale,Ship Travel Morale,飞艇旅行士气,飛艇旅行士氣
+partpopup_shipbattlemorale,Ship Battle Morale,飞艇战斗士气,飛艇戰鬥士氣
+partpopup_weaponexplosiveradius,Weapon Explosive Radius,武器爆炸半径,武器爆炸半徑
+menu_demoversion,Demo version,Demo版本,Demo版本
+shipattribute_sizeandmass,Airframe Size/Mass :,机身尺寸/质量,機身尺寸/品質
+shipattribute_thrustturnmaneuveringeff,Thrust/Turn/Maneuvering Eff. :,推力/转向/操作效率：,推力/轉向/操作效率：
+shipattribute_powershieldgenerationeff,Power/Shield Generation Eff. :,能源/护盾生成效率：,能源/護盾生成效率：
+shipattribute_crewprotectedcrew,Crew/Protected Crew :,船员/受保护船员：,船員/受保護船員：
+shipattribute_repairteam,Repair Team :,维修团队：,維修團隊：
+shipattribute_cargoslot,Cargo Slot :,货舱舱位：,貨艙艙位：
+shipattribute_boardingpowerresist,Boarding Power/Resist :,登船力量/抵抗：,登船力量/抵抗：
+shipattribute_cruisingspecification,CRUISING SPECIFICATION,巡航标准,巡航標準
+shipattribute_fuelstorageconsumptionpersec,Fuel Storage/Consumption per Sec :,燃料储存/每秒消耗量：,燃料儲存/每秒消耗量：
+shipattribute_drivereadyingprimingtime,Drive Readying/Priming Time :,驱动准备/启动时间：,驅動準備/啟動時間：
+hangar_airframeinformation,AIRFRAME INFORMATION,飞艇信息,飛艇資訊
+option_quickinteraction,Quick Interaction,快速交互,快速交互
+shipyard_shipcolor_header,Ship color,飞艇颜色,飛艇顏色
+shipyard_btn_shipcolor1,color 1,颜色1,顏色1
+shipyard_btn_shipcolor2,color 2,颜色2,顏色2
+officer_careermaxlv,Officer level has been maxed out.,军官级别已达到上限。,軍官級別已達到上限。
+supplystation_paycondition,for each crew per hour. The fee will rise for accumalative reseting (refresh weekly),每个船员每小时，将增加累计重置数据（每周更新））,每個船員每小時，將增加累計重置數據（每週更新））
+supplystation_available,AVAILABLE IN:,可用于：,可用於：
+supplystation_resthour,hr.,小时,小時
+supplystation_restmin,mins,分钟,分鐘
+supplystation_hour,HOURS:,小时：,小時：
+option_battleclicknavigate,Battle click to navigate,战斗点击导航,戰鬥點擊導航
+option_travelclicknavigate,Travel click to navigate,航行点击导航,航行點擊導航
+playerprofile_playerinformation,Player Information,玩家信息,玩家信息
+playerprofile_companyprofile,Company Profile,公司简介,公司簡介
+playerprofile_logocolor,Logo Color,徽标颜色,徽標顏色
+pvp_lobby_shipname,Ship name,飞艇名称,飛艇名稱
+pvp_lobby_cost,Cost,费用,費用
+partpopup_armorpiercing,Negate Resistance,武器穿甲,武器穿甲
+battleturnback_turnback,Turn Back,返回,返回
+battleturnback_youareleavingstoryencounter,You cannot leave a story encounter,您将退出该事件,您將退出該事件
+supplystation_restuntil,REST UNTIL,休息至,休息至
+option_vsync,V-Sync,垂直同步,垂直同步
+battleretreat_leavingcombatarea,Leaving Combat Area,离开作战区域,離開作戰區域
+option_gamma_main,Gamma Correction,伽马值校正,伽馬值校正
+option_gamma_calibration,Calibration,校准,校準
+option_gamma_text,Adjust the slider so that the left-most image is barely visible,调整该滑块，可使最左侧图像不可视,調整該滑塊，可使最左側圖像不可視
+partpopup_pershot,Per Shot,每次射击,每次射擊
+option_bulktypetransactionmodifier,Bulk Type Transaction Modifier,批量操作,批量操作
+option_officerselectionhold,Officer Selection [Hold],军官选择【长按】,軍官選擇【長按】
+option_rightclicktostop,Right click to stop cruising,右键单击可停止巡航,右鍵單擊可停止巡航
+option_mapping_advanceimmersive,Advance immersive conversation,沉浸式对话,沉浸式對話
+option_mapping_advancedramatic,Advance DRAMATIC conversation,戏剧性对话,戲劇性對話
+demo_joinourdiscord,Discord Server,加入我们的QQ,加入我們的QQ
+demo_addtowishlist,Add to wishlist,加入愿望单,加入願望單
+demo_joinustoday,Join us today!,立即加入我们！,立即加入我們！
+demo_tovisitexplore,"to visit, explore, and establish your influence",访问，探索，并建立属于你自己的影响力,訪問，探索，並建立屬於你自己的影響力
+demo_over70settlements,Over 70 settlements,超过70个定居点,超過70個定居點
+demo_uniquefacilites,unique facilites,独特的设计,獨特的設計
+demo_and,and,和,和
+demo_over100craftable,Over 100 craftable items,远超100件工艺品,遠超100件工藝品
+demo_tounlockeachwith,"to unlock, each with unique skills and storyline",解锁每个人独特的技能和故事情节,解鎖每個人獨特的技能和故事情節
+demo_over20officers,Over 20 officers,超过20名军官供你选择,超過20名軍官供你選擇
+demo_withfullcustomization,with full customization options,具有完整的自定义选项,具有完整的自定義選項
+demo_over30airships,Over 30 uniquely designed airships,30多艘设计独特的飞艇,30多艘設計獨特的飛艇
+demo_andsandboxcontent,and sandbox content,还有沙盒内容,還有沙盒內容
+demo_100hoursofsidestory,100+ hours of side stories,100+小时以上的故事体验,100+小時以上的故事體驗
+demo_thatculminateinto,that culminate  into and epic world-changing event,您最终将参与到史诗级、足以改变世界的事件中,您最終將參與到史詩級、足以改變世界的事件中
+demo_20hoursofstoryline,20+ hours of intense storyline,20+小时紧张刺激的故事线,20+小時緊張刺激的故事線
+demo_inthefullgame,In the full game you'll find:,在完整游戏中，您会发现：,在完整遊戲中，您會發現：
+demo_thankyouforplaying,THANK YOU FOR PLAYING,感谢您的体验,感謝您的體驗
+demo_body1,"<style=""darkgold"">20+ hours of intense storyline</style> that culminate into and epic world-changing event","<style=""darkgold"">20+小时紧张刺激的故事线</style> 您最终将参与到史诗级、足以改变世界的事件中","<style=""darkgold"">20+小時緊張刺激的故事線</style> 您最終將參與到史詩級、足以改變世界的事件中"
+demo_body2,"<style=""darkgold"">100+ hours of side stories</style> and sandbox content","<style=""darkgold"">100+小时以上的故事体验</style> 还有沙盒内容","<style=""darkgold"">100+小時以上的故事體驗</style> 还有沙盒内容"
+demo_body3,"<style=""darkgold"">Over 30 uniquely designed airships</style> with full customization options","<style=""darkgold"">30多艘设计独特的飞艇</style> 具有完整的自定义选项","<style=""darkgold"">30多艘設計獨特的飛艇</style> 具有完整的自定義選項"
+demo_body4,"<style=""darkgold"">Over 20 officers</style> to unlock, each with unique skills and storyline","<style=""darkgold"">超过20名军官供你选择</style> 解锁每个人独特的技能和故事情节","<style=""darkgold"">超過20名軍官供你選擇</style> 解鎖每個人獨特的技能和故事情節"
+demo_body5,"<style=""darkgold"">Over 100 craftable items</style> and <style=""darkgold"">unique facilites</style>","<style=""darkgold"">远超100件工艺品</style> 和 <style=""darkgold"">独特的设计</style>","<style=""darkgold"">遠超100件工藝品</style> 和 <style=""darkgold"">獨特的設計</style>"
+demo_body6,"<style=""darkgold"">Over 70 settlements</style> to visit, explore, and establish your influence","<style=""darkgold"">超过70个定居点</style> 访问，探索，并建立属于你自己的影响力","<style=""darkgold"">超過70個定居點</style> 訪問，探索，並建立屬於你自己的影響力"
+ui_context_sensitive_navigationmap,Navigation Map,导航地图,導航地圖
+ui_dlc_header,Downloadable content,可下载内容,可下載內容
+ui_dlc_installed,Installed,已安装,已安裝
+ui_dlc_not_installed,Not installed,未安装,未安裝
+ui_dlc_detected_header,New DLCs/Mods deteced,检测到新的DLC或模块,檢測到新的DLC或模組
+ui_dlc_detected_description,Save played with this game settings may be incompatible if the recent DLCs/Mods are removed.,如果删除最新的DLC或模块，可能导致游戏保存设置不兼容。,如果刪除最新的DLC或模組，可能導致遊戲保存設置不相容。
+ui_saveload_dlc_missing,DLC missing,DLC丢失,DLC丟失
+ui_dlc_detected_agree,Agree,同意,同意
+production_orderlimitreached,Order Limit Reached,已达到限额,已達到限額
+partpopup_resupplytime,Resupply Time,再补给时间,再補給時間
+partpopup_resupplycost,Resupply Cost,再补给成本,再補給成本
+ui_travel_minimap_clicktoexpand,Click to Expand,单击展开,單擊展開
+supplystation_paycrewcondition,for each crew per hour.,每个船员每小时,每個船員每小時
+ui_travel_worldmap_select,Select,选择,選擇
+ui_travel_worldmap_zoom,Scroll to Zoom,滚动缩放,滾動縮放
+ui_travel_worldmap_pan,Hold to Pan,按住移动,按住移動
+ui_travel_worldmap_cancel,Cancel,取消,取消
+option_framelimit_title,Frame Limit,帧数限制,幀數限制
+patchnote_recoverdata_page1,"The Reclamation Voyage Patch
+Missing Content has Been Reclaimed!!
+
+Dear Players,
+
+We want to express our heartfelt gratitude for your unwavering support throughout this journey. Your patience and dedication have been inspiring, and we're excited to share some significant news with you.
+
+As many of you are aware from our previous announcement, the Missing Content Patch is set to launch on 29th September 2023, it has now arrived. This update aims to address the critical errors that led to the absence of essential gameplay elements on launch day. We understand the frustration this has caused, and we've been committed to making it right. 
+
+Our community's engagement through Discord has been an invaluable asset throughout this journey. Your dedication, passionate discussions, and valuable feedback have played a pivotal role in shaping this important update. You may have noticed some patch notes and hot fixes we have been doing as we have worked towards this Missing Content Patch–many of these came right from our community feedback and help! ","《飞空艇时代：贸易帝国》更新补丁
+丢失内容已恢复！！！
+
+亲爱的玩家们，
+
+我们要向您表达衷心的感谢，感谢您在整个旅程中的坚定支持。您的耐心、理解和支持是我们最大的财富，再次，我们十分开心能与您分享一些重要消息。
+
+正如您在我们之前公告中了解的那样，遗失的内容补丁计划于2023年9月29日发布，现在已经按时上线。此次更新旨在解决导致游戏关键元素在首日发布时缺失的严重错误。我们理解这给您带来的影响，并一直致力于纠正这个问题。
+
+在整个过程中，通过Discord进行的社区互动是我们的宝贵经历。您的奉献精神、激情四溢的讨论和反馈，在塑造这个重要更新中发挥了关键作用。您可能已经注意到，在我们努力实现这个遗失内容补丁的过程中，已经进行了一些补丁说明和修复 - 其中许多都是来自社区玩家的反馈和帮助！","《飛空艇時代：貿易帝國》更新補丁
+丟失內容已恢復！！！
+
+親愛的玩家們，
+
+我們要向您表達衷心的感謝，感謝您在整個旅程中的堅定支持。您的耐心、理解和支持是我們最大的財富，再次，我們十分開心能與您分享一些重要消息。
+
+正如您在我們之前公告中瞭解的那樣，遺失的內容補丁計畫於2023年9月29日發佈，現在已經按時上線。此次更新旨在解決導致遊戲關鍵元素在首日發佈時缺失的嚴重錯誤。我們理解這給您帶來的影響，並一直致力於糾正這個問題。
+
+在整個過程中，通過Discord進行的社區互動是我們的寶貴經歷。您的奉獻精神、激情四溢的討論和回饋，在塑造這個重要更新中發揮了關鍵作用。您可能已經注意到，在我們努力實現這個遺失內容補丁的過程中，已經進行了一些補丁說明和修復 - 其中許多都是來自社區玩家的回饋和幫助！"
+patchnote_recoverdata_page2,"Here's a recap of the missing content that will be fixed in this patch:
+
+- Approximately 70% of ships and ship parts were missing due to merchants being locked behind missing quest data. They should now be accessible via quests from various factions in the game.
+- Industry merchants on almost all settlements were inaccessible due to missing data. They should now be accessible and offer a large selection of items to trade.
+- Production facilities on almost all settlements were locked and inaccessible due to missing data. These should now be buildable, note that you have to progress through a certain point into the storyline to access them.
+- Certain items required for officer upgrades and quest completion were inaccessible due to missing data. These items are now restored, note that beyond level 5, upcoming character quests would ultimately unlock them.
+- NPCs responsible for granting commissions and helping resolve faction-related issues were locked and inaccessible. We have decided to make it easier for you by letting you pay the fee on the spot.
+- The industrial recipe was inadvertently reverted to an old, unprofitable version due to missing data, leading to balancing issues. This has now been restored and each recipe should net some good amount of profit margin.
+
+We sincerely hope that you thoroughly enjoy the restored elements of the game. Your continued feedback on the missing content is highly anticipated, as it remains a vital source of insight for us. We invite you to join us on Discord, where these discussions and collaborations will continue to be at the heart of our ongoing efforts to enhance and refine your gaming experience. 
+","以下是将在此补丁中修复的遗失内容概述：
+
+-由于本应出售飞艇和飞艇部件的商人被锁定在丢失的任务数据中，导致大概70%的商店访问失败。现在，您应该可以通过完成游戏中各派系的任务来访问它们。
+-由于数据丢失，几乎所有定居点的行业商户都被锁定，无法访问。现在，您应该可以访问它们，并进行大量物品交易。
+-几乎所有定居点上的生产设施由于缺失数据而被锁定且无法访问。现在，这些设施应该可以建造，但请注意，您必须在故事情节中进展到一定程度才能访问它们。
+-由于数据丢失，一些升级军官和提交任务所需的物品被锁定。这些物品现在已经恢复，但请注意，达到5级以后，通过即将推出的角色任务才能解锁它们。
+-由于数据丢失，能够使玩家获得佣金、解决您与其他派系之间小事故的NPC被锁定，无法访问。为了让您的游戏体验更加轻松，我们决定让您当场支付相关费用进行使用。
+-由于数据丢失，工业相关的配方恢复为旧版本/利润极低的版本，导致产生了平衡问题。现已恢复，每个配方应该都会获得一定数量的利润。
+
+我们衷心希望您能充分享受游戏中恢复的内容和元素，期待您对遗失内容的持续反馈，因为这仍然是我们洞察玩家体验的重要来源。我们再次邀请您加入我们的Discord，参与社区讨论，这是我们不断强化和完善您游戏体验的核心。","以下是將在此補丁中修復的遺失內容概述：
+
+-由於本應出售飛艇和飛艇部件的商人被鎖定在丟失的任務數據中，導致大概70%的商店訪問失敗。現在，您應該可以通過完成遊戲中各派系的任務來訪問它們。
+-由於數據丟失，幾乎所有定居點的行業商戶都被鎖定，無法訪問。現在，您應該可以訪問它們，並進行大量物品交易。
+-幾乎所有定居點上的生產設施由於缺失數據而被鎖定且無法訪問。現在，這些設施應該可以建造，但請注意，您必須在故事情節中進展到一定程度才能訪問它們。
+-由於數據丟失，一些升級軍官和提交任務所需的物品被鎖定。這些物品現在已經恢復，但請注意，達到5級以後，通過即將推出的角色任務才能解鎖它們。
+-由於數據丟失，能夠使玩家獲得傭金、解決您與其他派系之間小事故的NPC被鎖定，無法訪問。為了讓您的遊戲體驗更加輕鬆，我們決定讓您當場支付相關費用進行使用。
+-由於數據丟失，工業相關的配方恢復為舊版本/利潤極低的版本，導致產生了平衡問題。現已恢復，每個配方應該都會獲得一定數量的利潤。
+
+我們衷心希望您能充分享受遊戲中恢復的內容和元素，期待您對遺失內容的持續回饋，因為這仍然是我們洞察玩家體驗的重要來源。我們再次邀請您加入我們的Discord，參與社區討論，這是我們不斷強化和完善您遊戲體驗的核心。"
+patchnote_recoverdata_page3,"Beyond the initial missing content, we have an exciting lineup of planned updates waiting to take your gaming experience to new heights: 
+
+- Officers' full personal quests will be gradually released as we approach the final free update early next year.
+- Get ready for an epic revelation in the final two chapters, an addition that promises to elevate the game to new levels of excitement (while not directly related to the sandbox content).
+- Unlock access to the Teutonic Confederation's battle cruiser, a thrilling part of the unreleased quests.
+- Introducing the Ships/Ship Parts Production System, a feature that will add depth and excitement to your gameplay.
+
+The Missing Content Patch and these future updates represent our unwavering commitment to your gaming experience. We can't wait to see you explore, conquer, and discover all that Airship Kingdoms Adrift has to offer.
+
+Thank you for being an integral part of our community. Stay tuned for more exciting updates as we set sail towards a brighter future together.
+
+Fair winds and clear skies,
+
+Jay ","除了弥补遗失内容，我们还有一系列令人兴奋的计划更新，等待着将您的游戏体验提升到新的高度：
+
+-军官的完整版个人任务将逐步被发布，直至明年初最后一次免费更新截止之前。
+-最后两章的内容，您可以将其理解为史诗剧情揭秘，虽然与沙盒内容并没有太大的关联。
+-开放进入条顿联邦战列巡航舰，这也是计划中但尚未发布的、激动人心的任务之一。
+-推出舰船/舰船零部件的生产系统，这个功能将为您的游戏增添深度和刺激性。
+
+这次的遗失内容补丁和未来的更新计划代表了我们对您游戏体验的坚定承诺。我们迫不及待地想看到您探索、征服和发现《飞空艇时代：贸易帝国》所提供的一切。
+
+感谢您成为我们社区的重要一员。请继续关注更多更新，我们将一起驶向更加光明的未来。
+
+顺风顺水，晴空万里，
+
+Jay","除了彌補遺失內容，我們還有一系列令人興奮的計畫更新，等待著將您的遊戲體驗提升到新的高度：
+
+-軍官的完整版個人任務將逐步被發佈，直至明年初最後一次免費更新截止之前。
+-最後兩章的內容，您可以將其理解為史詩劇情揭秘，雖然與沙盒內容並沒有太大的關聯。
+-開放進入條頓聯邦戰列巡航艦，這也是計畫中但尚未發佈的、激動人心的任務之一。
+-推出艦船/艦船零部件的生產系統，這個功能將為您的遊戲增添深度和刺激性。
+
+這次的遺失內容補丁和未來的更新計畫代表了我們對您遊戲體驗的堅定承諾。我們迫不及待地想看到您探索、征服和發現《飛空艇時代：貿易帝國》所提供的一切。
+
+感謝您成為我們社區的重要一員。請繼續關注更多更新，我們將一起駛向更加光明的未來。
+
+順風順水，晴空萬里，
+
+Jay"
+goodsbrowser_sellers,Sellers,卖方,賣方
+goodsbrowser_buyers,Buyers,买方,買方
+goodsbrowser_trackthisitem,Track this item,追踪此物品,追蹤此物品
+goodsbrowser_profit,Profit,利润,利潤
+goodsbrowser_distance,Distance,距离,距離
+hangar_assign_ship,Assign,分配,分配
+hangar_sendto_ship,Send To,送至,送至
+hangar_abort_ship,Abort,中止,中止
+hangar_enroute,Enroute to:,去往：,去往：
+hangar_countdown,Countdown:,倒计时：,倒計時：
+sendship_current_location,Current Location:,当前地点：,當前地點：
+sendship_destination,Destination:,目的地：,目的地：
+sendship_speed,Speed:,速度：,速度：
+sendship_distance,Distance:,距离：,距離：
+sendship_voyage,Voyage:,航行：,航行：
+sendship_estimated,Estimated arrival:,预计到达时间：,預計到達時間：
+sendship_enable_cruise,Enable Cruise,启用巡航,啟用巡航
+sendship_title_header,Send the airship,派遣飞艇,派遣飛艇
+sendship_airship_header,Airship,飞艇,飛艇
+sendship_sendto_header,Send to,遣至,遣至
+production_amount,Amount,数量,數量
+production_min,Min,下限,下限
+production_max,Max,上限,上限
+production_repeatorder,Repeat Order,重复指令,重複指令
+sendship_send_button,Send,派遣,派遣
+worldmap_overlay_greatersegson,GREATER SEGSON,大塞格森,大塞格森
+worldmap_overlay_ipswick,IPSWICK,伊普斯维克,伊普斯維克
+worldmap_overlay_aberdonia,ABERDONIA,阿伯多尼亚,阿伯多尼亞
+worldmap_overlay_greenvale,GREENVALE,格林维尔,格林維爾
+worldmap_overlay_streampool,STREAMPOOL,溪塘,溪塘
+worldmap_overlay_sunvale,SUNVALE,桑维尔,桑維爾
+worldmap_overlay_everspring,EVERSPRING,恒春,恒春
+worldmap_overlay_lessersegson,LESSER<br>SEGSON,小<br>塞格森,小<br>塞格森
+worldmap_overlay_ancientmeadow,ANCIENT<br>MEADOW,上古草原,上古草原
+worldmap_overlay_coiltrails,COILTRAILS,克翠奥兹,克翠奧茲
+worldmap_overlay_castilis,CASTILLIS<br>MAJOR,卡斯蒂利斯<br>主大陆,卡斯蒂利斯<br>主大陸
+worldmap_overlay_joms,JOMSLAN,乔姆斯兰,喬姆斯蘭
+worldmap_overlay_greatmanacoil,THE GREAT<br>MANA COIL,大魔法圈,大魔法圈
+port_overcapacity,OVERCAPACITY,生产过剩,生產過剩
+port_removeexcessinventory,Remove excess inventory,删除多余库存,刪除多餘庫存
+worldmap_overlay_outlaw_crooked,CROOKED<br>PLOWER,弯曲<br>犁耙,彎曲<br>犁耙
+worldmap_overlay_outlaw_plowerrebels,PLOWER<br>REBELS,犁耙<br>起义军,犁耙<br>起義軍
+worldmap_overlay_outlaw_huntinggod,DISCIPLE OF THE<br>HUNTING GOD,猎神<br>门徒,獵神<br>門徒
+worldmap_overlay_outlaw_freetrader,FREE TRADERS,自由贸易者,自由貿易者
+worldmap_overlay_outlaw_conglomerate,SUNVALE<br>CONGLOMERATE,桑维尔<br>集团,桑維爾<br>集團
+worldmap_overlay_outlaw_tattered,BROTHERHOOD OF THE<br>TATTERED BANNER,旧旗<br>兄弟会,舊旗<br>兄弟會
+worldmap_overlay_outlaw_evergreen,DISCIPLE OF THE<br>EVERGREEN QUEEN,常青女王<br>门徒,常青女王<br>門徒
+worldmap_overlay_outlaw_coilworship,COIL WORSHIPPERS,圈道崇拜者,圈道崇拜者
+worldmap_overlay_outlaw_faucon,LES FAUCONS,猎鹰,獵鷹
+worldmap_overlay_official_1suth,1st SUTHSEGIAN<br>ROYAL NAVY,萨斯赛克第一<br>皇家海军,薩斯賽克第一<br>皇家海軍
+worldmap_overlay_official_2suth,2nd SUTHSEGIAN<br>ROYAL NAVY,萨斯赛克第二<br>皇家海军,薩斯賽克第二<br>皇家海軍
+worldmap_overlay_official_3suth,3rd SUTHSEGIAN<br>ROYAL NAVY,萨斯赛克第三<br>皇家海军,薩斯賽克第三<br>皇家海軍
+worldmap_overlay_official_4suth,4th SUTHSEGIAN<br>ROYAL NAVY,萨斯赛克第四<br>皇家海军,薩斯賽克第四<br>皇家海軍
+worldmap_overlay_official_gsuth,SUTHSEGIAN<br>GARRISON,萨斯赛克<br>驻军,薩斯賽克<br>駐軍
+worldmap_overlay_official_2Ace,2nd AECERLIAN<br>EXPEDITION FORCE,伊塞利亚第二<br>远征队,伊塞利亞第二<br>遠征隊
+worldmap_overlay_official_7Ace,7th AECERLIAN<br>ROYAL GUARD,伊塞利亚第七<br>皇家护卫队,伊塞利亞第七<br>皇家護衛隊
+worldmap_overlay_official_32Viri,32nd NEW VIRIDIAN REPUBLIC<br>NAVY DEFENDER,新翠共和国第三十二<br>防御队,新翠共和國第三十二<br>防禦隊
+worldmap_overlay_official_TT,THE TEUTONS,条顿人,條頓人
+questlog_tracknewitem,Auto-Track new item,自动追踪新物品,自動追蹤新物品
+questlog_journels,Journal,日志,日誌
+questlog_showquests,Show Quests:,显示任务：,顯示任務：
+questlog_msq,Main Story Quests,主线任务,主線任務
+questlog_OQ,Officer Quests,军官任务,軍官任務
+questlog_SQ,Side Story Quests,支线任务,支線任務
+questlog_HTQ,Hunting Quests,狩猎任务,狩獵任務
+questlog_LOQ,Logistic Quests,物流任务,物流任務
+questlog_GQ,Generic Quests,普通任务,普通任務
+button_select,SELECT,选择,選擇
+fleet_currently_selected,"Currently
+Selected","当前
+选择","當前
+選擇"
+warehouse_send_airship,Send Airship,派遣飞艇,派遣飛艇
+warehouse_abort_voyage,Abort Voyage,中止航行,中止航行
+option_texturequality,Texture Quality,纹理质量,紋理品質
+searchbar_search,Search,搜索,搜索
+shipyard_merchant_header,Ship Parts Merchants,舰船配件商,艦船配件商
+shipyard_merchant_tab,Merchants,商人,商人
+shipyard_confirm_transaction_des,Finish your transaction and proceed to ship roster,完成交易并继续,完成交易並繼續
+sub_shipstat_header,Detailed Stats,详细数据,詳細數據
+sub_shipstat_effect_header,Eff.,效率,效率
+sub_shipstat_max_integrity,Max integrity:,最大完成度：,最大完成度：
+sub_shipstat_integrity_regen,Repair per Sec:,完成度每秒回复：,完成度每秒回復：
+sub_shipstat_max_shield_cap,Max shield capacity:,最大护盾量：,最大護盾量：
+sub_shipstat_shield_regen,Shield per Sec:,护盾每秒回复：,護盾每秒回復：
+sub_shipstat_weight,Weight(Kg):,重量（kg）:,重量（kg）:
+sub_shipstat_max_speed,Max speed(Km/h):,最大速度（Km/h）:,最大速度（Km/h）:
+sub_shipstat_turn_rate,Turn rate(rpm):,转身速率（rpm）:,轉身速率（rpm）:
+sub_shipstat_maneuvering_speed,Maneuvering speed:,机动速度:,機動速度:
+sub_shipstat_max_cruise_speed,Max cruise speed(Km/h):,最大巡航速度（Km/h）:,最大巡航速度（Km/h）:
+sub_shipstat_drive_readying_time,Cruise readying time(s):,驱动准备时间：,驅動準備時間：
+sub_shipstat_cruise_priming_time,Cruise priming time(s):,驱动启动时间：,驅動啟動時間：
+sub_shipstat_cruise_acceleration_factor,Cruise acceleration factor:,巡航加速系数：,巡航加速係數：
+sub_shipstat_power_cap,Power capacity:,能源容量：,能源容量：
+sub_shipstat_power_regen,Power generation per Sec:,能量每秒回复：,能量每秒回復：
+sub_shipstat_power_consum,Power consume per Sec:,能源每秒消耗：,能源每秒消耗：
+sub_shipstat_shield_regen_power_consum,Shield recharge consumption:,护盾回复能量消耗：,護盾回復能量消耗：
+sub_shipstat_fuel_cap,Fuel capacity:,燃料储量：,燃料儲量：
+sub_shipstat_fuel_regen,Fuel regen per Sec:,燃料每秒回复：,燃料每秒回復：
+sub_shipstat_cruise_fuel_consum,Cruise fuel consumption:,巡航单位燃料消耗：,巡航單位燃料消耗：
+sub_shipstat_ammo_cap,Ammo capacity:,弹药量：,彈藥量：
+sub_shipstat_ammo_regen,Ammo generation per Sec:,弹药每秒回复：,彈藥每秒回復：
+sub_shipstat_mat_cap,Materials capacity:,材料量:,材料量:
+sub_shipstat_mat_regen,Materials generation per Sec:,材料每秒回复:,材料每秒回復:
+sub_shipstat_max_crew,Max crew:,最大船员:,最大船員:
+sub_shipstat_protected_crew,Protected crew:,受保护船员:,受保護船員:
+sub_shipstat_crew_recovery,Crew tecovery(%):,船员恢复(%):,船員恢復(%):
+sub_shipstat_max_morale,Max morale:,最大士气:,最大士氣:
+sub_shipstat_morale_regen_travel,Morale regen per Sec (Travel):,士气每秒回复 (航行时):,士氣每秒回復 (航行時):
+sub_shipstat_morale_regen_battle,Morale regen per Sec (Battle):,士气每秒回复 (战斗时):,士氣每秒回復 (戰鬥時):
+sub_shipstat_repair_team,Repair team:,维修队:,維修隊:
+sub_shipstat_passive_repair_travel,Passive repair per Sec (Travel):,每秒被动维修速率 (航行时):,每秒被動維修速率 (航行時):
+sub_shipstat_active_repair_travel,Active repair per Sec (Travel):,每秒主动维修速率 (航行时):,每秒主動維修速率 (航行時):
+sub_shipstat_max_boarding_power,Max boarding power:,最大登船力量:,最大登船力量:
+sub_shipstat_max_boarding_defense,Max boarding defense:,最大登船防御:,最大登船防禦:
+sub_shipstat_boarding_speed,Boarding speed(s):,登船速度(s):,登船速度(s):
+sub_shipstat_boarding_range,Boarding range(m):,登船距离(m):,登船距離(m):
+sub_shipstat_overall_potency,Overall potency:,总火力:,總火力:
+sub_shipstat_max_weapon_range,Max weapon range(m):,最远武器攻击距离(m):,最遠武器攻擊距離(m):
+sub_shipstat_max_weapon_reload_time,Max weapon reload time(s):,最大武器装填时间(s):,最大武器裝填時間(s):
+sub_shipstat_weapon_dam_on_shield,Weapon damage on shield:,武器对护盾伤害:,武器對護盾傷害:
+sub_shipstat_weapon_accuracy,Weapon accuracy:,武器准度:,武器准度:
+sub_shipstat_max_interceptor_range,Max interceptor range(m):,最大拦截距离(m):,最大攔截距離(m):
+sub_shipstat_max_interceptor_reload_time,Max interceptor reload time(s):,最大拦截武器装填时间(s):,最大攔截武器裝填時間(s):
+sub_shipstat_mana_weapon_dam,Mana weapon damage:,魔法武器伤害:,魔法武器傷害:
+sub_shipstat_explosive_weapon_blast_radius,Explosive weapon blast radius(m):,爆炸武器爆炸半径(m):,爆炸武器爆炸半徑(m):
+shiproster_stats,STATS,数据,數據
+shiproster_airframe,AIRFRAME,机身,機身
+storyline_header,Storyline progress,剧情进展,劇情進展
+partpopup_fullstackprice,Full stack price,全部价格,全部價格
+partpopup_crewrecovery,Crew recovery,船员恢复,船員恢復
+partpopup_localamount,Local amount,当地数量,當地數量
+partpopup_globalamount,Global amount,全球数量,全球數量
+facilityhover_facility,Facility,设施,設施
+facilityhover_upgrade,Upgrade,升级,升級
+rankinfohover_rankinfo,Rank info,等级信息,等級資訊
+shoppinglist_settarget_header,Set your desired amount,设置目标数量,設置目標數量
+shoppinglist_set,Set,设置,設置
+shoppinglist_tab,Shopping list,购物清单,購物清單
+howto_itemproduction_head,ITEM PRODUCTION,物品生产,物品生產
+howto_itemproduction1,"Item production is one of the most prominent features of Airship: Kingdoms Adrift. The player can produce most of the items in the game varying from a lump of coal, and a trained pegasus to a full-blown battlecruiser.",物品生产是《飞空艇：贸易帝国》最突出的特色之一。玩家可以生产游戏中的大部分物品，从一块煤炭、训练有素的飞马到全副武装的战列巡洋舰。,物品生產是《飛空艇：貿易帝國》最突出的特色之一。 玩家可以生產遊戲中的大部分物品，從一塊煤炭、訓練有素的飛馬到全副武裝的戰鬥巡洋艦。
+howto_itemproduction2,"There are many types of unique production facilities responding to their location and story setting around the world, and to be fully operational, the player needs to build and upgrade them first.",世界各地有许多类型独特的生产设施，与其位置和故事背景相符，要充分利用它们，玩家需要首先建造和升级它们。,世界各地有許多類型獨特的生產設施，與其位置和故事背景相符，要充分利用它們，玩家需要先建造和升級它們。
+howto_itemproduction3,"Item production basics:
+1) Make sure that the facility is already built.
+2) Select a recipe from the list on the left-hand side.
+3) Select the required amount of batches or select the <style=""gold"">Repeat order</style> 
+    to continue the production indefinitely then click the <style=""gold"">Place Order</style> button.
+4) You can queue up to 10 orders at the same time, but only up to 
+    3 orders can be produced simultaneously depending on the facility level.
+5) To change the production priority, rearrange the production list accordingly. ","物品制作基础要素：
+1) 确保设施已经建成。
+2) 从左侧列表中选择一个配方。
+3) 选择需要的批次数量或选择<style=""gold"">重复订单</style>，就可以无限期地继续生产，然后再单击<style=""gold"">布置订单</style>按钮。
+4）您最多可以同时排队10个订单，但根据设施等级，最多只能同时生产 3 个订单。
+5) 要更改生产优先级，请相应地重新排列生产列表。","物品製作基礎要素：
+1) 確保設施已建成。
+2) 從左側清單中選擇一個配方。
+3) 選擇需要的批次數量或選擇<style=""gold"">重複訂單</style>，就可以無限期地繼續生產，然後再點擊<style=""gold"">佈置訂單</style>按鈕。
+4）您最多可以同時排隊10個訂單，但根據設施等級，最多只能同時生產 3 個訂單。
+5) 若要變更生產優先級，請相應地重新排列生產清單。"
+howto_sendingairship_head,SENDING AIRSHIP,派出飞艇,派出飛艇
+howto_sendingairship1,"To ramp up your production capability, refit unassigned airships into cargo ships and use them to transfer materials and goods between ports.",为了提高你的生产能力，你可以将未分配的飞艇改装成货船，并用它们在港口之间运输材料和货物。,為了提高你的生產能力，你可以將未分配的飛艇改裝成貨船，並用它們在港口之間運輸材料和貨物。
+howto_sendingairship2,"Voyage duration can vary depending on the distance between ports and the airship's maximum speed. To vastly shorten this duration, pay the fuel fee to activate the airship cruising mode.",航行时间由港口距离和飞艇的最大速度决定。要大幅降低时间，可以支付燃料费用，使用飞艇的巡航模式。,航行時間由港口距離和飛艇的最大速度決定。 要大幅降低時間，可以支付燃料費用，使用飛艇的巡航模式。
+howto_objective_head,OBJECTIVE & STORYLINE,目标与故事线,目標與故事線
+howto_objective1,"While you can choose to roam around the whole Kingdom of Suthseg freely from the get-go, many fun and interesting features of Airship: Kingdoms Adrift such as Faction quests and industries are hidden behind the main story progression. To continue with the main story quest, you can follow the directions from the <style=""gold"">Main objective panel</style> on the top-middle of the screen.","虽然你可以选择从一开始就在整个萨斯赛克王国中自由漫游，但《飞空艇：贸易帝国》中许多有趣的功能（例如派系任务和工业）都隐藏在主要故事进程之后。要继续主要故事任务，您可以按照屏幕中上方的<style=""gold"">主要目标面板</style>中的指示进行操作。","雖然你可以選擇從一開始就在整個薩斯賽克王國中自由漫遊，但《飛空艇：貿易帝國》中許多有趣的功能（例如派系任務和工業）都隱藏在主要故事進程之後。 要繼續主要故事任務，您可以按照螢幕中上方的<style=""gold"">主要目標面板</style>中的指示進行操作。"
+howto_objective2,"The story progression of Airship: Kingdoms Adrift is divided into 9 acts. As the story progresses, new game content will be available to unlock. By clicking the <style=""gold"">Main objective panel</style> and opening the storyline progress panel you can see all in-game contents and their unlocking order.","《飞空艇：贸易帝国》的故事进程分为9章。 随着故事的进展，新的游戏内容将可供解锁。 通过点击<style=""gold"">主要目标面板</style>并打开故事情节进度面板，您可以看到所有游戏内容及其解锁顺序。","《飛空艇：貿易帝國》的故事進程分為9章。 隨著故事的進展，新的遊戲內容將可供解鎖。 點擊<style=""gold"">主要目標面板</style>並打開故事情節進度面板，您可以看到所有遊戲內容及其解鎖順序。"
+howto_journal_head,JOURNAL,日志,紀錄
+howto_journal1,"By pressing <style=""gold"">J</style> or clicking on the journal button on the top-left of the screen, the player can access the journal panel which can help you track all of your ongoing quests by their key items. You can use the quest type for easier finding a specific quest.","通过按 <style=""gold"">J</style> 或单击屏幕左上角的日志按钮，玩家可以访问日志面板，该面板可以帮助您通过关键物品跟踪所有正在进行的任务。您可以使用任务类型来更轻松地查找特定任务。","透過按下 <style=""gold"">J</style> 或點擊螢幕左上角的日誌按鈕，玩家可以存取日誌面板，該面板可以幫助您透過關鍵物品追蹤所有正在進行的任務。 您可以使用任務類型來更輕鬆地尋找特定任務。"
+howto_journal2,Toggle the tracking button(star icon) to pin and display that quest on the world map screen.,切换跟踪按钮（星形图标）可以在世界地图屏幕上固定并显示该任务。,切換追蹤按鈕（星形圖示）可以在世界地圖螢幕上固定並顯示該任務。
+howto_journal3,"For some quests, you will be able to toggle the display button(eye icon) to hide or show that quest's icon and guided area as you see fit.",对于某些任务，您将能够切换显示按钮（眼睛图标）以隐藏或显示您认为合适的任务图标和引导区域。,對於某些任務，您將能夠切換顯示按鈕（眼睛圖示）以隱藏或顯示您認為合適的任務圖示和引導區域。
+howto_itemtracker_head,ITEM TRACKER & SHOPPING LIST,物品追踪器和购物列表,物品追蹤器和購物列表
+howto_itemtracker1,"To track any item in the game, hover over the item and click on the <style=""gold"">Magnifier icon</style> to access the <style=""gold"">item tracker panel</style>. Here, you can add the item to your shopping list, and see the item's trading information such as price and stack size but the most beneficial feature is the ability to know the buying and selling price along with the availability from all ports that you have already have discovered.","要跟踪游戏中的任务物品，请将鼠标悬停在该项目上，然后单击<style=""gold"">放大镜图标</style>以访问<style=""gold"">物品追踪器面板</style>。 在这里，您可以将商品添加到您的购物列表中，并查看商品的交易信息，例如价格和堆叠大小，但最有用的功能是能够了解买卖价格，以及物品在您已发现所有港口中是否能买到。","若要追蹤遊戲中的任務物品，請將滑鼠懸停在該項目上，然後按一下<style=""gold"">放大鏡圖示</style>以存取<style=""gold"">物品追蹤器面板</style >。 在這裡，您可以將商品添加到您的購物清單中，並查看商品的交易信息，例如價格和堆疊大小，但最有用的功能是能夠了解買賣價格，以及物品在您已發現所有港口中是否能 買到。"
+howto_itemtracker2,"Making the <style=""gold"">Shopping List</style> for items is the crucial part of Airship: Kingdoms Adrift as the player will constantly need quest items or materials for the production facilities. The Shopping List will inform the player of the amount of items they have in their procession both locally(fleet cargo) and globally. To set the quantity goal, click on the button with the flag icon. The amount of global and local numbers will turn gold if they've reached their quantity goal.
+
+
+","为物品制定<style=""gold"">购物列表</style>是《飞空艇：贸易帝国》的关键部分，因为玩家会长期需要任务物品或生产设施的材料。购物列表将通知玩家在本地（舰队货物）和世界范围内拥有的物品数量。要设置数量目标，请单击带有旗帜图标的按钮。如果数量达到目标，世界和本地数字的数量将变成金色的。","為物品製定<style=""gold"">購物清單</style>是《飛空艇：貿易帝國》的關鍵部分，因為玩家會長期需要任務物品或生產設施的材料。 購物清單將通知玩家在本地（艦隊貨物）和世界各地擁有的物品數量。 若要設定數量目標，請點選帶有旗幟圖示的按鈕。 如果數量達到目標，世界和本地數字的數量將變成金色的。"
+howto_subject_industryheader,INDUSTRY (2),工业（2）,工業（2）
+howto_subject_itemproduction,ITEM PRODUCTION,物品生产,物品生產
+howto_subject_sendingairship,SENDING AIRSHIP,派出飞艇,派出飛艇
+howto_subject_playerprogressionheader,PLAYER PROGRESSION (3),玩家进度（3）,玩家進度（3）
+howto_subject_objectivestoryline,OBJECTIVE & STORYLINE,目标和故事线,目標和故事線
+howto_subject_journal,JOURNAL,日志,紀錄
+howto_subject_itemtracker,"ITEM TRACKER, & SHOPPING LIST",物品追踪器和购物列表,物品追蹤器和購物列表
+howto_subheader_industry,INDUSTRY,工业,工業
+howto_subheader_playerprogression,PLAYER PROGRESSION,玩家进度,玩家進度
+sub_shipstat_passive_repair_battle,Passive repair per Sec (Battle):,每秒被动维修速率 (战斗时):,每秒被動維修速率 (戰鬥時):
+sub_shipstat_active_repair_battle,Active repair per Sec (Battle):,每秒主动维修速率 (战斗时):,每秒主動維修速率 (戰鬥時):
+partpopup_desiredamount,Desired Amount,所需金额,所需金額
+howto_capturingship5,"After an airship is captured, you will have the option to add the ship directly to your fleet (if the escort slot is available), send them to any visited port with an empty hangar slot, or just take a portion of their supply and let them be on their way.",当您俘获一艘飞艇之后，有以下选择：可以直接将其添加至您的舰队中（如果舰队当前有空闲护航舰位置）；将其遣送至任何访问过的港口，只要目的港口有空闲飞艇位置。或者，您也可以选择取走飞艇上部分补给并放他们离开。,當您俘獲一艘飛艇之後，有以下選擇：可以直接將其添加至您的艦隊中（如果艦隊當前有空閑護航艦位置）；將其遣送至任何訪問過的港口，只要目的港口有空閑飛艇位置。或者，您也可以選擇取走飛艇上部分補給並放他們離開。
+howto_addingescortairships5,"In combat, you can select a new target for your escort ship by clicking on the preferred enemy’s panel on the bottom-right of the screen (the selected airship will be highlighted) then reassign the combat behavior as you see fit.",在战斗过程中，您可以通过点击屏幕右下方的优先攻击面板设置攻击优先级（被选中优先攻击的飞艇也会突出显示）。您可以根据战况调整战斗节奏，为护航舰选择新的攻击目标。,在戰鬥過程中，您可以通過點擊螢幕右下方的優先攻擊面板設置攻擊優先順序（被選中優先攻擊的飛艇也會突出顯示）。您可以根據戰況調整戰鬥節奏，為護航艦選擇新的攻擊目標。
+ui_saveload_dlc_installed,DLC Installed,DLC已安装,DLC已安裝
+shoppinglist_showuntrackeditems,Show untracked items,显示未追踪物品,顯示未追蹤物品
+option_setting_midspeedmultiplier,Travel Speed Multiplier (Mid),航行速度倍增器（中）,航行速度倍增器（中）
+option_setting_maxspeedmultiplier,Travel Speed Multiplier (Max),航行速度倍增器（大）,航行速度倍增器（大）
+shoppinglist_clear,Clear,清除,清除
+option_setting_resumetime_title,Resume default time,恢复默认时间,恢復默認時間
+option_setting_resumetime_enterhostilerange,Entering hostile range,进入敌对范围,進入敵對範圍
+option_setting_resumetime_autopilotcomplete,Auto-pilot completion,自动航行完成,自動航行完成
+option_submitfeedback,Submit Feedback,提交反馈,提交回饋
+feedback_closewithoutsending,close without sending,取消发送并关闭,取消發送並關閉
+feedback_sendandclose,send and close,发送并关闭,發送並關閉
+feedback_continue,"continue playing
+(not recommended)","继续游戏
+（不推荐）","繼續遊戲
+（不推薦）"
+button_submit,Submit,提交,提交
+feedback_includesavefile,Include your lastest save game,包括您最近的游戏存档,包括您最近的遊戲存檔
+feedback_includescreenshot,Include your current in-game screenshot,包括您当前的游戏内截图,包括您當前的遊戲內截圖
+feedback_sendingreport,Your report is currently being sent.,您的反馈正在发送,您的回饋正在發送
+option_setting_unitoption,Display Unit System,显示单位系统,顯示單位系統
+popup_parts_rangebonus,Weapons Range (Not Stack),武器射程（不叠加）,武器射程（不疊加）
+option_setting_unitydatacollection,Unity Data Collection,统一数据收集,統一數據收集

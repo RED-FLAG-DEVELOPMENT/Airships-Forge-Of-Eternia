@@ -1,0 +1,163 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S1_name",
+                                    "InitValue": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S1_des",
+                                    "InitValue": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item12",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item12",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_CaitlinS_S1",
+                                    "InitValue": "Q_Main_Ch3_S5_CaitlinS_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S2_name",
+                                    "InitValue": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S2_des",
+                                    "InitValue": "Caitlin_Q_Main_Ch3_S5_CaitlinS_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item12",
+                                        "1",
+                                        "mat_limestone1",
+                                        "100",
+                                        "mat_marble1",
+                                        "50",
+                                        "mat_steelBeam",
+                                        "20",
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item12",
+                                        "1",
+                                        "mat_limestone1",
+                                        "100",
+                                        "mat_marble1",
+                                        "50",
+                                        "mat_steelBeam",
+                                        "20",
+                                        "flag_Q_Main_Ch3_S5_AlrunaW_S1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item13",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item13",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_CaitlinS_S2",
+                                    "InitValue": "Q_Main_Ch3_S5_CaitlinS_S2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

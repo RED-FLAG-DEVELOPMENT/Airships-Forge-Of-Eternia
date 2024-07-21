@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_SuthsegGarrison_name",
+                                    "InitValue": "Q_Com_SuthsegGarrison_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_SuthsegGarrison_des",
+                                    "InitValue": "Q_Com_SuthsegGarrison_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_Trophy_LesFaucon_1",
+                                        "1",
+                                        "Key_Trophy_Brotherhood_1",
+                                        "1",
+                                        "Key_Trophy_FreeTraderMark_1",
+                                        "1",
+                                        "Key_Trophy_CrookedPlower_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "Key_Trophy_LesFaucon_1",
+                                        "1",
+                                        "Key_Trophy_Brotherhood_1",
+                                        "1",
+                                        "Key_Trophy_FreeTraderMark_1",
+                                        "1",
+                                        "Key_Trophy_CrookedPlower_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_SuthsegianGarrison",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_SuthsegianGarrison",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_SuthsegianGarrison",
+                                    "InitValue": "OnComQuestListDelivery_SuthsegianGarrison",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

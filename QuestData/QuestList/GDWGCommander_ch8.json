@@ -1,0 +1,167 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S1_name",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S1_des",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item14",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item14",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S1",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S4_name",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S4_des",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item16",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_Turncoat",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item16",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_Turncoat",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item17",
+                                        "1",
+                                        "currency1",
+                                        "32000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item17",
+                                        "1",
+                                        "currency1",
+                                        "32000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_Turncoat_S4",
+                                    "InitValue": "Q_Main_Ch8_S9_Turncoat_S4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

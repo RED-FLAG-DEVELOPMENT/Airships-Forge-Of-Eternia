@@ -1,0 +1,88 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff17_Forger_Q_Qoff17_S7_Forger_S1_name",
+                                    "InitValue": "Qoff17_Forger_Q_Qoff17_S7_Forger_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff17_Forger_Q_Qoff17_S7_Forger_S1_des",
+                                    "InitValue": "Qoff17_Forger_Q_Qoff17_S7_Forger_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "5000",
+                                        "key_qoff17_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "5000",
+                                        "key_qoff17_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff17_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff17_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff17_S7_Forger_S1",
+                                    "InitValue": "Q_Qoff17_S7_Forger_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

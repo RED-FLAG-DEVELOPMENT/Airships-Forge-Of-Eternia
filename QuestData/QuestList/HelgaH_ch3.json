@@ -1,0 +1,151 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Helga_Q_Main_Ch3_S5_Contraband_S1_name",
+                                    "InitValue": "Helga_Q_Main_Ch3_S5_Contraband_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Helga_Q_Main_Ch3_S5_Contraband_S1_des",
+                                    "InitValue": "Helga_Q_Main_Ch3_S5_Contraband_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item5_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item5_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_Contraband_S1",
+                                    "InitValue": "Q_Main_Ch3_S5_Contraband_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Helga_Q_Main_Ch3_S5_Contraband_S3_name",
+                                    "InitValue": "Helga_Q_Main_Ch3_S5_Contraband_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Helga_Q_Main_Ch3_S5_Contraband_S3_des",
+                                    "InitValue": "Helga_Q_Main_Ch3_S5_Contraband_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_item2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch3_S5_item2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch3_S5_Contraband_S3",
+                                    "InitValue": "Q_Main_Ch3_S5_Contraband_S3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

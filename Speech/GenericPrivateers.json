@@ -1,0 +1,474 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_onselfretreating",
+                                    "InitValue": "genericprivateers_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_onselfsurrender",
+                                    "InitValue": "genericprivateers_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_start_1",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_start_2",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_start_3",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_defeated_1",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_defeated_2",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_defeated_3",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3PrivateerBoss_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsCh3PrivateerBoss_defeated_4",
+                                    "InitValue": "genericprivateers_vsCh3PrivateerBoss_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_start_1",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_start_2",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_start_3",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_start_4",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_start_5",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_defeated_1",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_defeated_2",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_defeated_3",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01Privateer_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff01Privateer_defeated_4",
+                                    "InitValue": "genericprivateers_vsQoff01Privateer_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_1",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_2",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_3",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_4",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_5",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_start_6",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_defeated_1",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_defeated_2",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff08Whalers_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff08Whalers_defeated_3",
+                                    "InitValue": "genericprivateers_vsQoff08Whalers_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff15Privateer_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff15Privateer_start_1",
+                                    "InitValue": "genericprivateers_vsQoff15Privateer_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff15Privateer_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff15Privateer_start_2",
+                                    "InitValue": "genericprivateers_vsQoff15Privateer_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff15Privateer_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff15Privateer_start_3",
+                                    "InitValue": "genericprivateers_vsQoff15Privateer_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff15Privateer_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericprivateers_vsQoff15Privateer_start_4",
+                                    "InitValue": "genericprivateers_vsQoff15Privateer_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

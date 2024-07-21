@@ -1,0 +1,86 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Qoff16_Rec_QuestID_0_name",
+                                    "InitValue": "Qoff16_Rec_QuestID_0_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Qoff16_Rec_QuestID_0_des",
+                                    "InitValue": "Qoff16_Rec_QuestID_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10_1",
+                                        "1",
+                                        "Flag_Qoff16_Main0",
+                                        "1",
+                                        "flag_achievement_16",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10_1",
+                                        "1",
+                                        "Flag_Qoff16_Main0",
+                                        "1",
+                                        "flag_achievement_16",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Qoff16_Main_Q0",
+                                    "InitValue": "Qoff16_Main_Q0",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

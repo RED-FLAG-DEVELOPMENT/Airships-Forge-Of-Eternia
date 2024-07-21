@@ -1,0 +1,2004 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "greeting1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_greeting1",
+                                    "InitValue": "wetwilly_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_greeting2",
+                                    "InitValue": "wetwilly_greeting2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_greeting3",
+                                    "InitValue": "wetwilly_greeting3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_greeting4",
+                                    "InitValue": "wetwilly_greeting4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_greeting5",
+                                    "InitValue": "wetwilly_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_goodbye1",
+                                    "InitValue": "wetwilly_goodbye1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_goodbye2",
+                                    "InitValue": "wetwilly_goodbye2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_goodbye3",
+                                    "InitValue": "wetwilly_goodbye3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_goodbye4",
+                                    "InitValue": "wetwilly_goodbye4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_goodbye5",
+                                    "InitValue": "wetwilly_goodbye5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "wetwillystart3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_wetwillystart3",
+                                    "InitValue": "wetwilly_wetwillystart3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_start_1",
+                                    "InitValue": "wetwilly_vsWetWilly1_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_start_2",
+                                    "InitValue": "wetwilly_vsWetWilly1_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_start_3",
+                                    "InitValue": "wetwilly_vsWetWilly1_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_start_4",
+                                    "InitValue": "wetwilly_vsWetWilly1_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_start_5",
+                                    "InitValue": "wetwilly_vsWetWilly1_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_openingfire_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_openingfire_1",
+                                    "InitValue": "wetwilly_vsWetWilly1_openingfire_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_end_1",
+                                    "InitValue": "wetwilly_vsWetWilly1_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_end_2",
+                                    "InitValue": "wetwilly_vsWetWilly1_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_retreat_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly1_retreat_1",
+                                    "InitValue": "wetwilly_vsWetWilly1_retreat_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_start_1",
+                                    "InitValue": "wetwilly_vsWetWilly2_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_start_2",
+                                    "InitValue": "wetwilly_vsWetWilly2_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_start_3",
+                                    "InitValue": "wetwilly_vsWetWilly2_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_start_4",
+                                    "InitValue": "wetwilly_vsWetWilly2_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_end_1",
+                                    "InitValue": "wetwilly_vsWetWilly2_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_end_2",
+                                    "InitValue": "wetwilly_vsWetWilly2_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly2_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly2_end_3",
+                                    "InitValue": "wetwilly_vsWetWilly2_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Start_1",
+                                    "InitValue": "wetwilly_vsWetWilly3_Start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Start_2",
+                                    "InitValue": "wetwilly_vsWetWilly3_Start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Start_3",
+                                    "InitValue": "wetwilly_vsWetWilly3_Start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Start_4",
+                                    "InitValue": "wetwilly_vsWetWilly3_Start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Start_5",
+                                    "InitValue": "wetwilly_vsWetWilly3_Start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Hostile_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Hostile_1",
+                                    "InitValue": "wetwilly_vsWetWilly3_Hostile_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Hostile_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Hostile_2",
+                                    "InitValue": "wetwilly_vsWetWilly3_Hostile_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Lose_1",
+                                    "InitValue": "wetwilly_vsWetWilly3_Lose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Lose_2",
+                                    "InitValue": "wetwilly_vsWetWilly3_Lose_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Lose_3",
+                                    "InitValue": "wetwilly_vsWetWilly3_Lose_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Lose_4",
+                                    "InitValue": "wetwilly_vsWetWilly3_Lose_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly3_Lose_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsWetWilly3_Lose_5",
+                                    "InitValue": "wetwilly_vsWetWilly3_Lose_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_defeated_1",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_defeated_2",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_defeated_3",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh3WetWilly_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh3WetWilly_defeated_4",
+                                    "InitValue": "wetwilly_vsCh3WetWilly_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_4",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_5",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_start_6",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_hostilelose_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_hostilelose_1",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_hostilelose_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_hostilelose_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_hostilelose_2",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_hostilelose_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_hostilelose_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_hostilelose_3",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_hostilelose_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh4WetWilly_hostilelose_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh4WetWilly_hostilelose_4",
+                                    "InitValue": "wetwilly_vsCh4WetWilly_hostilelose_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_4",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_5",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_start_6",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_defeated_1",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_defeated_2",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_defeated_3",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh5WetWilly_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh5WetWilly_defeated_4",
+                                    "InitValue": "wetwilly_vsCh5WetWilly_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_4",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_5",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_start_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_start_6",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_start_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_defeated_1",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_defeated_2",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_defeated_3",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh6WetWilly_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh6WetWilly_defeated_4",
+                                    "InitValue": "wetwilly_vsCh6WetWilly_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_start_4",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_defeated_1",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_defeated_2",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_defeated_3",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh7WetWilly_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh7WetWilly_defeated_4",
+                                    "InitValue": "wetwilly_vsCh7WetWilly_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_onselfretreating",
+                                    "InitValue": "wetwilly_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_onselfsurrender",
+                                    "InitValue": "wetwilly_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_1",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_2",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_3",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_4",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_5",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_6",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_7",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_8",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_9",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_10",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_11",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_12",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_13",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_14",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_14",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch8_S13_15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch8_S13_15",
+                                    "InitValue": "wetwilly_Q_Main_Ch8_S13_15",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_start_1",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_start_2",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_start_3",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_start_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_start_4",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_start_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_start_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_start_5",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_start_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_1",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_2",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_3",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_4",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_5",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh8WetWilly_defeated_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_vsCh8WetWilly_defeated_6",
+                                    "InitValue": "wetwilly_vsCh8WetWilly_defeated_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S9_1",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S9_2",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S9_3",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S9_4",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S9_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S9_5",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S9_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_1",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_2",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_3",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_4",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_5",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_6",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_7",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S10_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S10_8",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S10_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_1",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_2",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_3",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_4",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_5",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_6",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_7",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch9_S12_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "wetwilly_Q_Main_Ch9_S12_8",
+                                    "InitValue": "wetwilly_Q_Main_Ch9_S12_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

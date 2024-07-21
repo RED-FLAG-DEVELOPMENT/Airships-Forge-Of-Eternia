@@ -1,0 +1,2359 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "P2F1_Ch1_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_1",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_2",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_3",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_4",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_5",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_6",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P2F1_Ch1_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P2F1_Ch1_S1_7",
+                                    "InitValue": "sigrunw_P2F1_Ch1_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_1",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_2",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_3",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_4",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_5",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_6",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_7",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_8",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_1",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_2",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_3",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_4",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_5",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_6",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S7_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S7_7",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S7_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_75intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_75intr_1",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_75intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_conclude_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_conclude_1",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_conclude_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_retreat_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_retreat_1",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_retreat_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_spot_1",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_spot_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_spot_2",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_spot_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsBlueBelterMarauder_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsBlueBelterMarauder_start_1",
+                                    "InitValue": "sigrunw_vsBlueBelterMarauder_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_25intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_25intr_1",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_25intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_conclude_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_conclude_1",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_conclude_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_conclude_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_conclude_2",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_conclude_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_spot_1",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_start_1",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousFrigate_start_2",
+                                    "InitValue": "sigrunw_vsMysteriousFrigate_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_50intr",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousShip_50intr",
+                                    "InitValue": "sigrunw_vsMysteriousShip_50intr",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_conclude_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousShip_conclude_1",
+                                    "InitValue": "sigrunw_vsMysteriousShip_conclude_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_conclude_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousShip_conclude_2",
+                                    "InitValue": "sigrunw_vsMysteriousShip_conclude_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousShip_spot_1",
+                                    "InitValue": "sigrunw_vsMysteriousShip_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsMysteriousShip_start_1",
+                                    "InitValue": "sigrunw_vsMysteriousShip_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_conclude_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_conclude_1",
+                                    "InitValue": "sigrunw_vsWetWilly1_conclude_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_conclude_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_conclude_2",
+                                    "InitValue": "sigrunw_vsWetWilly1_conclude_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_end_1",
+                                    "InitValue": "sigrunw_vsWetWilly1_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_spot_1",
+                                    "InitValue": "sigrunw_vsWetWilly1_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_spot_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_spot_2",
+                                    "InitValue": "sigrunw_vsWetWilly1_spot_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_spot_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_spot_3",
+                                    "InitValue": "sigrunw_vsWetWilly1_spot_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsWetWilly1_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsWetWilly1_start_1",
+                                    "InitValue": "sigrunw_vsWetWilly1_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skipline",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_skipline",
+                                    "InitValue": "sigrunw_skipline",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting1",
+                                    "InitValue": "sigrunw_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting2",
+                                    "InitValue": "sigrunw_greeting2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting3",
+                                    "InitValue": "sigrunw_greeting3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting4",
+                                    "InitValue": "sigrunw_greeting4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting5",
+                                    "InitValue": "sigrunw_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_goodbye1",
+                                    "InitValue": "sigrunw_goodbye1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_goodbye2",
+                                    "InitValue": "sigrunw_goodbye2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_goodbye3",
+                                    "InitValue": "sigrunw_goodbye3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_goodbye4",
+                                    "InitValue": "sigrunw_goodbye4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_goodbye5",
+                                    "InitValue": "sigrunw_goodbye5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_light",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselftakingdamage_light",
+                                    "InitValue": "sigrunw_onselftakingdamage_light",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_medium",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselftakingdamage_medium",
+                                    "InitValue": "sigrunw_onselftakingdamage_medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselftakingdamage_heavy",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselftakingdamage_heavy",
+                                    "InitValue": "sigrunw_onselftakingdamage_heavy",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfpowerplantdamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfpowerplantdamaged",
+                                    "InitValue": "sigrunw_onselfpowerplantdamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfcommanddamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfcommanddamaged",
+                                    "InitValue": "sigrunw_onselfcommanddamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfdrivedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfdrivedamaged",
+                                    "InitValue": "sigrunw_onselfdrivedamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfpowerlow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfpowerlow",
+                                    "InitValue": "sigrunw_onselfpowerlow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammolow",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfammolow",
+                                    "InitValue": "sigrunw_onselfammolow",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfretreating",
+                                    "InitValue": "sigrunw_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfsurrender",
+                                    "InitValue": "sigrunw_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfshieldbroken",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfshieldbroken",
+                                    "InitValue": "sigrunw_onselfshieldbroken",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfshieldrestored",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfshieldrestored",
+                                    "InitValue": "sigrunw_onselfshieldrestored",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileopeningfire",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostileopeningfire",
+                                    "InitValue": "sigrunw_onhostileopeningfire",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_light",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostiletakingdamage_light",
+                                    "InitValue": "sigrunw_onhostiletakingdamage_light",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_medium",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostiletakingdamage_medium",
+                                    "InitValue": "sigrunw_onhostiletakingdamage_medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiletakingdamage_heavy",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostiletakingdamage_heavy",
+                                    "InitValue": "sigrunw_onhostiletakingdamage_heavy",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilepowerplantdamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostilepowerplantdamaged",
+                                    "InitValue": "sigrunw_onhostilepowerplantdamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostilecommanddamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostilecommanddamaged",
+                                    "InitValue": "sigrunw_onhostilecommanddamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostiledrivedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostiledrivedamaged",
+                                    "InitValue": "sigrunw_onhostiledrivedamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldbroken",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostileshieldbroken",
+                                    "InitValue": "sigrunw_onhostileshieldbroken",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileshieldrestored",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostileshieldrestored",
+                                    "InitValue": "sigrunw_onhostileshieldrestored",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_1",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_2",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_3",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_4",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_5",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_6",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0A_Ch1_S21_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0A_Ch1_S21_7",
+                                    "InitValue": "sigrunw_P0A_Ch1_S21_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S22_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_1",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S22_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_2",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S22_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_3",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S22_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_4",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P0F1_Ch1_S22_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P0F1_Ch1_S22_5",
+                                    "InitValue": "sigrunw_P0F1_Ch1_S22_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericMerchant_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericMerchant_greet_1",
+                                    "InitValue": "sigrunw_vsGenericMerchant_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericCargoShip_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericCargoShip_greet_1",
+                                    "InitValue": "sigrunw_vsGenericCargoShip_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericCivilians_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericCivilians_greet_1",
+                                    "InitValue": "sigrunw_vsGenericCivilians_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericPirates_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericPirates_greet_1",
+                                    "InitValue": "sigrunw_vsGenericPirates_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericSmugglers_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericSmugglers_greet_1",
+                                    "InitValue": "sigrunw_vsGenericSmugglers_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericCriminals_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericCriminals_greet_1",
+                                    "InitValue": "sigrunw_vsGenericCriminals_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericMilitary_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericMilitary_greet_1",
+                                    "InitValue": "sigrunw_vsGenericMilitary_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsGenericPrivateers_greet_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsGenericPrivateers_greet_1",
+                                    "InitValue": "sigrunw_vsGenericPrivateers_greet_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "openning_store",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting1",
+                                    "InitValue": "sigrunw_greeting1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting2",
+                                    "InitValue": "sigrunw_greeting2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting3",
+                                    "InitValue": "sigrunw_greeting3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID3": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting4",
+                                    "InitValue": "sigrunw_greeting4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID4": {
+                                "StringType": {
+                                    "_string": "sigrunw_greeting5",
+                                    "InitValue": "sigrunw_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_player_insuffe_fund1",
+                                    "InitValue": "sigrunw_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_player_insuffe_fund2",
+                                    "InitValue": "sigrunw_player_insuffe_fund2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "sigrunw_player_insuffe_fund3",
+                                    "InitValue": "sigrunw_player_insuffe_fund3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_merchant_insuffie_fund1",
+                                    "InitValue": "sigrunw_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_merchant_insuffie_fund2",
+                                    "InitValue": "sigrunw_merchant_insuffie_fund2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_cargo_full1",
+                                    "InitValue": "sigrunw_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_cargo_full2",
+                                    "InitValue": "sigrunw_cargo_full2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_out_of_stock1",
+                                    "InitValue": "sigrunw_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_out_of_stock2",
+                                    "InitValue": "sigrunw_out_of_stock2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_needless_item1",
+                                    "InitValue": "sigrunw_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "sigrunw_needless_item2",
+                                    "InitValue": "sigrunw_needless_item2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoBoss_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoBoss_spot_1",
+                                    "InitValue": "sigrunw_vsDemoBoss_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoBoss_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoBoss_start_1",
+                                    "InitValue": "sigrunw_vsDemoBoss_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_spot_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_spot_1",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_spot_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_spot_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_spot_2",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_spot_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_spot_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_spot_3",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_spot_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_end_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_end_1",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_end_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_end_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_end_2",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_end_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsDemoMidBoss_end_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsDemoMidBoss_end_3",
+                                    "InitValue": "sigrunw_vsDemoMidBoss_end_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onprimingdrive",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onprimingdrive_1",
+                                    "InitValue": "sigrunw_onprimingdrive_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "ondriveactivated",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_ondriveactivated_1",
+                                    "InitValue": "sigrunw_ondriveactivated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammostoragedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfammostoragedamaged",
+                                    "InitValue": "sigrunw_onselfammostoragedamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfammostoragedestroyed",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onselfammostoragedestroyed",
+                                    "InitValue": "sigrunw_onselfammostoragedestroyed",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileammostoragedamaged",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostileammostoragedamaged",
+                                    "InitValue": "sigrunw_onhostileammostoragedamaged",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onhostileammostoragedestroyed",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onhostileammostoragedestroyed",
+                                    "InitValue": "sigrunw_onhostileammostoragedestroyed",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onfueldried",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_onfueldried",
+                                    "InitValue": "sigrunw_onfueldried",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_7_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_P1F1_Ch1_S3_7_1",
+                                    "InitValue": "sigrunw_P1F1_Ch1_S3_7_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch1_S4_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch1_S4_1",
+                                    "InitValue": "sigrunw_Q_Main_Ch1_S4_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch1_S4_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch1_S4_2",
+                                    "InitValue": "sigrunw_Q_Main_Ch1_S4_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch1_S6_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch1_S6_1",
+                                    "InitValue": "sigrunw_Q_Main_Ch1_S6_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch1_S6_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch1_S6_2",
+                                    "InitValue": "sigrunw_Q_Main_Ch1_S6_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_1",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_2",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_3",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_4",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_5",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_HintRec_Qoff09_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_HintRec_Qoff09_S1_6",
+                                    "InitValue": "sigrunw_Q_HintRec_Qoff09_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skillscarletprecision",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_skillscarletprecision",
+                                    "InitValue": "sigrunw_skillscarletprecision",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_1",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_2",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_3",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_4",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_5",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_6",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_7",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_8",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_9",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_10",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_11",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch10_S11_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_Q_Main_Ch10_S11_12",
+                                    "InitValue": "sigrunw_Q_Main_Ch10_S11_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_start_1",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_start_2",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_start_3",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_50intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_50intr_1",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_50intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_50intr_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_50intr_2",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_50intr_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_defeated_1",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_defeated_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_defeated_2",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_defeated_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_defeated_3",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_defeated_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsCh10Wilkurs_defeated_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "sigrunw_vsCh10Wilkurs_defeated_4",
+                                    "InitValue": "sigrunw_vsCh10Wilkurs_defeated_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "OfficeOfTradeClerk_ch2_1_name",
+                                    "InitValue": "OfficeOfTradeClerk_ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "OfficeOfTradeClerk_ch2_1_des",
+                                    "InitValue": "OfficeOfTradeClerk_ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item6",
+                                        "1",
+                                        "key_chap2_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item6",
+                                        "1",
+                                        "key_chap2_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item8",
+                                        "1",
+                                        "flag_Q_FostertonField_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item8",
+                                        "1",
+                                        "flag_Q_FostertonField_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S8",
+                                    "InitValue": "Q_Main_Ch2_S8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "OfficeOfTradeClerk_ch2_2_name",
+                                    "InitValue": "OfficeOfTradeClerk_ch2_2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "OfficeOfTradeClerk_ch2_2_des",
+                                    "InitValue": "OfficeOfTradeClerk_ch2_2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item24",
+                                        "1",
+                                        "key_chap2_item25",
+                                        "1",
+                                        "flag_Q_LaventumCity_OfficeOfTrade_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item24",
+                                        "1",
+                                        "key_chap2_item25",
+                                        "1",
+                                        "flag_Q_LaventumCity_OfficeOfTrade_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item26",
+                                        "1",
+                                        "permit_Laventum0",
+                                        "2",
+                                        "permit_Manufactory",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item26",
+                                        "1",
+                                        "permit_Laventum0",
+                                        "2",
+                                        "permit_Manufactory",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S25",
+                                    "InitValue": "Q_Main_Ch2_S25",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

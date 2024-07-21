@@ -1,0 +1,167 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FirefortCity_Q_Main_Ch6_S6_Tribute_S1_Name",
+                                    "InitValue": "FirefortCity_Q_Main_Ch6_S6_Tribute_S1_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FirefortCity_Q_Main_Ch6_S6_Tribute_S1_Des",
+                                    "InitValue": "FirefortCity_Q_Main_Ch6_S6_Tribute_S1_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap6_item5_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap6_item5_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap6_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap6_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch6_S6_Tribute_S1",
+                                    "InitValue": "Q_Main_Ch6_S6_Tribute_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FirefortCity_Q_Main_Ch6_S6_Tribute_S3_Name",
+                                    "InitValue": "FirefortCity_Q_Main_Ch6_S6_Tribute_S3_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FirefortCity_Q_Main_Ch6_S6_Tribute_S3_Des",
+                                    "InitValue": "FirefortCity_Q_Main_Ch6_S6_Tribute_S3_Des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap6_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch6_S6_2",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap6_item9",
+                                        "1",
+                                        "flag_Q_Main_Ch6_S6_2",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap6_item10",
+                                        "1",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap6_item10",
+                                        "1",
+                                        "currency1",
+                                        "20000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch6_S6_Tribute_S3",
+                                    "InitValue": "Q_Main_Ch6_S6_Tribute_S3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S7_name",
+                                    "InitValue": "Q_Qoff15_S7_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S7_des",
+                                    "InitValue": "Q_Qoff15_S7_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff15_item7",
+                                        "1",
+                                        "flag_Qoff15_CrafterGuild",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff15_item7",
+                                        "1",
+                                        "flag_Qoff15_CrafterGuild",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff15_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff15_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S7",
+                                    "InitValue": "Q_Qoff15_S7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S9_name",
+                                    "InitValue": "Q_Qoff15_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S9_des",
+                                    "InitValue": "Q_Qoff15_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff15_item9",
+                                        "1",
+                                        "flag_Qoff15_CrafterGuild",
+                                        "1",
+                                        "mat_reactivityMagnet",
+                                        "10",
+                                        "mat_clockworkProcessor",
+                                        "10",
+                                        "mat_largeReactionVessels",
+                                        "2"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff15_item9",
+                                        "1",
+                                        "flag_Qoff15_CrafterGuild",
+                                        "1",
+                                        "mat_reactivityMagnet",
+                                        "10",
+                                        "mat_clockworkProcessor",
+                                        "10",
+                                        "mat_largeReactionVessels",
+                                        "2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff15_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff15_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff15_S9",
+                                    "InitValue": "Q_Qoff15_S9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

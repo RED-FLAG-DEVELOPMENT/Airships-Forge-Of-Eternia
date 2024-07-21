@@ -1,0 +1,1027 @@
+[
+    {
+        "Key": "StoryLineProgressTable",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Act001",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act001",
+                                    "InitValue": "Act001",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act001_Name",
+                                    "InitValue": "Story_Progress_Act001_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_S.Jean",
+                                    "InitValue": "T_Art_S.Jean",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_0_function",
+                                    "InitValue": "marker_0_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FunctionsLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Act001_Function1",
+                                        "Story_Progress_Act001_Function2",
+                                        "Story_Progress_Act001_Function3",
+                                        "Story_Progress_Act001_Function4"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Act001_Function1",
+                                        "Story_Progress_Act001_Function2",
+                                        "Story_Progress_Act001_Function3",
+                                        "Story_Progress_Act001_Function4"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "FunctionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10",
+                                        "key_chap1_item10",
+                                        "key_chap1_item10",
+                                        "key_chap1_item10"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10",
+                                        "key_chap1_item10",
+                                        "key_chap1_item10",
+                                        "key_chap1_item10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "FunctionsHighlightItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Tship_14:Tship_44:weapon9:weapon37:weapon3",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "InitValue": [
+                                        "Tship_14:Tship_44:weapon9:weapon37:weapon3",
+                                        "",
+                                        "",
+                                        ""
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_T1",
+                                    "InitValue": "Story_Progress_ThreatFleet_T1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item10"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "OfficersID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        8
+                                    ],
+                                    "InitValue": [
+                                        8
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PermitsLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "keyitem32_name",
+                                        "key_career2_0_name",
+                                        "key_career3_0_name"
+                                    ],
+                                    "InitValue": [
+                                        "keyitem32_name",
+                                        "key_career2_0_name",
+                                        "key_career3_0_name"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "PermitsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "keyitem32",
+                                        "key_career2_0",
+                                        "key_career3_0"
+                                    ],
+                                    "InitValue": [
+                                        "keyitem32",
+                                        "key_career2_0",
+                                        "key_career3_0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "PermitsHighlightItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "keyitem32",
+                                        "key_career2_0",
+                                        "key_career3_0"
+                                    ],
+                                    "InitValue": [
+                                        "keyitem32",
+                                        "key_career2_0",
+                                        "key_career3_0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_Garrison",
+                                        "Story_Progress_Comm_Cultists"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_Garrison",
+                                        "Story_Progress_Comm_Cultists"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_SuthsegianGarrison",
+                                        "key_commission_CoilWorshipper:key_commission_HuntingGod:key_commission_EvergreenQueen"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_SuthsegianGarrison",
+                                        "key_commission_CoilWorshipper:key_commission_HuntingGod:key_commission_EvergreenQueen"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_SuthsegianGarrison:Tship_114:Tship_15:weapon244:weapon248",
+                                        "key_commission_HuntingGod:key_commission_EvergreenQueen:key_commission_CoilWorshipper"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_SuthsegianGarrison:Tship_114:Tship_15:weapon244:weapon248",
+                                        "key_commission_HuntingGod:key_commission_EvergreenQueen:key_commission_CoilWorshipper"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act002",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act002",
+                                    "InitValue": "Act002",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item27"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item27"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act002_Name",
+                                    "InitValue": "Story_Progress_Act002_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Minerva",
+                                    "InitValue": "T_Art_Minerva",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_7_function",
+                                    "InitValue": "marker_7_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_T2",
+                                    "InitValue": "Story_Progress_ThreatFleet_T2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap1_item27"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap1_item27"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "OfficersID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        7,
+                                        52,
+                                        53,
+                                        54
+                                    ],
+                                    "InitValue": [
+                                        7,
+                                        52,
+                                        53,
+                                        54
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_Brotherhood"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_Brotherhood"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_Brotherhood"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_Brotherhood"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_Brotherhood:Tship_81:weapon163:powerplant5:protection44"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_Brotherhood:Tship_81:weapon163:powerplant5:protection44"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act003",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act003",
+                                    "InitValue": "Act003",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item33:key_chap2_item34"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item33:key_chap2_item34"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act003_Name",
+                                    "InitValue": "Story_Progress_Act003_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Agatha",
+                                    "InitValue": "T_Art_Agatha",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_8_function",
+                                    "InitValue": "marker_8_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_T3",
+                                    "InitValue": "Story_Progress_ThreatFleet_T3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item33:key_chap2_item34"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item33:key_chap2_item34"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "PermitsLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "LaventumIndustrialYard_fac_store_Permit_name"
+                                    ],
+                                    "InitValue": [
+                                        "LaventumIndustrialYard_fac_store_Permit_name"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "PermitsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item26"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item26"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "PermitsHighlightItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item26:permit_Sunvale0\r\n:permit_Laventum0:permit_Manufactory:permit_Enterprise"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item26:permit_Sunvale0\r\n:permit_Laventum0:permit_Manufactory:permit_Enterprise"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_4thSRN",
+                                        "Story_Progress_Comm_2ndARN",
+                                        "Story_Progress_Comm_Teutons"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_4thSRN",
+                                        "Story_Progress_Comm_2ndARN",
+                                        "Story_Progress_Comm_Teutons"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_4thSRN",
+                                        "key_commission_2ndARN",
+                                        "key_commission_Teutons"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_4thSRN",
+                                        "key_commission_2ndARN",
+                                        "key_commission_Teutons"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_4thSRN:command25:weapon152:weapon244",
+                                        "key_commission_2ndARN:Tship_197:Tship_114:engine14:protection20",
+                                        "key_commission_Teutons:Tship_113:Tship_81:bay7:weapon173"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_4thSRN:command25:weapon152:weapon244",
+                                        "key_commission_2ndARN:Tship_197:Tship_114:engine14:protection20",
+                                        "key_commission_Teutons:Tship_113:Tship_81:bay7:weapon173"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act004",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act004",
+                                    "InitValue": "Act004",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item21:key_chap4_item25"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item21:key_chap4_item25"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act004_Name",
+                                    "InitValue": "Story_Progress_Act004_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Bauer",
+                                    "InitValue": "T_Art_Bauer",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_9_function",
+                                    "InitValue": "marker_9_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_T4",
+                                    "InitValue": "Story_Progress_ThreatFleet_T4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap3_item21:key_chap4_item25"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap3_item21:key_chap4_item25"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "OfficersID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        72,
+                                        73,
+                                        75,
+                                        78,
+                                        80,
+                                        82,
+                                        83,
+                                        86
+                                    ],
+                                    "InitValue": [
+                                        72,
+                                        73,
+                                        75,
+                                        78,
+                                        80,
+                                        82,
+                                        83,
+                                        86
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_3rdSRN",
+                                        "Story_Progress_Comm_32ndNVRN"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_3rdSRN",
+                                        "Story_Progress_Comm_32ndNVRN"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_3rdSRN",
+                                        "key_commission_32ndNVRN"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_3rdSRN",
+                                        "key_commission_32ndNVRN"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_3rdSRN:Tship_116:bay4:weapon214:weapon226",
+                                        "key_commission_32ndNVRN:Tship_218:Tship_243:engine25:powerplant11"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_3rdSRN:Tship_116:bay4:weapon214:weapon226",
+                                        "key_commission_32ndNVRN:Tship_218:Tship_243:engine25:powerplant11"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act005",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act005",
+                                    "InitValue": "Act005",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap5_item26"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap5_item26"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act005_Name",
+                                    "InitValue": "Story_Progress_Act005_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Ansley",
+                                    "InitValue": "T_Art_Ansley",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_10_function",
+                                    "InitValue": "marker_10_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "OfficersID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        77,
+                                        85,
+                                        84
+                                    ],
+                                    "InitValue": [
+                                        77,
+                                        85,
+                                        84
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_1stSRN",
+                                        "Story_Progress_Comm_Plower"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_1stSRN",
+                                        "Story_Progress_Comm_Plower"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_1stSRN",
+                                        "key_commission_PlowerRebellion"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_1stSRN",
+                                        "key_commission_PlowerRebellion"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_1stSRN:Tship_225:powerplant8:protection11:weapon210",
+                                        "key_commission_PlowerRebellion:Tship_222:weapon207:weapon239:storage40"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_1stSRN:Tship_225:powerplant8:protection11:weapon210",
+                                        "key_commission_PlowerRebellion:Tship_222:weapon207:weapon239:storage40"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act006",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act006",
+                                    "InitValue": "Act006",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap6_item23:key_chap7_item24"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap6_item23:key_chap7_item24"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act006_Name",
+                                    "InitValue": "Story_Progress_Act006_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Fawkes",
+                                    "InitValue": "T_Art_Fawkes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_11_function",
+                                    "InitValue": "marker_11_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "OfficersID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        74,
+                                        76,
+                                        79,
+                                        81
+                                    ],
+                                    "InitValue": [
+                                        74,
+                                        76,
+                                        79,
+                                        81
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "CommissionLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Comm_2ndSRN",
+                                        "Story_Progress_Comm_7ARG"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Comm_2ndSRN",
+                                        "Story_Progress_Comm_7ARG"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "CommissionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_2ndSRN",
+                                        "key_commission_7thARG"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_2ndSRN",
+                                        "key_commission_7thARG"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemsToHighlight": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_2ndSRN:Tship_231:Tship_23:engine25:weapon36",
+                                        "key_commission_7thARG:Tship_209:engine19:protection73:weapon252"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_2ndSRN:Tship_231:Tship_23:engine25:weapon36",
+                                        "key_commission_7thARG:Tship_209:engine19:protection73:weapon252"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act007",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act007",
+                                    "InitValue": "Act007",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item32:key_chap8_item33"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item32:key_chap8_item33"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act007_Name",
+                                    "InitValue": "Story_Progress_Act007_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Abraham",
+                                    "InitValue": "T_Art_Abraham",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_15_function",
+                                    "InitValue": "marker_15_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_T5",
+                                    "InitValue": "Story_Progress_ThreatFleet_T5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item32:key_chap8_item33"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item32:key_chap8_item33"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act008",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act008",
+                                    "InitValue": "Act008",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item26:key_chap9_item27"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item26:key_chap9_item27"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act008_Name",
+                                    "InitValue": "Story_Progress_Act008_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Charlotte",
+                                    "InitValue": "T_Art_Charlotte",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_17_function",
+                                    "InitValue": "marker_17_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileLocID": {
+                                "StringType": {
+                                    "_string": "Story_Progress_ThreatFleet_Secret",
+                                    "InitValue": "Story_Progress_ThreatFleet_Secret",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "HostileUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap9_item26:key_chap9_item2"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap9_item26:key_chap9_item2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Act009",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ActID": {
+                                "StringType": {
+                                    "_string": "Act009",
+                                    "InitValue": "Act009",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActUnlockItemIds": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item23:key_chap10_item24"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item23:key_chap10_item24"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ActName": {
+                                "StringType": {
+                                    "_string": "Story_Progress_Act009_Name",
+                                    "InitValue": "Story_Progress_Act009_Name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActImage": {
+                                "StringType": {
+                                    "_string": "T_Art_Oliver",
+                                    "InitValue": "T_Art_Oliver",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ActDescription": {
+                                "StringType": {
+                                    "_string": "marker_20_function",
+                                    "InitValue": "marker_20_function",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FunctionsLocIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Story_Progress_Act009_Function1",
+                                        "Story_Progress_Act009_Function2"
+                                    ],
+                                    "InitValue": [
+                                        "Story_Progress_Act009_Function1",
+                                        "Story_Progress_Act009_Function2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "FunctionsUnlockItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap10_item11",
+                                        "key_chap10_item22"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap10_item11",
+                                        "key_chap10_item22"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "FunctionsHighlightItems": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Tship_219:mat_XXLTeutonicFramesBlueprint",
+                                        ""
+                                    ],
+                                    "InitValue": [
+                                        "Tship_219:mat_XXLTeutonicFramesBlueprint",
+                                        ""
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

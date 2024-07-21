@@ -1,0 +1,399 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "pirnmillharbor_q_0_0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbormaster_pirnmillharbor_q_0_0",
+                                    "InitValue": "pirnmillharbormaster_pirnmillharbor_q_0_0",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "pirnmillharbor_q_0_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbormaster_pirnmillharbor_q_0_1",
+                                    "InitValue": "pirnmillharbormaster_pirnmillharbor_q_0_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_1",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_2",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_3",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_4",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_5",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_6",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_7",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S2_default_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S2_default_1",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S2_default_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S2_default_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S2_default_2",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S2_default_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_default_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_default_1",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_default_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P1F1_Ch1_S3_default_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_P1F1_Ch1_S3_default_2",
+                                    "InitValue": "pirnmillharbourmaster_P1F1_Ch1_S3_default_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "skipline",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_skipline",
+                                    "InitValue": "pirnmillharbourmaster_skipline",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "openning_store1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_greeting1",
+                                    "InitValue": "GenShop_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_player_insuffe_fund1",
+                                    "InitValue": "GenShop_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_merchant_insuffie_fund1",
+                                    "InitValue": "GenShop_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_cargo_full1",
+                                    "InitValue": "GenShop_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_out_of_stock1",
+                                    "InitValue": "GenShop_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "GenShop_needless_item1",
+                                    "InitValue": "GenShop_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_1",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_2",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_3",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_4",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_5",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Rec_Qoff04_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_6",
+                                    "InitValue": "pirnmillharbourmaster_Q_Rec_Qoff04_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

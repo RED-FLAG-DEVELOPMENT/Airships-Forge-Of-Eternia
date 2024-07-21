@@ -1,0 +1,69 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch6_S6_Tribute_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "calders_Q_Main_Ch6_S6_Tribute_S2_1",
+                                    "InitValue": "calders_Q_Main_Ch6_S6_Tribute_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S6_Tribute_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "calders_Q_Main_Ch6_S6_Tribute_S2_2",
+                                    "InitValue": "calders_Q_Main_Ch6_S6_Tribute_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S6_Tribute_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "calders_Q_Main_Ch6_S6_Tribute_S2_3",
+                                    "InitValue": "calders_Q_Main_Ch6_S6_Tribute_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch6_S6_Tribute_S2_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "calders_Q_Main_Ch6_S6_Tribute_S2_4",
+                                    "InitValue": "calders_Q_Main_Ch6_S6_Tribute_S2_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

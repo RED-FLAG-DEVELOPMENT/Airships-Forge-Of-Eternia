@@ -1,0 +1,179 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S1_name",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S1_des",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item11",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_1",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_2",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item11",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_1",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_2",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow_3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S1",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S2_name",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S2_des",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item12",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item12",
+                                        "1",
+                                        "flag_Q_Main_Ch8_S9_RedSparrow",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap8_item13",
+                                        "1",
+                                        "currency1",
+                                        "40000"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap8_item13",
+                                        "1",
+                                        "currency1",
+                                        "40000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch8_S9_RedSparrow_S2",
+                                    "InitValue": "Q_Main_Ch8_S9_RedSparrow_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,455 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "openning_store",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_openning_store1",
+                                    "InitValue": "genericcommissioner_openning_store1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_openning_store2",
+                                    "InitValue": "genericcommissioner_openning_store2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_openning_store3",
+                                    "InitValue": "genericcommissioner_openning_store3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "player_insuffe_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_player_insuffe_fund1",
+                                    "InitValue": "genericcommissioner_player_insuffe_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_player_insuffe_fund2",
+                                    "InitValue": "genericcommissioner_player_insuffe_fund2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID2": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_player_insuffe_fund3",
+                                    "InitValue": "genericcommissioner_player_insuffe_fund3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "merchant_insuffie_fund",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_merchant_insuffie_fund1",
+                                    "InitValue": "genericcommissioner_merchant_insuffie_fund1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_merchant_insuffie_fund2",
+                                    "InitValue": "genericcommissioner_merchant_insuffie_fund2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "cargo_full",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_cargo_full1",
+                                    "InitValue": "genericcommissioner_cargo_full1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_cargo_full2",
+                                    "InitValue": "genericcommissioner_cargo_full2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "out_of_stock",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_out_of_stock1",
+                                    "InitValue": "genericcommissioner_out_of_stock1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_out_of_stock2",
+                                    "InitValue": "genericcommissioner_out_of_stock2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "needless_item",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_needless_item1",
+                                    "InitValue": "genericcommissioner_needless_item1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "LocID1": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_needless_item2",
+                                    "InitValue": "genericcommissioner_needless_item2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_default_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_default_1",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_default_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_default_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_default_2",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_default_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_default_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_default_3",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_default_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_1",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_2",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_3",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_4",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_5",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_6",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_7",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_8",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_9",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S1_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S1_10",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S1_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_1",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_2",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_3",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_4",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_5",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_6",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Com_Conglomerate_S9_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericcommissioner_Q_Com_Conglomerate_S9_7",
+                                    "InitValue": "genericcommissioner_Q_Com_Conglomerate_S9_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

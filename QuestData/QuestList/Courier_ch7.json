@@ -1,0 +1,171 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Courier_Q_Main_Ch7_S6_Marlene_S2_name",
+                                    "InitValue": "Courier_Q_Main_Ch7_S6_Marlene_S2_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Courier_Q_Main_Ch7_S6_Marlene_S2_des",
+                                    "InitValue": "Courier_Q_Main_Ch7_S6_Marlene_S2_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item10",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item10",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6_Marlene_S2",
+                                    "InitValue": "Q_Main_Ch7_S6_Marlene_S2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Courier_Q_Main_Ch7_S6_Marlene_S3_name",
+                                    "InitValue": "Courier_Q_Main_Ch7_S6_Marlene_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Courier_Q_Main_Ch7_S6_Marlene_S3_des",
+                                    "InitValue": "Courier_Q_Main_Ch7_S6_Marlene_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item10",
+                                        "1",
+                                        "goods_wine0",
+                                        "10",
+                                        "currency1",
+                                        "5000",
+                                        "flag_Q_Main_Ch7_S11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item10",
+                                        "1",
+                                        "goods_wine0",
+                                        "10",
+                                        "currency1",
+                                        "5000",
+                                        "flag_Q_Main_Ch7_S11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap7_item11",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap7_item11",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch7_S6_Marlene_S3",
+                                    "InitValue": "Q_Main_Ch7_S6_Marlene_S3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

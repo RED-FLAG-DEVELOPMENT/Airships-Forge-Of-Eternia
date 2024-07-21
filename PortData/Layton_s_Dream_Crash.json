@@ -1,0 +1,165 @@
+[
+    {
+        "Key": "Dock",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "Hangar": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1
+                                    ],
+                                    "InitValue": [
+                                        1
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "StorageYard": {
+                                "IntType": {
+                                    "_int": 150,
+                                    "InitValue": 150,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WarehouseExpansionItem": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "storage0",
+                                        "storage1"
+                                    ],
+                                    "InitValue": [
+                                        "storage0",
+                                        "storage1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "WarehouseExpansionAmount": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        1,
+                                        1
+                                    ],
+                                    "InitValue": [
+                                        1,
+                                        1
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "WarehouseExpansionLimited": {
+                                "IntType": {
+                                    "_int": 5,
+                                    "InitValue": 5,
+                                    "$type": "IntType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Warehouse Office",
+                                    "InitValue": "Warehouse Office",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Warehouse Office Description",
+                                    "InitValue": "Warehouse Office Description",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Shipyard",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "ShipBaySize": {
+                                "StringType": {
+                                    "_string": "Medium",
+                                    "InitValue": "Medium",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

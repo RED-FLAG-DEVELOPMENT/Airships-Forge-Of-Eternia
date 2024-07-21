@@ -1,0 +1,100 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff08_S6_name",
+                                    "InitValue": "Q_Qoff08_S6_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff08_S6_des",
+                                    "InitValue": "Q_Qoff08_S6_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff08_item5",
+                                        "1",
+                                        "flag_Q_Qoff08_smith",
+                                        "1",
+                                        "mat_gunmetalIngot",
+                                        "10",
+                                        "mat_dendroniumIngot",
+                                        "10",
+                                        "mat_palladium1",
+                                        "10"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff08_item5",
+                                        "1",
+                                        "flag_Q_Qoff08_smith",
+                                        "1",
+                                        "mat_gunmetalIngot",
+                                        "10",
+                                        "mat_dendroniumIngot",
+                                        "10",
+                                        "mat_palladium1",
+                                        "10"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_qoff08_item6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_qoff08_item6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff08_S6",
+                                    "InitValue": "Q_Qoff08_S6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Transit",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

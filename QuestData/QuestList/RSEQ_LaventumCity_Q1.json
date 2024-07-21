@@ -1,0 +1,79 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "RSEQ_LaventumCity_Q1_name",
+                                    "InitValue": "RSEQ_LaventumCity_Q1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "RSEQ_LaventumCity_Q1_des",
+                                    "InitValue": "RSEQ_LaventumCity_Q1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_Trophy_RedSparrowElite_0",
+                                        "6"
+                                    ],
+                                    "InitValue": [
+                                        "Key_Trophy_RedSparrowElite_0",
+                                        "6"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "currency1",
+                                        "300000",
+                                        "flag_achievement_116",
+                                        "1",
+                                        "flag_StopFac_RedSparrow_6",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "currency1",
+                                        "300000",
+                                        "flag_achievement_116",
+                                        "1",
+                                        "flag_StopFac_RedSparrow_6",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

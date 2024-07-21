@@ -1,0 +1,86 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_7thARG_name",
+                                    "InitValue": "Q_Com_7thARG_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_7thARG_des",
+                                    "InitValue": "Q_Com_7thARG_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_Trophy_32NVR_2",
+                                        "1",
+                                        "Key_Trophy_LesFaucon_2",
+                                        "2",
+                                        "Key_Trophy_LesFaucon_3",
+                                        "2"
+                                    ],
+                                    "InitValue": [
+                                        "Key_Trophy_32NVR_2",
+                                        "1",
+                                        "Key_Trophy_LesFaucon_2",
+                                        "2",
+                                        "Key_Trophy_LesFaucon_3",
+                                        "2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_7thARG",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_7thARG",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_7thARG",
+                                    "InitValue": "OnComQuestListDelivery_7thARG",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

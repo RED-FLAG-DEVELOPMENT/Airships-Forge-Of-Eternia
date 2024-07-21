@@ -1,0 +1,309 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "Q_Main_Ch7_S12_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_1",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_2",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_3",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_4",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_5",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_6",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_7",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_8",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_9",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_10",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_10",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_11",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_12",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_12",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_13",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_13",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_14",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_14",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_15",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_15",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_16",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_16",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_16",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Main_Ch7_S12_17",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Main_Ch7_S12_17",
+                                    "InitValue": "genericmayor_Q_Main_Ch7_S12_17",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff12_S2_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Qoff12_S2_1",
+                                    "InitValue": "genericmayor_Q_Qoff12_S2_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff12_S2_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Qoff12_S2_2",
+                                    "InitValue": "genericmayor_Q_Qoff12_S2_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "Q_Qoff12_S2_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "genericmayor_Q_Qoff12_S2_3",
+                                    "InitValue": "genericmayor_Q_Qoff12_S2_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

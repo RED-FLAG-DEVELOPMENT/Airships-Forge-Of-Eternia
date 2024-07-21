@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_TeutonCommu_name",
+                                    "InitValue": "Q_Com_TeutonCommu_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_TeutonCommu_des",
+                                    "InitValue": "Q_Com_TeutonCommu_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "goods_fertilizer",
+                                        "400",
+                                        "mat_heavyMachinery",
+                                        "150",
+                                        "mat_dynamos",
+                                        "30"
+                                    ],
+                                    "InitValue": [
+                                        "goods_fertilizer",
+                                        "400",
+                                        "mat_heavyMachinery",
+                                        "150",
+                                        "mat_dynamos",
+                                        "30"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_Teutons",
+                                        "1",
+                                        "currency1",
+                                        "44000"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_Teutons",
+                                        "1",
+                                        "currency1",
+                                        "44000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_Teutons",
+                                    "InitValue": "OnComQuestListDelivery_Teutons",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

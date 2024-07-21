@@ -1,0 +1,101 @@
+[
+    {
+        "Key": "PVPBlacklist",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "DeathMatch",
+                                    "InitValue": "DeathMatch",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "AirframeID": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        3,
+                                        5,
+                                        6,
+                                        7,
+                                        8,
+                                        9,
+                                        11,
+                                        19,
+                                        21,
+                                        22,
+                                        23,
+                                        24,
+                                        25,
+                                        26,
+                                        27,
+                                        28,
+                                        29,
+                                        30,
+                                        31
+                                    ],
+                                    "InitValue": [
+                                        3,
+                                        5,
+                                        6,
+                                        7,
+                                        8,
+                                        9,
+                                        11,
+                                        19,
+                                        21,
+                                        22,
+                                        23,
+                                        24,
+                                        25,
+                                        26,
+                                        27,
+                                        28,
+                                        29,
+                                        30,
+                                        31
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "Classic",
+                                    "InitValue": "Classic",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Mode": {
+                                "StringType": {
+                                    "_string": "FlagBattle",
+                                    "InitValue": "FlagBattle",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

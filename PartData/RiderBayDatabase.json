@@ -1,0 +1,1719 @@
+[
+    {
+        "Key": "RiderBay",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "bay0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay0",
+                                    "InitValue": "bay0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_aetherhawk_loft",
+                                    "InitValue": "rb_aetherhawk_loft",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 7500,
+                                    "InitValue": 7500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter000",
+                                    "InitValue": "Fighter000",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 3.0,
+                                    "InitValue": 3.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 240,
+                                    "InitValue": 240,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 640,
+                                    "InitValue": 640,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay1",
+                                    "InitValue": "bay1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_alphahawk_loft",
+                                    "InitValue": "rb_alphahawk_loft",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 10000,
+                                    "InitValue": 10000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 30,
+                                    "InitValue": 30,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter001",
+                                    "InitValue": "Fighter001",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 10.0,
+                                    "InitValue": 10.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 26,
+                                    "InitValue": 26,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 302,
+                                    "InitValue": 302,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 806,
+                                    "InitValue": 806,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay2",
+                                    "InitValue": "bay2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_pegasus_stable",
+                                    "InitValue": "rb_pegasus_stable",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 15000,
+                                    "InitValue": 15000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter002",
+                                    "InitValue": "Fighter002",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 6.0,
+                                    "InitValue": 6.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 150,
+                                    "InitValue": 150,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay3",
+                                    "InitValue": "bay3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_nightmare_stable",
+                                    "InitValue": "rb_nightmare_stable",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 15000,
+                                    "InitValue": 15000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter003",
+                                    "InitValue": "Fighter003",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 24,
+                                    "InitValue": 24,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 300,
+                                    "InitValue": 300,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 360,
+                                    "InitValue": 360,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay4",
+                                    "InitValue": "bay4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_griffon_pen",
+                                    "InitValue": "rb_griffon_pen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 30000,
+                                    "InitValue": 30000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 120,
+                                    "InitValue": 120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter004",
+                                    "InitValue": "Fighter004",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 14.0,
+                                    "InitValue": 14.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 22,
+                                    "InitValue": 22,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 154,
+                                    "InitValue": 154,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 285,
+                                    "InitValue": 285,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay5",
+                                    "InitValue": "bay5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Animalpen",
+                                    "InitValue": "shippart_weapon_Animalpen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_javeliner_pen",
+                                    "InitValue": "rb_javeliner_pen",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 30000,
+                                    "InitValue": 30000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 120,
+                                    "InitValue": 120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter005",
+                                    "InitValue": "Fighter005",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 14.0,
+                                    "InitValue": 14.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 24,
+                                    "InitValue": 24,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 175,
+                                    "InitValue": 175,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 252,
+                                    "InitValue": 252,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay6",
+                                    "InitValue": "bay6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Turretpod",
+                                    "InitValue": "shippart_weapon_Turretpod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_cannon_turret_pod",
+                                    "InitValue": "rb_cannon_turret_pod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9000,
+                                    "InitValue": 9000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter006",
+                                    "InitValue": "Fighter006",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 207,
+                                    "InitValue": 207,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 500,
+                                    "InitValue": 500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay7",
+                                    "InitValue": "bay7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Turretpod",
+                                    "InitValue": "shippart_weapon_Turretpod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_carronade_turret_pod",
+                                    "InitValue": "rb_carronade_turret_pod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9000,
+                                    "InitValue": 9000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 75,
+                                    "InitValue": 75,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter007",
+                                    "InitValue": "Fighter007",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 22,
+                                    "InitValue": 22,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 262,
+                                    "InitValue": 262,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 500,
+                                    "InitValue": 500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay8",
+                                    "InitValue": "bay8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Turretpod",
+                                    "InitValue": "shippart_weapon_Turretpod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_rotary_cannon_turret_pod",
+                                    "InitValue": "rb_rotary_cannon_turret_pod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9000,
+                                    "InitValue": 9000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 60,
+                                    "InitValue": 60,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter008",
+                                    "InitValue": "Fighter008",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 206,
+                                    "InitValue": 206,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 2475,
+                                    "InitValue": 2475,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 500,
+                                    "InitValue": 500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "bay9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "bay9",
+                                    "InitValue": "bay9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "RiderBay",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_weapon_Turretpod",
+                                    "InitValue": "shippart_weapon_Turretpod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "rb_flak_turret_pod",
+                                    "InitValue": "rb_flak_turret_pod",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9000,
+                                    "InitValue": 9000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 75,
+                                    "InitValue": 75,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SupplyConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FighterID": {
+                                "StringType": {
+                                    "_string": "Fighter009",
+                                    "InitValue": "Fighter009",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "FighterAmount": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Range": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingTime": {
+                                "FloatType": {
+                                    "_float": 8.0,
+                                    "InitValue": 8.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "TrainingSupplyPerSecond": {
+                                "IntType": {
+                                    "_int": 22,
+                                    "InitValue": 22,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingAmmoPerSecond": {
+                                "IntType": {
+                                    "_int": 225,
+                                    "InitValue": 225,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TrainingPowerPerSecond": {
+                                "IntType": {
+                                    "_int": 1575,
+                                    "InitValue": 1575,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 500,
+                                    "InitValue": 500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

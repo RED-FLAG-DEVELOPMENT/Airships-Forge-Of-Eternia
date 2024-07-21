@@ -1,0 +1,9 @@
+mat_oak2 50
+permit_Sunvale0 1
+
+mat_oak2 50
+mat_steelBeam 30
+
+mat_steelBeam 30
+mat_constructionBlock 30
+mat_largeHangarPlan 1

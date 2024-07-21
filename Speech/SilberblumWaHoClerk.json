@@ -1,0 +1,84 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "PirnmillRP_3_S1_0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumWaHoClerk_PirnmillRP_3_S1_0",
+                                    "InitValue": "SilberblumWaHoClerk_PirnmillRP_3_S1_0",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_3_S1_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumWaHoClerk_PirnmillRP_3_S1_1",
+                                    "InitValue": "SilberblumWaHoClerk_PirnmillRP_3_S1_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_3_S1_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumWaHoClerk_PirnmillRP_3_S1_2",
+                                    "InitValue": "SilberblumWaHoClerk_PirnmillRP_3_S1_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_3_S1_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumWaHoClerk_PirnmillRP_3_S1_3",
+                                    "InitValue": "SilberblumWaHoClerk_PirnmillRP_3_S1_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "PirnmillRP_3_S1_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "SilberblumWaHoClerk_PirnmillRP_3_S1_4",
+                                    "InitValue": "SilberblumWaHoClerk_PirnmillRP_3_S1_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "greeting1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_greeting1",
+                                    "InitValue": "crossingtonharbormaster_greeting1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_greeting2",
+                                    "InitValue": "crossingtonharbormaster_greeting2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_greeting3",
+                                    "InitValue": "crossingtonharbormaster_greeting3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_greeting4",
+                                    "InitValue": "crossingtonharbormaster_greeting4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "greeting5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_greeting5",
+                                    "InitValue": "crossingtonharbormaster_greeting5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_goodbye2",
+                                    "InitValue": "crossingtonharbormaster_goodbye2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_goodbye3",
+                                    "InitValue": "crossingtonharbormaster_goodbye3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_goodbye4",
+                                    "InitValue": "crossingtonharbormaster_goodbye4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "goodbye5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_goodbye5",
+                                    "InitValue": "crossingtonharbormaster_goodbye5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_1",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_2",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_3",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_4",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_5",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_5",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_6",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_6",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_7",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_7",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_8",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_8",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "P4F1_Ch1_S11_9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "crossingtonharbormaster_P4F1_Ch1_S11_9",
+                                    "InitValue": "crossingtonharbormaster_P4F1_Ch1_S11_9",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

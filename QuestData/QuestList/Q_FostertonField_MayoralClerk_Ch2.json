@@ -1,0 +1,90 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FostertonField_Clerk_ch2_1_name",
+                                    "InitValue": "FostertonField_Clerk_ch2_1_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FostertonField_Clerk_ch2_1_des",
+                                    "InitValue": "FostertonField_Clerk_ch2_1_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item9",
+                                        "1",
+                                        "key_chap2_item10",
+                                        "1",
+                                        "flag_Q_FostertonField_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item9",
+                                        "1",
+                                        "key_chap2_item10",
+                                        "1",
+                                        "flag_Q_FostertonField_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_chap2_item11",
+                                        "1",
+                                        "flag_Q_LaventumMine_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_chap2_item11",
+                                        "1",
+                                        "flag_Q_LaventumMine_MayoralClerk_Ch2_item0",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Main_Ch2_S11",
+                                    "InitValue": "Q_Main_Ch2_S11",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

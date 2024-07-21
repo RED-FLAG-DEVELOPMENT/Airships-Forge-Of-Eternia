@@ -1,0 +1,384 @@
+[
+    {
+        "Key": "Speech",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "mainquestmysteriousfrigatestart1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_mainquestmysteriousfrigatestart1",
+                                    "InitValue": "akexnavym_mainquestmysteriousfrigatestart1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "mainquestmysteriousfrigatestart2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_mainquestmysteriousfrigatestart2",
+                                    "InitValue": "akexnavym_mainquestmysteriousfrigatestart2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "mainquestmysteriousfrigatestart3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_mainquestmysteriousfrigatestart3",
+                                    "InitValue": "akexnavym_mainquestmysteriousfrigatestart3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "mainquestmysteriousshipstart1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_mainquestmysteriousshipstart1",
+                                    "InitValue": "akexnavym_mainquestmysteriousshipstart1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "mainquestmysteriousshipstart2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_mainquestmysteriousshipstart2",
+                                    "InitValue": "akexnavym_mainquestmysteriousshipstart2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "secretbossstart1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_secretbossstart1",
+                                    "InitValue": "akexnavym_secretbossstart1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "secretbossstart2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_secretbossstart2",
+                                    "InitValue": "akexnavym_secretbossstart2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousShip_start_1",
+                                    "InitValue": "akexnavym_vsMysteriousShip_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousShip_start_2",
+                                    "InitValue": "akexnavym_vsMysteriousShip_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_50intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousShip_50intr_1",
+                                    "InitValue": "akexnavym_vsMysteriousShip_50intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousShip_50intr_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousShip_50intr_2",
+                                    "InitValue": "akexnavym_vsMysteriousShip_50intr_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_start_1",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_start_2",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_start_3",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_25intr_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_25intr_1",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_25intr_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_25intr_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_25intr_2",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_25intr_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsMysteriousFrigate_25intr_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsMysteriousFrigate_25intr_3",
+                                    "InitValue": "akexnavym_vsMysteriousFrigate_25intr_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfretreating",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_onselfretreating",
+                                    "InitValue": "akexnavym_onselfretreating",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "onselfsurrender",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_onselfsurrender",
+                                    "InitValue": "akexnavym_onselfsurrender",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsARNxNavyM1_start",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsARNxNavyM1_start",
+                                    "InitValue": "akexnavym_vsARNxNavyM1_start",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsARNxNavyM1_end_d",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsARNxNavyM1_end_d",
+                                    "InitValue": "akexnavym_vsARNxNavyM1_end_d",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsARNxNavyM1_retreat",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsARNxNavyM1_retreat",
+                                    "InitValue": "akexnavym_vsARNxNavyM1_retreat",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01DisciplinedPirates_start_1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsQoff01DisciplinedPirates_start_1",
+                                    "InitValue": "akexnavym_vsQoff01DisciplinedPirates_start_1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01DisciplinedPirates_start_2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsQoff01DisciplinedPirates_start_2",
+                                    "InitValue": "akexnavym_vsQoff01DisciplinedPirates_start_2",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "vsQoff01DisciplinedPirates_start_3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "LocID": {
+                                "StringType": {
+                                    "_string": "akexnavym_vsQoff01DisciplinedPirates_start_3",
+                                    "InitValue": "akexnavym_vsQoff01DisciplinedPirates_start_3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

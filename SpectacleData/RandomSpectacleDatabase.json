@@ -1,0 +1,306 @@
+[
+    {
+        "Key": "RandomEncounterData",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "EncounterID": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Location": {
+                                "FloatListType": {
+                                    "_lsfloat": [
+                                        60.0,
+                                        -18.0,
+                                        516.0,
+                                        315.0,
+                                        41.0,
+                                        26.0
+                                    ],
+                                    "InitValue": [
+                                        60.0,
+                                        -18.0,
+                                        516.0,
+                                        315.0,
+                                        41.0,
+                                        26.0
+                                    ],
+                                    "$type": "FloatListType"
+                                }
+                            },
+                            "MerchantID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FleetID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "HarvestID": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LootList": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AreaRange": {
+                                "FloatType": {
+                                    "_float": 25000.0,
+                                    "InitValue": 25000.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueRange": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueDistance": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "LengthOfStay": {
+                                "FloatType": {
+                                    "_float": 60.0,
+                                    "InitValue": 60.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "IntroduceText": {
+                                "StringType": {
+                                    "_string": "Rock",
+                                    "InitValue": "Rock",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "EncounterID": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Location": {
+                                "FloatListType": {
+                                    "_lsfloat": [
+                                        60.0,
+                                        -18.0,
+                                        458.0,
+                                        322.0,
+                                        12.0,
+                                        35.0
+                                    ],
+                                    "InitValue": [
+                                        60.0,
+                                        -18.0,
+                                        458.0,
+                                        322.0,
+                                        12.0,
+                                        35.0
+                                    ],
+                                    "$type": "FloatListType"
+                                }
+                            },
+                            "MerchantID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FleetID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "HarvestID": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LootList": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AreaRange": {
+                                "FloatType": {
+                                    "_float": 25000.0,
+                                    "InitValue": 25000.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueRange": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueDistance": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "LengthOfStay": {
+                                "FloatType": {
+                                    "_float": 60.0,
+                                    "InitValue": 60.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "IntroduceText": {
+                                "StringType": {
+                                    "_string": "Rock",
+                                    "InitValue": "Rock",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "EncounterID": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Location": {
+                                "FloatListType": {
+                                    "_lsfloat": [
+                                        60.0,
+                                        -18.0,
+                                        609.0,
+                                        544.0,
+                                        24.0,
+                                        25.0
+                                    ],
+                                    "InitValue": [
+                                        60.0,
+                                        -18.0,
+                                        609.0,
+                                        544.0,
+                                        24.0,
+                                        25.0
+                                    ],
+                                    "$type": "FloatListType"
+                                }
+                            },
+                            "MerchantID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FleetID": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "HarvestID": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LootList": {
+                                "IntType": {
+                                    "_int": -1,
+                                    "InitValue": -1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AreaRange": {
+                                "FloatType": {
+                                    "_float": 25000.0,
+                                    "InitValue": 25000.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueRange": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "PursueDistance": {
+                                "FloatType": {
+                                    "_float": -1.0,
+                                    "InitValue": -1.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "LengthOfStay": {
+                                "FloatType": {
+                                    "_float": 60.0,
+                                    "InitValue": 60.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "IntroduceText": {
+                                "StringType": {
+                                    "_string": "Rock",
+                                    "InitValue": "Rock",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

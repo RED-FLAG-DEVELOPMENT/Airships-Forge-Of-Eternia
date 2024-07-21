@@ -1,0 +1,2064 @@
+[
+    {
+        "Key": "PowerPlant",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "powerplant0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant0",
+                                    "InitValue": "powerplant0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_small_mana_dynamo",
+                                    "InitValue": "pp_small_mana_dynamo",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 160,
+                                    "InitValue": 160,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 1200,
+                                    "InitValue": 1200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant1",
+                                    "InitValue": "powerplant1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_medium_mana_dynamo",
+                                    "InitValue": "pp_medium_mana_dynamo",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 7200,
+                                    "InitValue": 7200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 700,
+                                    "InitValue": 700,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 8400,
+                                    "InitValue": 8400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 1600,
+                                    "InitValue": 1600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant2",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant2",
+                                    "InitValue": "powerplant2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_large_mana_dynamo",
+                                    "InitValue": "pp_large_mana_dynamo",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 16200,
+                                    "InitValue": 16200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1710,
+                                    "InitValue": 1710,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 19800,
+                                    "InitValue": 19800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 45,
+                                    "InitValue": 45,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant3",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant3",
+                                    "InitValue": "powerplant3",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_combustion_dynamo",
+                                    "InitValue": "pp_combustion_dynamo",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 6400,
+                                    "InitValue": 6400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 800,
+                                    "InitValue": 800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 4000,
+                                    "InitValue": 4000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 2100,
+                                    "InitValue": 2100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.3,
+                                    "InitValue": 0.3,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant4",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant4",
+                                    "InitValue": "powerplant4",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_clean_generator",
+                                    "InitValue": "pp_clean_generator",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 2400,
+                                    "InitValue": 2400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 170,
+                                    "InitValue": 170,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 5,
+                                    "InitValue": 5,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant5",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant5",
+                                    "InitValue": "powerplant5",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_combustion_dynamo_medium",
+                                    "InitValue": "pp_combustion_dynamo_medium",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9600,
+                                    "InitValue": 9600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1260,
+                                    "InitValue": 1260,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 9600,
+                                    "InitValue": 9600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 6200,
+                                    "InitValue": 6200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.3,
+                                    "InitValue": 0.3,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant6",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant6",
+                                    "InitValue": "powerplant6",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_combustion_dynamo_large",
+                                    "InitValue": "pp_combustion_dynamo_large",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 14400,
+                                    "InitValue": 14400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1980,
+                                    "InitValue": 1980,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 18000,
+                                    "InitValue": 18000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 8500,
+                                    "InitValue": 8500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 8,
+                                    "InitValue": 8,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.3,
+                                    "InitValue": 0.3,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant7",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant7",
+                                    "InitValue": "powerplant7",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_clean_generator_medium",
+                                    "InitValue": "pp_clean_generator_medium",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 9600,
+                                    "InitValue": 9600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 720,
+                                    "InitValue": 720,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 8800,
+                                    "InitValue": 8800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 28,
+                                    "InitValue": 28,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant8",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant8",
+                                    "InitValue": "powerplant8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_clean_generator_large",
+                                    "InitValue": "pp_clean_generator_large",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 21600,
+                                    "InitValue": 21600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1710,
+                                    "InitValue": 1710,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 22500,
+                                    "InitValue": 22500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 90,
+                                    "InitValue": 90,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant9",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant9",
+                                    "InitValue": "powerplant9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_reaction_dynamo_small",
+                                    "InitValue": "pp_reaction_dynamo_small",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 180,
+                                    "InitValue": 180,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 3000,
+                                    "InitValue": 3000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 400,
+                                    "InitValue": 400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant10",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant10",
+                                    "InitValue": "powerplant10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_reaction_dynamo_medium",
+                                    "InitValue": "pp_reaction_dynamo_medium",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 8000,
+                                    "InitValue": 8000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 760,
+                                    "InitValue": 760,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 12000,
+                                    "InitValue": 12000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 800,
+                                    "InitValue": 800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant11",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant11",
+                                    "InitValue": "powerplant11",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_reaction_dynamo_large",
+                                    "InitValue": "pp_reaction_dynamo_large",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 18000,
+                                    "InitValue": 18000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1800,
+                                    "InitValue": 1800,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 27000,
+                                    "InitValue": 27000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 1200,
+                                    "InitValue": 1200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 6,
+                                    "InitValue": 6,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 45,
+                                    "InitValue": 45,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant12",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant12",
+                                    "InitValue": "powerplant12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_powerplant_helmut",
+                                    "InitValue": "pp_powerplant_helmut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 210,
+                                    "InitValue": 210,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 2500,
+                                    "InitValue": 2500,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant13",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant13",
+                                    "InitValue": "powerplant13",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_powerplant_cadenza",
+                                    "InitValue": "pp_powerplant_cadenza",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 19200,
+                                    "InitValue": 19200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 2640,
+                                    "InitValue": 2640,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 3,
+                                    "InitValue": 3,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 33600,
+                                    "InitValue": 33600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 120,
+                                    "InitValue": 120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "powerplant14",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant12",
+                                    "InitValue": "powerplant12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_powerplant_helmut",
+                                    "InitValue": "pp_powerplant_helmut",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 2100,
+                                    "InitValue": 2100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 25000,
+                                    "InitValue": 25000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 2000,
+                                    "InitValue": 2000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S3_name",
+                                    "InitValue": "Q_Com_Conglomerate_S3_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S3_des",
+                                    "InitValue": "Q_Com_Conglomerate_S3_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item3",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item3",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item4",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item4",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S3",
+                                    "InitValue": "Q_Com_Conglomerate_S3",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S4_name",
+                                    "InitValue": "Q_Com_Conglomerate_S4_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S4_des",
+                                    "InitValue": "Q_Com_Conglomerate_S4_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item4",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item3",
+                                        "1",
+                                        "currency1",
+                                        "16000"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item4",
+                                        "1",
+                                        "flag_Q_Com_Conglomerate_item3",
+                                        "1",
+                                        "currency1",
+                                        "16000"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item5",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item5",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Com_Conglomerate_S4",
+                                    "InitValue": "Q_Com_Conglomerate_S4",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

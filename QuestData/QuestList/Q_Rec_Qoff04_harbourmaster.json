@@ -1,0 +1,73 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff04_name",
+                                    "InitValue": "Q_Rec_Qoff04_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff04_harbourmaster_0_des",
+                                    "InitValue": "Q_Rec_Qoff04_harbourmaster_0_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_rec_qoff04_item1",
+                                        "1",
+                                        "flag_Q_Rec_Qoff04_0",
+                                        "1",
+                                        "flag_Q_Rec_Qoff04_1",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_rec_qoff04_item1",
+                                        "1",
+                                        "flag_Q_Rec_Qoff04_0",
+                                        "1",
+                                        "flag_Q_Rec_Qoff04_1",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Rec_Qoff04_S1",
+                                    "InitValue": "Q_Rec_Qoff04_S1",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Com_PlowerRebels_name",
+                                    "InitValue": "Q_Com_PlowerRebels_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Com_PlowerRebels_des",
+                                    "InitValue": "Q_Com_PlowerRebels_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Key_Trophy_4SRN_2",
+                                        "2",
+                                        "Key_Trophy_4SRN_3",
+                                        "2"
+                                    ],
+                                    "InitValue": [
+                                        "Key_Trophy_4SRN_2",
+                                        "2",
+                                        "Key_Trophy_4SRN_3",
+                                        "2"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_commission_PlowerRebellion",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_commission_PlowerRebellion",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "OnComQuestListDelivery_PlowerRebellion",
+                                    "InitValue": "OnComQuestListDelivery_PlowerRebellion",
+                                    "$type": "StringType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

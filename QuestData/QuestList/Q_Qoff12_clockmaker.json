@@ -1,0 +1,179 @@
+[
+    {
+        "Key": "QuestList",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "0",
+                                    "InitValue": "0",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S8_name",
+                                    "InitValue": "Q_Qoff12_S8_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S8_des",
+                                    "InitValue": "Q_Qoff12_S8_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff12_item7",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff12_item7",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff12_item8",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff12_item8",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S8",
+                                    "InitValue": "Q_Qoff12_S8",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Accept",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "1",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "QuestID": {
+                                "StringType": {
+                                    "_string": "1",
+                                    "InitValue": "1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Name": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S9_name",
+                                    "InitValue": "Q_Qoff12_S9_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S9_des",
+                                    "InitValue": "Q_Qoff12_S9_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Demands": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff12_item8",
+                                        "1",
+                                        "flag_Q_Qoff12_clockmaker",
+                                        "1",
+                                        "mat_manaCrystal0",
+                                        "5",
+                                        "mat_dynamos",
+                                        "10",
+                                        "mat_reactionVessels",
+                                        "5",
+                                        "mat_reactivityIntensifiers",
+                                        "20"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff12_item8",
+                                        "1",
+                                        "flag_Q_Qoff12_clockmaker",
+                                        "1",
+                                        "mat_manaCrystal0",
+                                        "5",
+                                        "mat_dynamos",
+                                        "10",
+                                        "mat_reactionVessels",
+                                        "5",
+                                        "mat_reactivityIntensifiers",
+                                        "20"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ItemRewards": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Qoff12_item9",
+                                        "1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Qoff12_item9",
+                                        "1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "IsDeduct": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            },
+                            "CompletedDialog": {
+                                "StringType": {
+                                    "_string": "Q_Qoff12_S9",
+                                    "InitValue": "Q_Qoff12_S9",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ProceedType": {
+                                "QuestProceedEnumType": {
+                                    "questProceedType": "Complete",
+                                    "$type": "QuestProceedEnumType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]

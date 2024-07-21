@@ -1,0 +1,152 @@
+[
+    {
+        "Key": "Warehouse",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Facilities": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IsFacilityActive": {
+                                "BoolType": {
+                                    "_bool": false,
+                                    "InitValue": false,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": "Facilities",
+        "Value": {
+            "entries": [
+                {
+                    "Key": "0",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "Name": {
+                                "StringType": {
+                                    "_string": "FreeTraderTrove_fac_store_Jean_name",
+                                    "InitValue": "FreeTraderTrove_fac_store_Jean_name",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Description": {
+                                "StringType": {
+                                    "_string": "FreeTraderTrove_fac_store_Jean_des",
+                                    "InitValue": "FreeTraderTrove_fac_store_Jean_des",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ShortDescription": {
+                                "StringType": {
+                                    "_string": "FreeTraderTrove_fac_store_Jean_shortdes",
+                                    "InitValue": "FreeTraderTrove_fac_store_Jean_shortdes",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ButtonSpriteName": {
+                                "StringType": {
+                                    "_string": "Warehouse2",
+                                    "InitValue": "Warehouse2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "IconName": {
+                                "StringType": {
+                                    "_string": "StoreIcon",
+                                    "InitValue": "StoreIcon",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "ArrivalConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Merchant"
+                                    ],
+                                    "InitValue": [
+                                        "Merchant"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "DepartureConnectionTypes": {
+                                "FacilityConnectionListType": {
+                                    "_lsFacilityConnection": [
+                                        "Dialog"
+                                    ],
+                                    "InitValue": [
+                                        "Dialog"
+                                    ],
+                                    "$type": "FacilityConnectionListType"
+                                }
+                            },
+                            "ArrivalConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Merc_FreeTraderTrove"
+                                    ],
+                                    "InitValue": [
+                                        "Merc_FreeTraderTrove"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "DepartureConnectionIDs": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "Q_Com_Conglomerate_S8"
+                                    ],
+                                    "InitValue": [
+                                        "Q_Com_Conglomerate_S8"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "ArrivalItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item7==1"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item7==1"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            },
+                            "DepartureItemConditions": {
+                                "StringListType": {
+                                    "_lsstring": [
+                                        "key_Com_Conglomerate_item7==1|key_Com_Conglomerate_item9==0"
+                                    ],
+                                    "InitValue": [
+                                        "key_Com_Conglomerate_item7==1",
+                                        "key_Com_Conglomerate_item9==0"
+                                    ],
+                                    "$type": "StringListType"
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+]
