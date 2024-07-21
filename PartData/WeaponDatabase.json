@@ -50787,8 +50787,8 @@
                             },
                             "FiringArc": {
                                 "IntType": {
-                                    "_int": 100,
-                                    "InitValue": 100,
+                                    "_int": 180,
+                                    "InitValue": 180,
                                     "$type": "IntType"
                                 }
                             },
@@ -51194,15 +51194,15 @@
                             },
                             "FiringArc": {
                                 "IntType": {
-                                    "_int": 5,
-                                    "InitValue": 5,
+                                    "_int": 270,
+                                    "InitValue": 270,
                                     "$type": "IntType"
                                 }
                             },
                             "DeviationArc": {
                                 "IntType": {
-                                    "_int": 5,
-                                    "InitValue": 5,
+                                    "_int": 270,
+                                    "InitValue": 270,
                                     "$type": "IntType"
                                 }
                             },
@@ -51270,8 +51270,8 @@
                             },
                             "ProjectileID": {
                                 "StringType": {
-                                    "_string": "Missile008",
-                                    "InitValue": "Missile008",
+                                    "_string": "Missile023",
+                                    "InitValue": "Missile023",
                                     "$type": "StringType"
                                 }
                             },
@@ -51287,11 +51287,13 @@
                                     "_lsint": [
                                         0,
                                         1,
+                                        2,
                                         3
                                     ],
                                     "InitValue": [
                                         0,
                                         1,
+                                        2,
                                         3
                                     ],
                                     "$type": "IntListType"
@@ -51383,15 +51385,15 @@
                             },
                             "FiringArc": {
                                 "IntType": {
-                                    "_int": 5,
-                                    "InitValue": 5,
+                                    "_int": 270,
+                                    "InitValue": 270,
                                     "$type": "IntType"
                                 }
                             },
                             "DeviationArc": {
                                 "IntType": {
-                                    "_int": 5,
-                                    "InitValue": 5,
+                                    "_int": 270,
+                                    "InitValue": 270,
                                     "$type": "IntType"
                                 }
                             },
@@ -51459,8 +51461,8 @@
                             },
                             "ProjectileID": {
                                 "StringType": {
-                                    "_string": "Missile008",
-                                    "InitValue": "Missile008",
+                                    "_string": "Missile023",
+                                    "InitValue": "Missile023",
                                     "$type": "StringType"
                                 }
                             },
