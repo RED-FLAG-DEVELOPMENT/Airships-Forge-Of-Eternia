@@ -2057,6 +2057,143 @@
                             }
                         }
                     }
+                },
+                {
+                    "Key": "powerplant15",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "powerplant10",
+                                    "InitValue": "powerplant10",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "PowerPlant",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_drive_PowerPlant",
+                                    "InitValue": "shippart_drive_PowerPlant",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "pp_reaction_dynamo_medium",
+                                    "InitValue": "pp_reaction_dynamo_medium",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 8000,
+                                    "InitValue": 8000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 1000,
+                                    "InitValue": 1000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 12000,
+                                    "InitValue": 12000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplosionDamage": {
+                                "IntType": {
+                                    "_int": 8000,
+                                    "InitValue": 8000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BlastRadius": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FallOffFactor": {
+                                "FloatType": {
+                                    "_float": 0.5,
+                                    "InitValue": 0.5,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "IntegrityRegenerationPerSecond": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
                 }
             ]
         }
