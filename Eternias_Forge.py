@@ -120,6 +120,26 @@ def debug_print(message):
     debug_display.insert(tk.END, message + "\n")
     debug_display.see(tk.END)
 
+def update_created_parts_display():
+    created_parts_text.config(state=tk.NORMAL)
+    created_parts_text.delete("1.0", tk.END)
+    for part in created_parts:
+        created_parts_text.insert(tk.END, f"{part}\n")
+    created_parts_text.config(state=tk.DISABLED)
+
+def add_created_part():
+    new_part_key = tree.item(tree.selection())["values"][0]
+    if new_part_key and new_part_key not in created_parts:
+        created_parts.append(new_part_key)
+        update_created_parts_display()
+
+def delete_created_part():
+    selected_part = created_parts_text.get(tk.SEL_FIRST, tk.SEL_LAST).strip()
+    if selected_part in created_parts:
+        created_parts.remove(selected_part)
+        update_created_parts_display()
+
+##########################################################################################################
 def save_data():
     selected_item = tree.selection()
     if not selected_item:
@@ -200,6 +220,8 @@ def create_new_part():
     # Append the new entry to the loaded_data
     loaded_data[new_key] = item_data
     created_parts.append(new_key)
+    update_created_parts_display()
+    
     # Update the tree
     sprite = new_entry.get("Sprite", {}).get("StringType", {}).get("_string", "N/A")
     size_x = new_entry.get("SizeX", {}).get("IntType", {}).get("_int", "N/A")
@@ -240,6 +262,7 @@ def delete_entry():
     
     if item_key in created_parts:
         created_parts.remove(item_key)
+        update_created_parts_display()
 
     if item_key in loaded_data:
         del loaded_data[item_key]
@@ -314,6 +337,7 @@ def update_in_stores():
         debug_print("using selected part to add to stores.")
         selected_item = tree.selection()
         created_parts.append(tree.item(selected_item)["values"][0])
+        update_created_parts_display()
         if not created_parts:
             debug_print("You must create or select a part to add to stores.")
             return
@@ -419,6 +443,13 @@ def update_database():
 
     try:
         for part_key in items_to_update:
+                #sanity check
+                for db_entry in item_table_data:
+                            if db_entry["Key"] == "ItemTable":
+                                for entry in db_entry["Value"]["entries"]:
+                                    if entry["Key"] == part_key:
+                                        debug_print(f"{part_key} already exists in ItemTable")
+                                        return
                 item = loaded_data[part_key]
                 if isinstance(item, dict):
                     id_value = item.get("ID", {}).get("StringType", {}).get("_string")
@@ -447,9 +478,21 @@ root = tk.Tk()
 root.title("Parts File Loader")
 
 # Create and pack the debug display
-debug_display = tk.Text(root, height=10, state=tk.NORMAL)
+debug_display = tk.Text(root, height=5, state=tk.NORMAL)
 debug_display.pack(pady=10, fill='both', expand=True)
 sys.stdout = RedirectText(debug_display)
+
+# Add a text widget to display created parts
+created_parts_text = tk.Text(root, height=1, state=tk.DISABLED)
+created_parts_text.pack(pady=5)
+
+# Button to add a new created part
+add_part_button = tk.Button(root, text="Add Part", command=add_created_part)
+add_part_button.pack(pady=5)
+
+# Button to delete the selected created part
+delete_part_button = tk.Button(root, text="Delete Part", command=delete_created_part)
+delete_part_button.pack(pady=5)
 
 # Create and pack the dropdown menu
 dropdown = ttk.Combobox(root, values=list(parts_file_list.keys()))
@@ -469,17 +512,19 @@ tree.bind("<<TreeviewSelect>>", on_tree_select)
 data_display = tk.Text(root, height=20, wrap=tk.WORD)
 data_display.pack(pady=10, fill='both', expand=True)
 
+
+
 # Create and pack the Save button
 save_button = tk.Button(root, text="Save", command=save_data)
-save_button.pack(side=tk.LEFT, padx=10, pady=10)
+save_button.pack(side=tk.RIGHT, padx=10, pady=10)
 
 # Create and pack the Create New Part button
 create_new_part_button = tk.Button(root, text="Create New Part", command=create_new_part)
-create_new_part_button.pack(side=tk.LEFT, padx=10, pady=10)
+create_new_part_button.pack(side=tk.RIGHT, padx=10, pady=10)
 
 # Create and pack the Delete button
 delete_button = tk.Button(root, text="Delete", command=delete_entry)
-delete_button.pack(side=tk.LEFT, padx=10, pady=10)
+delete_button.pack(side=tk.RIGHT, padx=10, pady=10)
 
 # Create and pack the update in stores button
 update_stores_button = tk.Button(root, text="Update in Stores", command=update_in_stores)
