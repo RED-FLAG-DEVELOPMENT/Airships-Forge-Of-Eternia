@@ -351,9 +351,9 @@ def update_offer_data( new_offers, target_stores):
                             AmountOffer =entry["Value"]["data"]["AmountOffer"]
                             if "IntListType" in AmountOffer:
                                 IntListType = AmountOffer["IntListType"]
-                                if "_lsint" in string_list_type:
+                                if "_lsint" in IntListType:
                                     IntListType["_lsint"].extend([IntListType["_lsint"][-1]] * len(new_offers))
-                                if "InitValue" in string_list_type:
+                                if "InitValue" in IntListType:
                                     IntListType["InitValue"].extend([IntListType["InitValue"][-1]] * len(new_offers))
 
                         if "OfferPriceOffset" in entry["Value"]["data"]:
@@ -361,35 +361,36 @@ def update_offer_data( new_offers, target_stores):
                             OfferPriceOffset =entry["Value"]["data"]["OfferPriceOffset"]
                             if "FloatListType" in OfferPriceOffset:
                                 FloatListType = OfferPriceOffset["FloatListType"]
-                                if "_lsfloat" in string_list_type:
+                                if "_lsfloat" in FloatListType:
                                     FloatListType["_lsfloat"].extend([FloatListType["_lsfloat"][-1]] * len(new_offers))
-                                if "InitValue" in string_list_type:
+                                if "InitValue" in FloatListType:
                                     FloatListType["InitValue"].extend([FloatListType["InitValue"][-1]] * len(new_offers))
+                                    
                         if "OfferRestock" in entry["Value"]["data"]:
                             OfferRestock =entry["Value"]["data"]["OfferRestock"]
                             if "BoolListType" in OfferRestock:
                                 BoolListType = OfferRestock["BoolListType"]
-                                if "_lsbool" in string_list_type:
+                                if "_lsbool" in BoolListType:
                                     BoolListType["_lsbool"].extend([BoolListType["_lsbool"][-1]] * len(new_offers))
-                                if "InitValue" in string_list_type:
+                                if "InitValue" in BoolListType:
                                     BoolListType["InitValue"].extend([BoolListType["InitValue"][-1]] * len(new_offers))
 
                         if "OfferCondition" in entry["Value"]["data"]:
                             OfferCondition =entry["Value"]["data"]["OfferCondition"]
                             if "ItemConditionEnumListType" in OfferCondition:
                                 ItemConditionEnumListType = OfferCondition["ItemConditionEnumListType"]
-                                if "itemConditionList" in string_list_type:
+                                if "itemConditionList" in ItemConditionEnumListType:
                                     ItemConditionEnumListType["itemConditionList"].extend([ItemConditionEnumListType["itemConditionList"][-1]] * len(new_offers))
-                                if "InitValue" in string_list_type:
+                                if "InitValue" in ItemConditionEnumListType:
                                     ItemConditionEnumListType["InitValue"].extend([ItemConditionEnumListType["InitValue"][-1]] * len(new_offers))
 
                         if "OfferQuality"in entry["Value"]["data"]:
                             OfferQuality =entry["Value"]["data"]["OfferQuality"]
                             if "ItemQualityEnumListType" in OfferQuality:
                                 ItemQualityEnumListType = OfferQuality["ItemQualityEnumListType"]
-                                if "itemQualityList" in string_list_type:
+                                if "itemQualityList" in ItemQualityEnumListType:
                                     ItemQualityEnumListType["itemQualityList"].extend([ItemQualityEnumListType["itemQualityList"][-1]] * len(new_offers))
-                                if "InitValue" in string_list_type:
+                                if "InitValue" in ItemQualityEnumListType:
                                     ItemQualityEnumListType["InitValue"].extend([ItemQualityEnumListType["InitValue"][-1]] * len(new_offers))
         # reformat to json                            
         #print(json.dumps(data, indent=4))
