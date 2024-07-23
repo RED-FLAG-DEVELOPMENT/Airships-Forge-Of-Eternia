@@ -79,8 +79,8 @@
                             },
                             "Propulsion": {
                                 "IntType": {
-                                    "_int": 80000,
-                                    "InitValue": 80000,
+                                    "_int": 90000,
+                                    "InitValue": 90000,
                                     "$type": "IntType"
                                 }
                             },
@@ -251,8 +251,8 @@
                             },
                             "Propulsion": {
                                 "IntType": {
-                                    "_int": 360000,
-                                    "InitValue": 360000,
+                                    "_int": 380000,
+                                    "InitValue": 380000,
                                     "$type": "IntType"
                                 }
                             },
