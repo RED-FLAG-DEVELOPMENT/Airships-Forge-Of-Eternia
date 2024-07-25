@@ -10976,6 +10976,922 @@
                             }
                         }
                     }
+                },
+                {
+                    "Key": "command36",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "command2",
+                                    "InitValue": "command2",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "Command",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_command_Command",
+                                    "InitValue": "shippart_command_Command",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "cm_small_bridge",
+                                    "InitValue": "cm_small_bridge",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 3200,
+                                    "InitValue": 3200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 350,
+                                    "InitValue": 350,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewCapacity": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRegenerate": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "OfficerTypes": {
+                                "OfficerTypesListType": {
+                                    "officerTypeList": [
+                                        "Captain",
+                                        "Naviator"
+                                    ],
+                                    "InitValue": [
+                                        "Captain",
+                                        "Naviator"
+                                    ],
+                                    "$type": "OfficerTypesListType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Observation": {
+                                "IntType": {
+                                    "_int": 200,
+                                    "InitValue": 200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "InitValue": [
+                                        0,
+                                        1,
+                                        2,
+                                        3
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProtectedCrew": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRecovery": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ActiveRepair": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PassiveRepair": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipBattleMoralePerSec": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipTravelMoralePerSec": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TurnRatePercent": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipCruisingSpeed": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManeuveringThrustPercent": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipAccuracy": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PartWeaponsReloadTime": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RangeBonus": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDamagePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDefensePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingRangePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManaWeaponDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponExplosiveRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "command37",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "command1",
+                                    "InitValue": "command1",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "Command",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_command_Command",
+                                    "InitValue": "shippart_command_Command",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "cm_gunnerypost",
+                                    "InitValue": "cm_gunnerypost",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 1600,
+                                    "InitValue": 1600,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewCapacity": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRegenerate": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "OfficerTypes": {
+                                "OfficerTypesListType": {
+                                    "officerTypeList": [
+                                        "Gunner"
+                                    ],
+                                    "InitValue": [
+                                        "Gunner"
+                                    ],
+                                    "$type": "OfficerTypesListType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Observation": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProtectedCrew": {
+                                "IntType": {
+                                    "_int": 5,
+                                    "InitValue": 5,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRecovery": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ActiveRepair": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PassiveRepair": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipBattleMoralePerSec": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipTravelMoralePerSec": {
+                                "IntType": {
+                                    "_int": 1,
+                                    "InitValue": 1,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TurnRatePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipCruisingSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManeuveringThrustPercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipAccuracy": {
+                                "IntType": {
+                                    "_int": 5,
+                                    "InitValue": 5,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PartWeaponsReloadTime": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RangeBonus": {
+                                "IntType": {
+                                    "_int": 20,
+                                    "InitValue": 20,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDamagePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDefensePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingRangePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManaWeaponDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponExplosiveRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Key": "command38",
+                    "Value": {
+                        "selected": false,
+                        "data": {
+                            "ID": {
+                                "StringType": {
+                                    "_string": "command12",
+                                    "InitValue": "command12",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "PartTypes": {
+                                "PartEnumType": {
+                                    "partType": "Command",
+                                    "$type": "PartEnumType"
+                                }
+                            },
+                            "Class": {
+                                "StringType": {
+                                    "_string": "shippart_command_Command",
+                                    "InitValue": "shippart_command_Command",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Sprite": {
+                                "StringType": {
+                                    "_string": "cm_recycling_station",
+                                    "InitValue": "cm_recycling_station",
+                                    "$type": "StringType"
+                                }
+                            },
+                            "Integrity": {
+                                "IntType": {
+                                    "_int": 6400,
+                                    "InitValue": 6400,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerGeneration": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PowerConsumption": {
+                                "IntType": {
+                                    "_int": 120,
+                                    "InitValue": 120,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewCapacity": {
+                                "IntType": {
+                                    "_int": 8,
+                                    "InitValue": 8,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRegenerate": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "SizeX": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "SizeY": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "OfficerTypes": {
+                                "OfficerTypesListType": {
+                                    "officerTypeList": [
+                                        "Engineer",
+                                        "Quartermaster"
+                                    ],
+                                    "InitValue": [
+                                        "Engineer",
+                                        "Quartermaster"
+                                    ],
+                                    "$type": "OfficerTypesListType"
+                                }
+                            },
+                            "RepairTeam": {
+                                "IntType": {
+                                    "_int": 2,
+                                    "InitValue": 2,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoStorage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "Observation": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ExplodeVFX": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "LimitedSide": {
+                                "IntListType": {
+                                    "_lsint": [
+                                        0
+                                    ],
+                                    "InitValue": [
+                                        0
+                                    ],
+                                    "$type": "IntListType"
+                                }
+                            },
+                            "PowerStorage": {
+                                "IntType": {
+                                    "_int": 8000,
+                                    "InitValue": 8000,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ProtectedCrew": {
+                                "IntType": {
+                                    "_int": 4,
+                                    "InitValue": 4,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "CrewRecovery": {
+                                "FloatType": {
+                                    "_float": 0.0,
+                                    "InitValue": 0.0,
+                                    "$type": "FloatType"
+                                }
+                            },
+                            "ActiveRepair": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PassiveRepair": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "AmmoGeneration": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipBattleMoralePerSec": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipTravelMoralePerSec": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "TurnRatePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipCruisingSpeed": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManeuveringThrustPercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ShipAccuracy": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PartWeaponsReloadTime": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "RangeBonus": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialGeneration": {
+                                "IntType": {
+                                    "_int": 10,
+                                    "InitValue": 10,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "MaterialStorage": {
+                                "IntType": {
+                                    "_int": 300,
+                                    "InitValue": 300,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelGeneration": {
+                                "IntType": {
+                                    "_int": 100,
+                                    "InitValue": 100,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "FuelStorage": {
+                                "IntType": {
+                                    "_int": 200,
+                                    "InitValue": 200,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDamagePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingDefensePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "BoardingRangePercent": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "ManaWeaponDamage": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "WeaponExplosiveRadius": {
+                                "IntType": {
+                                    "_int": 0,
+                                    "InitValue": 0,
+                                    "$type": "IntType"
+                                }
+                            },
+                            "PVPWhitelist": {
+                                "BoolType": {
+                                    "_bool": true,
+                                    "InitValue": true,
+                                    "$type": "BoolType"
+                                }
+                            }
+                        }
+                    }
                 }
             ]
         }

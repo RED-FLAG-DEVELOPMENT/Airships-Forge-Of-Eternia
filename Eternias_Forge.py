@@ -43,11 +43,22 @@ def load_file(filename):
     try:
         with open(filename, 'r') as file:
             data = json.load(file)
-            loaded_data = {entry["Key"]: entry["Value"]["data"] for item in data if isinstance(item, dict) for entry in item.get("Value", {}).get("entries", [])}
             debug_print("Data loaded successfully")  # Debug print
-            debug_print("Data structure:")  # Debug print to show the structure
-            debug_print(json.dumps(data, indent=4))  # Pretty print the data structure
+            #debug_print("Data structure:")  # Debug print to show the structure
+            #debug_print(json.dumps(data, indent=4))  # Pretty print the data structure
             display_entries(data)
+
+              # Extract all entries and store them in loaded_data
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict):
+                        entries = item.get("Value", {}).get("entries", [])
+                        for entry in entries:
+                            if isinstance(entry, dict):
+                                key = entry.get("Key", "N/A")
+                                value = entry.get("Value", {})
+                                loaded_data[key] = value
+
     except Exception as e:
         debug_print(f"Error loading file: {e}")
         return
@@ -96,6 +107,7 @@ def on_tree_select(event):
     view_data()
 
 def view_data():
+    global loaded_data
     selected_item = tree.selection()
     if selected_item:
         item_key = tree.item(selected_item)["values"][0]
@@ -121,26 +133,27 @@ def debug_print(message):
     debug_display.see(tk.END)
 
 def update_created_parts_display():
-    created_parts_text.config(state=tk.NORMAL)
-    created_parts_text.delete("1.0", tk.END)
-    for part in created_parts:
-        created_parts_text.insert(tk.END, f"{part}\n")
-    created_parts_text.config(state=tk.DISABLED)
+    created_parts_text.config(state=tk.NORMAL)  # Enable editing
+    created_parts_text.delete("1.0", tk.END)  # Clear the current text
+    created_parts_text.insert(tk.END, ", ".join(created_parts))  # Insert the parts as a comma-separated string
+    created_parts_text.config(state=tk.DISABLED)  # Disable editing
 
 def add_created_part():
     new_part_key = tree.item(tree.selection())["values"][0]
     if new_part_key and new_part_key not in created_parts:
+        debug_print(f"Adding {new_part_key} to list")
         created_parts.append(new_part_key)
         update_created_parts_display()
 
 def delete_created_part():
-    selected_part = created_parts_text.get(tk.SEL_FIRST, tk.SEL_LAST).strip()
+    selected_part = tree.item(tree.selection())["values"][0]
     if selected_part in created_parts:
         created_parts.remove(selected_part)
         update_created_parts_display()
 
 ##########################################################################################################
 def save_data():
+    global loaded_data
     selected_item = tree.selection()
     if not selected_item:
         debug_print("No item selected for saving.")
@@ -193,6 +206,7 @@ def save_to_file():
         debug_print(f"Error saving file: {e}")
 
 def create_new_part():
+    global loaded_data
     selected_item = tree.selection()
     if not selected_item:
         debug_print("No item selected for creating new part.")
@@ -229,10 +243,12 @@ def create_new_part():
     
     tree.insert("", "end", values=(new_key, sprite, size_x, size_y))
      # Automatically select and view the new part
-    for row in tree.get_children():
-        if tree.item(row)["values"][0] == new_key:
-            tree.selection_set(row)
-            view_data()
+    for item in tree.get_children():
+        if tree.item(item)["values"][0] == item_key:
+            # Set the selection
+            tree.selection_set(item)
+            # Optionally, scroll the tree view to the selected item
+            tree.see(item)
             break
 
     # Update the JSON data and save to file
@@ -253,6 +269,7 @@ def create_new_part():
         debug_print(f"Error creating new part: {e}")
 
 def delete_entry():
+    global loaded_data
     selected_item = tree.selection()
     if not selected_item:
         debug_print("No item selected for deleting.")
@@ -324,6 +341,7 @@ def update_json_data():
     
 
 def update_in_stores():
+    global loaded_data
     debug_print(f"getting indices")
     selected_indices = store_listbox.curselection()
     debug_print(f"using indices {selected_indices}")
@@ -427,6 +445,7 @@ def update_offer_data( new_offers, target_stores):
         debug_print(f"Error updating store data: {e}")
 
 def update_database():
+    global loaded_data,created_parts
     debug_print("Updating ItemTable/Database.json")
     try:
         with open("ItemTable/Database.json", "r") as db_file:
@@ -483,7 +502,7 @@ debug_display.pack(pady=10, fill='both', expand=True)
 sys.stdout = RedirectText(debug_display)
 
 # Add a text widget to display created parts
-created_parts_text = tk.Text(root, height=1, state=tk.DISABLED)
+created_parts_text = tk.Text(root, height=2, state=tk.DISABLED)
 created_parts_text.pack(pady=5)
 
 # Button to add a new created part
@@ -513,7 +532,6 @@ data_display = tk.Text(root, height=20, wrap=tk.WORD)
 data_display.pack(pady=10, fill='both', expand=True)
 
 
-
 # Create and pack the Save button
 save_button = tk.Button(root, text="Save", command=save_data)
 save_button.pack(side=tk.RIGHT, padx=10, pady=10)
@@ -526,12 +544,13 @@ create_new_part_button.pack(side=tk.RIGHT, padx=10, pady=10)
 delete_button = tk.Button(root, text="Delete", command=delete_entry)
 delete_button.pack(side=tk.RIGHT, padx=10, pady=10)
 
+#create and pack the Update Database Button
+update_database_button = tk.Button(root, text="Update Database", command=update_database)
+update_database_button.pack(pady=10)
+
 # Create and pack the update in stores button
 update_stores_button = tk.Button(root, text="Update in Stores", command=update_in_stores)
 update_stores_button.pack(pady=10)
-
-update_database_button = tk.Button(root, text="Update Database", command=update_database)
-update_database_button.pack(pady=10)
 
 # Create and pack the listbox for selecting stores
 store_listbox = tk.Listbox(root, selectmode=tk.MULTIPLE)
