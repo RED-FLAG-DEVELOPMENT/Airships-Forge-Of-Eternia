@@ -7,8 +7,10 @@ import json
 
 # Global variable to store the loaded data
 loaded_data = {}
+database_data = {}
 current_file = ""
 created_parts = []
+
 
 # Sample parts_file_list
 parts_file_list = {
@@ -35,6 +37,30 @@ class RedirectText:
 
     def flush(self):
         pass
+
+def load_database_file():
+    global database_data
+    try:
+        with open("ItemTable/Database.json", "r") as file:
+            data = json.load(file)
+            print("Database data loaded successfully")
+            #print("Database data structure:", data)
+
+            # Clear current database_data
+            database_data = {}
+            # Extract all entries and store them in database_data
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict):
+                        entries = item.get("Value", {}).get("entries", [])
+                        for entry in entries:
+                            if isinstance(entry, dict):
+                                key = entry.get("Key", "N/A")
+                                value = entry.get("Value", {})
+                                database_data[key]=value
+
+    except Exception as e:
+        print(f"Error loading database file: {e}")
 
 def load_file(filename):
     global loaded_data, current_file
@@ -113,6 +139,7 @@ def view_data():
         item_key = tree.item(selected_item)["values"][0]
         item_data = loaded_data.get(item_key, {})
         display_data(item_data)
+        update_database_display(item_key)
     else:
         debug_print("No item selected.")
 
@@ -127,6 +154,15 @@ def display_data(data):
         else:
             value_str = str(value)
         data_display.insert(tk.END, f"{key}:\n{value_str}\n\n")
+
+def update_database_display(item_key):
+    database_display.delete(1.0, tk.END)
+    
+    formatted_data = json.dumps(database_data[item_key], indent=4)
+    if formatted_data:
+        database_display.insert(tk.END, formatted_data)
+    else:
+        database_display.insert(tk.END, "No matching entry found in database.")
 
 def debug_print(message):
     debug_display.insert(tk.END, message + "\n")
@@ -153,7 +189,7 @@ def delete_created_part():
 
 ##########################################################################################################
 def save_data():
-    global loaded_data
+    global loaded_data, database_data
     selected_item = tree.selection()
     if not selected_item:
         debug_print("No item selected for saving.")
@@ -178,14 +214,15 @@ def save_data():
 
         # Update the global loaded_data
         loaded_data[item_key] = parsed_data
-        
+        database_data[item_key] = parsed_data
         # Save to the current file
-        save_to_file()
+        save_part_to_file()
         debug_print(f"Data for {item_key} saved successfully.")
+        save_part_to_db()
     except Exception as e:
         debug_print(f"Error saving data: {e}")
 
-def save_to_file():
+def save_part_to_file():
     global loaded_data, current_file
     try:
         with open(current_file, 'r') as file:
@@ -201,7 +238,28 @@ def save_to_file():
         with open(current_file, 'w') as file:
             json.dump(data, file, indent=4)
         
-        debug_print("File saved successfully.")
+        debug_print("Part File saved successfully.")
+    except Exception as e:
+        debug_print(f"Error saving file: {e}")
+
+
+def save_part_to_db():
+    global database_data
+    try:
+        with open("ItemTable/Database.json", 'r') as file:
+            data = json.load(file)
+        
+        for item in data:
+            if isinstance(item, dict):
+                for entry in item.get("Value", {}).get("entries", []):
+                    key = entry["Key"]
+                    if key in database_data:
+                        entry["Value"]["data"] = database_data[key]
+        
+        with open("ItemTable/Database.json", 'w') as file:
+            json.dump(data, file, indent=4)
+        
+        debug_print("DBFile saved successfully.")
     except Exception as e:
         debug_print(f"Error saving file: {e}")
 
@@ -284,7 +342,7 @@ def delete_entry():
     if item_key in loaded_data:
         del loaded_data[item_key]
         update_json_data()
-        save_to_file()
+        save_part_to_file()
         debug_print(f"Entry {item_key} deleted successfully.")
     else:
         debug_print(f"Entry {item_key} not found in loaded data.")
@@ -471,7 +529,7 @@ def update_database():
                                         return
                 item = loaded_data[part_key]
                 if isinstance(item, dict):
-                    id_value = item.get("ID", {}).get("StringType", {}).get("_string")
+                    id_value = item.get("data",{}).get("ID", {}).get("StringType", {}).get("_string")
                     if id_value:
                         for db_entry in item_table_data:
                             if db_entry["Key"] == "ItemTable":
@@ -492,6 +550,8 @@ def update_database():
 
 
 ###################################################################################################################################################################################    
+# Call this function at the start of the program
+load_database_file()
 # Create the main application window
 root = tk.Tk()
 root.title("Parts File Loader")
@@ -527,26 +587,30 @@ tree.heading("Size Y", text="Size Y")
 tree.pack(pady=10, fill='both', expand=True)
 tree.bind("<<TreeviewSelect>>", on_tree_select)
 
-# Create and pack the data display frame
-data_display = tk.Text(root, height=20, wrap=tk.WORD)
-data_display.pack(pady=10, fill='both', expand=True)
-
 
 # Create and pack the Save button
 save_button = tk.Button(root, text="Save", command=save_data)
-save_button.pack(side=tk.RIGHT, padx=10, pady=10)
+save_button.pack(side=tk.LEFT, padx=10, pady=5)
 
 # Create and pack the Create New Part button
 create_new_part_button = tk.Button(root, text="Create New Part", command=create_new_part)
-create_new_part_button.pack(side=tk.RIGHT, padx=10, pady=10)
+create_new_part_button.pack(side=tk.LEFT, padx=10, pady=5)
 
 # Create and pack the Delete button
 delete_button = tk.Button(root, text="Delete", command=delete_entry)
-delete_button.pack(side=tk.RIGHT, padx=10, pady=10)
+delete_button.pack(side=tk.RIGHT, padx=10, pady=5)
 
 #create and pack the Update Database Button
 update_database_button = tk.Button(root, text="Update Database", command=update_database)
 update_database_button.pack(pady=10)
+
+# Create and pack the data display frame
+data_display = tk.Text(root, height=20, width=80)
+data_display.pack(pady=10,side=tk.LEFT, fill='both', expand=True)
+
+# Create and pack the database display text widget
+database_display = tk.Text(root, height=20, width=80)
+database_display.pack(pady=10, side=tk.RIGHT, fill='both', expand=True)
 
 # Create and pack the update in stores button
 update_stores_button = tk.Button(root, text="Update in Stores", command=update_in_stores)
