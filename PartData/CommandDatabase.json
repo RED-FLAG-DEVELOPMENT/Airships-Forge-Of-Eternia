@@ -11062,11 +11062,11 @@
                                 "OfficerTypesListType": {
                                     "officerTypeList": [
                                         "Captain",
-                                        "Naviator"
+                                        "Navigator"
                                     ],
                                     "InitValue": [
                                         "Captain",
-                                        "Naviator"
+                                        "Navigator"
                                     ],
                                     "$type": "OfficerTypesListType"
                                 }

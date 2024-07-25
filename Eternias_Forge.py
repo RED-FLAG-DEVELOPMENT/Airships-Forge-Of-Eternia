@@ -38,29 +38,22 @@ class RedirectText:
     def flush(self):
         pass
 
-def load_database_file():
+def load_database_data():
     global database_data
     try:
-        with open("ItemTable/Database.json", "r") as file:
+        with open("ItemTable/Database.json", 'r') as file:
             data = json.load(file)
-            print("Database data loaded successfully")
-            #print("Database data structure:", data)
-
-            # Clear current database_data
-            database_data = {}
-            # Extract all entries and store them in database_data
-            if isinstance(data, list):
-                for item in data:
-                    if isinstance(item, dict):
-                        entries = item.get("Value", {}).get("entries", [])
-                        for entry in entries:
-                            if isinstance(entry, dict):
-                                key = entry.get("Key", "N/A")
-                                value = entry.get("Value", {})
-                                database_data[key]=value
-
+            debug_print("Database file loaded successfully.")
+            database_data.clear()
+            for item in data:
+                if "Value" in item and "entries" in item["Value"]:
+                    for entry in item["Value"]["entries"]:
+                        if "Key" in entry and "Value" in entry:
+                            key = entry["Key"]
+                            database_data[key] = entry["Value"]
     except Exception as e:
-        print(f"Error loading database file: {e}")
+        debug_print(f"Error loading database data: {e}")
+
 
 def load_file(filename):
     global loaded_data, current_file
@@ -138,31 +131,32 @@ def view_data():
     if selected_item:
         item_key = tree.item(selected_item)["values"][0]
         item_data = loaded_data.get(item_key, {})
-        display_data(item_data)
+        if not item_data:
+            debug_print(f"{item_key} does not exist. Please create this part")
+        update_data_display(item_key)
         update_database_display(item_key)
     else:
         debug_print("No item selected.")
 
-def display_data(data):
+def update_data_display(key):
     # Clear existing data in data_display
-    data_display.delete("1.0", tk.END)
-    
-    # Format and display data
-    for key, value in data.items():
-        if isinstance(value, dict):
-            value_str = json.dumps(value, indent=4)
-        else:
-            value_str = str(value)
-        data_display.insert(tk.END, f"{key}:\n{value_str}\n\n")
+    if key in loaded_data:
+        entry_data = loaded_data[key]
+        formatted_data = json.dumps(entry_data, indent=4)
+        data_display.delete("1.0", tk.END)
+        data_display.insert(tk.END, formatted_data)
+    else:
+        debug_print(f"No entry found for key: {key}")
 
-def update_database_display(item_key):
-    database_display.delete(1.0, tk.END)
-    
-    formatted_data = json.dumps(database_data[item_key], indent=4)
-    if formatted_data:
+def update_database_display(key):
+    global database_data
+    if key in database_data:
+        entry_data = database_data[key]
+        formatted_data = json.dumps(entry_data, indent=4)
+        database_display.delete("1.0", tk.END)
         database_display.insert(tk.END, formatted_data)
     else:
-        database_display.insert(tk.END, "No matching entry found in database.")
+        debug_print(f"No entry found for key: {key}")
 
 def debug_print(message):
     debug_display.insert(tk.END, message + "\n")
@@ -198,27 +192,31 @@ def save_data():
     item_key = tree.item(selected_item)["values"][0]
     
     try:
-        # Get the edited data from the data display
-        edited_data = data_display.get("1.0", tk.END).strip().split("\n\n")
+        # Get the edited data from the part data display
+        edited_data = data_display.get("1.0", tk.END).strip()
+        try:
+            parsed_data = json.loads(edited_data)
+        except json.JSONDecodeError as e:
+            debug_print(f"Error parsing JSON data from part data display: {e}")
+            return
 
-        # Parse the edited data into a dictionary
-        parsed_data = {}
-        for entry in edited_data:
-            if entry:
-                key, value = entry.split(":\n", 1)
-                try:
-                    parsed_data[key] = json.loads(value)
-                except json.JSONDecodeError as e:
-                    parsed_data[key] = value  # Save as string if JSON parsing fails
-                    debug_print(f"Warning: Saved '{key}' as string due to JSON decode error: {e}")
+        # Get the edited data from the DB data display
+        edited_database_data = database_display.get("1.0", tk.END).strip()
+        try:
+            parsed_database = json.loads(edited_database_data)
+        except json.JSONDecodeError as e:
+            debug_print(f"Error parsing JSON data from DB data display: {e}")
+            return
 
-        # Update the global loaded_data
+        # Update the global loaded_data and database_data
         loaded_data[item_key] = parsed_data
-        database_data[item_key] = parsed_data
+        database_data[item_key] = parsed_database
+        
         # Save to the current file
         save_part_to_file()
-        debug_print(f"Data for {item_key} saved successfully.")
+        #save to DB
         save_part_to_db()
+        debug_print(f"Data for {item_key} saved successfully.")
     except Exception as e:
         debug_print(f"Error saving data: {e}")
 
@@ -233,7 +231,8 @@ def save_part_to_file():
                 for entry in item.get("Value", {}).get("entries", []):
                     key = entry["Key"]
                     if key in loaded_data:
-                        entry["Value"]["data"] = loaded_data[key]
+                        # Directly assign the loaded data to the "data" field
+                        entry["Value"] = loaded_data[key]
         
         with open(current_file, 'w') as file:
             json.dump(data, file, indent=4)
@@ -241,6 +240,7 @@ def save_part_to_file():
         debug_print("Part File saved successfully.")
     except Exception as e:
         debug_print(f"Error saving file: {e}")
+
 
 
 def save_part_to_db():
@@ -254,7 +254,8 @@ def save_part_to_db():
                 for entry in item.get("Value", {}).get("entries", []):
                     key = entry["Key"]
                     if key in database_data:
-                        entry["Value"]["data"] = database_data[key]
+                        # Directly assign the database data to the "data" field
+                        entry["Value"] = database_data[key]
         
         with open("ItemTable/Database.json", 'w') as file:
             json.dump(data, file, indent=4)
@@ -262,6 +263,8 @@ def save_part_to_db():
         debug_print("DBFile saved successfully.")
     except Exception as e:
         debug_print(f"Error saving file: {e}")
+
+
 
 def create_new_part():
     global loaded_data
@@ -338,63 +341,24 @@ def delete_entry():
     if item_key in created_parts:
         created_parts.remove(item_key)
         update_created_parts_display()
-
+    if item_key in database_data:
+        del database_data[item_key]
     if item_key in loaded_data:
         del loaded_data[item_key]
-        update_json_data()
         save_part_to_file()
         debug_print(f"Entry {item_key} deleted successfully.")
     else:
         debug_print(f"Entry {item_key} not found in loaded data.")
 
-    ########################################################################################################        
+         
     # delete from database
     debug_print("Updating ItemTable/Database.json")
-    try:
-        with open("ItemTable/Database.json", "r") as db_file:
-            item_table_data = json.load(db_file)
-    except Exception as e:
-        debug_print(f"Error opening ItemTable/Database.json: {e}")
-        return
-    try:
-        for db_entry in item_table_data:
-            if db_entry["Key"] == "ItemTable":
-                for entry in db_entry["Value"]["entries"]:
-                    if entry["Key"] == item_key:
-                        del entry[item_key]
-                        debug_print(f"removed entry with key {item_key}")
-                        break
-
-        with open("ItemTable/Database.json", "w") as db_file:
-            json.dump(item_table_data, db_file, indent=4)
-        debug_print("ItemTable/Database.json updated successfully.")
-    except Exception as e:
-        debug_print(f"Error updating ItemTable/Database.json: {e}")
     
     ########################################################################################################        
     # delete from shops
-    
+    # todo
     # Final Cleanup
     tree.delete(selected_item)
-
-def update_json_data():
-    global loaded_data, current_file
-    try:
-        with open(current_file, 'r') as file:
-            data = json.load(file)
-        
-        for item in data:
-            if isinstance(item, dict):
-                entries = item.get("Value", {}).get("entries", [])
-                item["Value"]["entries"] = [entry for entry in entries if entry["Key"] in loaded_data]
-
-        with open(current_file, 'w') as file:
-            json.dump(data, file, indent=4)
-        
-        debug_print("JSON data updated successfully.")
-    except Exception as e:
-        debug_print(f"Error updating JSON data: {e}")
-
 
     
 
@@ -547,11 +511,12 @@ def update_database():
     except Exception as e:
         debug_print(f"Error updating ItemTable/Database.json: {e}")
 
-
+def initialize():
+    load_file("PartData/CommandDatabase.json")
+    load_database_data()
+    root.mainloop()
 
 ###################################################################################################################################################################################    
-# Call this function at the start of the program
-load_database_file()
 # Create the main application window
 root = tk.Tk()
 root.title("Parts File Loader")
@@ -623,4 +588,5 @@ for store in all_parts_shops:
 store_listbox.pack(pady=10, fill='both', expand=True)
 
 # Run the application
-root.mainloop()
+# Call this function at the start of the program
+initialize()
