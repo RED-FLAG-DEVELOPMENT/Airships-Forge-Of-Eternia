@@ -765,8 +765,6 @@ for store in all_parts_shops:
     store_listbox.insert(tk.END, store)
 store_listbox.pack(pady=10, fill='both', expand=True)
 
-
-
 # Run the application
 # Call this function at the start of the program
 initialize()
