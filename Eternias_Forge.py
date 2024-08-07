@@ -1,8 +1,8 @@
 import itertools
-import re
+import os
 import sys
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, filedialog, colorchooser
 import json
 
 # Global variable to store the loaded data
@@ -81,6 +81,14 @@ def load_file(filename):
     except Exception as e:
         debug_print(f"Error loading file: {e}")
         return
+
+def list_grid_files(directory='./ShipsData/GridLayout'):
+    return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and f.endswith('.json')]
+
+def load_grid_layout(file_path):
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    return data['PartGrid']
 
 def display_entries(data):
     # Clear existing entries
@@ -180,6 +188,120 @@ def delete_created_part():
     if selected_part in created_parts:
         created_parts.remove(selected_part)
         update_created_parts_display()
+
+class GridDisplay(tk.Toplevel):
+    def __init__(self, parent, grid_data, file_path_var):
+        super().__init__(parent)
+        self.grid_data = grid_data
+        self.file_path_var = file_path_var
+        self.title("Grid Layout Editor")
+        self.geometry("600x600")
+
+        self.canvas = tk.Canvas(self, width=600, height=600)
+        self.canvas.pack(fill=tk.BOTH, expand=True)
+        self.draw_grid()
+
+    def draw_grid(self):
+        cell_size = 20  # Adjust as needed
+        for i, row in enumerate(self.grid_data):
+            for j, cell in enumerate(row):
+                color = self.get_color(cell)
+                self.canvas.create_rectangle(
+                    j * cell_size, i * cell_size,
+                    (j + 1) * cell_size, (i + 1) * cell_size,
+                    fill=color, outline='black'
+                )
+                self.canvas.tag_bind(self.canvas.find_all()[-1], '<Button-1>', self.change_color)
+
+    def get_color(self, value):
+        colors = {0: 'grey', 1: 'blue', 2: 'green', 3: 'red', 4: 'orange', 5: 'yellow'}
+        return colors.get(value, 'grey')
+
+    def change_color(self, event):
+        x, y = event.x, event.y
+        cell_size = 20  # Adjust as needed
+        col = x // cell_size
+        row = y // cell_size
+
+        # Custom color picker with predefined colors
+        color = self.choose_color()
+        if color:
+            self.canvas.itemconfig(self.canvas.find_closest(x, y), fill=color)
+            self.grid_data[row][col] = self.get_value_from_color(color)
+
+    def choose_color(self):
+        # Use a simple dialog with predefined colors
+        colors = ['grey', 'blue', 'green', 'red', 'orange', 'yellow']
+        color_var = tk.StringVar()
+
+        def set_color(color):
+            color_var.set(color)
+            color_dialog.destroy()
+
+        color_dialog = tk.Toplevel(self)
+        color_dialog.title("Choose a Color")
+        for color in colors:
+            btn = tk.Button(color_dialog, bg=color, width=20, command=lambda c=color: set_color(c))
+            btn.pack()
+
+        self.wait_window(color_dialog)
+        return color_var.get()
+
+    def get_value_from_color(self, color):
+        color_map = {'grey': 0, 'blue': 1, 'green': 2, 'red': 3, 'orange': 4, 'yellow': 5}
+        return color_map.get(color, 0)
+
+    def save_grid_layout(self, file_path):
+        with open(file_path, 'w') as file:
+            json.dump({"PartGrid": self.grid_data}, file, indent=4)
+            
+class Application(tk.Tk):
+    def __init__(self):
+        super().__init__()
+        self.title("Main Application")
+        self.geometry("800x600")
+
+        self.grid_display = None
+
+        self.file_list = ttk.Treeview(self)
+        self.file_list.pack(side=tk.LEFT, fill=tk.Y)
+        self.file_list.bind("<Double-1>", self.on_file_select)
+
+        self.file_path_var = tk.StringVar()
+        self.file_path_entry = tk.Entry(self, textvariable=self.file_path_var)
+        self.file_path_entry.pack(fill=tk.X)
+
+        self.open_button = tk.Button(self, text="Open Grid Layout", command=self.open_grid_layout)
+        self.open_button.pack()
+
+        self.save_button = tk.Button(self, text="Save Grid Layout", command=self.save_grid_layout)
+        self.save_button.pack()
+
+        self.populate_file_list()
+
+    def populate_file_list(self):
+        for file in list_grid_files():
+            self.file_list.insert('', 'end', text=file)
+
+    def on_file_select(self, event):
+        selected_item = self.file_list.selection()[0]
+        file_name = self.file_list.item(selected_item, "text")
+        file_path = os.path.join('./ShipsData/GridLayout', file_name)
+        self.file_path_var.set(file_path)
+        self.open_grid_layout()
+
+    def open_grid_layout(self):
+        file_path = self.file_path_var.get()
+        if file_path:
+            grid_data = load_grid_layout(file_path)
+            if self.grid_display:
+                self.grid_display.destroy()
+            self.grid_display = GridDisplay(self, grid_data, self.file_path_var)
+
+    def save_grid_layout(self):
+        if self.grid_display:
+            self.grid_display.save_grid_layout()
+
 
 ##########################################################################################################
 def save_data():
@@ -328,6 +450,10 @@ def create_new_part():
         display_entries(data)
     except Exception as e:
         debug_print(f"Error creating new part: {e}")
+    try:
+        update_database_new_part(selected_item)
+    except Exception as e:
+        debug_print(f"Error creating new DB Entry: {e}")
 
 def delete_entry():
     global loaded_data
@@ -466,6 +592,45 @@ def update_offer_data( new_offers, target_stores):
     except Exception as e:
         debug_print(f"Error updating store data: {e}")
 
+def update_database_new_part(selected_item):
+    global loaded_data,created_parts
+    debug_print("Updating ItemTable/Database.json")
+    try:
+        with open("ItemTable/Database.json", "r") as db_file:
+            item_table_data = json.load(db_file)
+    except Exception as e:
+        debug_print(f"Error opening ItemTable/Database.json: {e}")
+        return
+
+
+    try:  
+        #sanity check
+        for db_entry in item_table_data:
+                    if db_entry["Key"] == "ItemTable":
+                        for entry in db_entry["Value"]["entries"]:
+                            if entry["Key"] == selected_item:
+                                debug_print(f"{selected_item} already exists in ItemTable")
+                                return
+        item = loaded_data[selected_item]
+        if isinstance(item, dict):
+            id_value = item.get("data",{}).get("ID", {}).get("StringType", {}).get("_string")
+            if id_value:
+                for db_entry in item_table_data:
+                    if db_entry["Key"] == "ItemTable":
+                        for entry in db_entry["Value"]["entries"]:
+                            if entry["Key"] == id_value:
+                                new_entry = entry.copy()
+                                new_entry["Key"] = selected_item
+                                db_entry["Value"]["entries"].append(new_entry)
+                                debug_print(f"Added new entry with key {selected_item} based on ID {id_value}")
+                                break
+
+        with open("ItemTable/Database.json", "w") as db_file:
+            json.dump(item_table_data, db_file, indent=4)
+        debug_print("ItemTable/Database.json updated successfully.")
+    except Exception as e:
+        debug_print(f"Error updating ItemTable/Database.json: {e}")
+
 def update_database():
     global loaded_data,created_parts
     debug_print("Updating ItemTable/Database.json")
@@ -515,6 +680,19 @@ def initialize():
     load_file("PartData/CommandDatabase.json")
     load_database_data()
     root.mainloop()
+
+
+def open_grid_layout():
+    file_path = tk.filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
+    if file_path:
+        grid_data = load_grid_layout(file_path)
+        grid_display = GridDisplay(root, grid_data)
+
+def save_grid_layout(grid_display):
+    file_path = tk.filedialog.asksaveasfilename(defaultextension=".json", filetypes=[("JSON files", "*.json")])
+    if file_path:
+        grid_display.save_grid_layout(file_path)
+
 
 ###################################################################################################################################################################################    
 # Create the main application window
@@ -587,6 +765,13 @@ for store in all_parts_shops:
     store_listbox.insert(tk.END, store)
 store_listbox.pack(pady=10, fill='both', expand=True)
 
+
+
 # Run the application
 # Call this function at the start of the program
 initialize()
+
+#create ship application window
+if __name__ == "__main__":
+    app = Application()
+    app.mainloop()
