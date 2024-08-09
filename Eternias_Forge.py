@@ -38,49 +38,8 @@ class RedirectText:
     def flush(self):
         pass
 
-def load_database_data():
-    global database_data
-    try:
-        with open("ItemTable/Database.json", 'r') as file:
-            data = json.load(file)
-            debug_print("Database file loaded successfully.")
-            database_data.clear()
-            for item in data:
-                if "Value" in item and "entries" in item["Value"]:
-                    for entry in item["Value"]["entries"]:
-                        if "Key" in entry and "Value" in entry:
-                            key = entry["Key"]
-                            database_data[key] = entry["Value"]
-    except Exception as e:
-        debug_print(f"Error loading database data: {e}")
-
-
-def load_file(filename):
-    global loaded_data, current_file
-    current_file = filename
-    debug_print(f"Loading file: {filename}")  # Debug print
-    try:
-        with open(filename, 'r') as file:
-            data = json.load(file)
-            debug_print("Data loaded successfully")  # Debug print
-            #debug_print("Data structure:")  # Debug print to show the structure
-            #debug_print(json.dumps(data, indent=4))  # Pretty print the data structure
-            display_entries(data)
-
-              # Extract all entries and store them in loaded_data
-            if isinstance(data, list):
-                for item in data:
-                    if isinstance(item, dict):
-                        entries = item.get("Value", {}).get("entries", [])
-                        for entry in entries:
-                            if isinstance(entry, dict):
-                                key = entry.get("Key", "N/A")
-                                value = entry.get("Value", {})
-                                loaded_data[key] = value
-
-    except Exception as e:
-        debug_print(f"Error loading file: {e}")
-        return
+##############################################################################################################################################
+# Ship grid window
 
 def list_grid_files(directory='./ShipsData/GridLayout'):
     return [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f)) and f.endswith('.json')]
@@ -89,105 +48,6 @@ def load_grid_layout(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
     return data['PartGrid']
-
-def display_entries(data):
-    # Clear existing entries
-    for row in tree.get_children():
-        tree.delete(row)
-
-    if isinstance(data, list):
-        for item in data:
-            if isinstance(item, dict):
-                entries = item.get("Value", {}).get("entries", [])
-                debug_print(f"Number of entries: {len(entries)}")  # Debug print
-                if not entries:
-                    debug_print("No entries found.")
-                    return
-
-                for entry in entries:
-                    if isinstance(entry, dict):
-                        key = entry.get("Key", "N/A")
-                        value = entry.get("Value", {}).get("data", {})
-                        
-                        # Extract relevant fields
-                        sprite = value.get("Sprite", {}).get("StringType", {}).get("_string", "N/A")
-                        size_x = value.get("SizeX", {}).get("IntType", {}).get("_int", "N/A")
-                        size_y = value.get("SizeY", {}).get("IntType", {}).get("_int", "N/A")
-                        
-                        # Debug print for each entry
-                        debug_print(f"Adding entry: {key}, {sprite}, {size_x}, {size_y}")
-                        
-                        # Insert new row into the table
-                        tree.insert("", "end", values=(key, sprite, size_x, size_y))
-    else:
-        debug_print("Data is not in expected format.")
-
-def on_dropdown_select(event):
-    selected_option = dropdown.get()
-    file_path = parts_file_list.get(selected_option)
-    if file_path:
-        load_file(file_path)
-    else:
-        debug_print("File path not found.")
-
-def on_tree_select(event):
-    view_data()
-
-def view_data():
-    global loaded_data
-    selected_item = tree.selection()
-    if selected_item:
-        item_key = tree.item(selected_item)["values"][0]
-        item_data = loaded_data.get(item_key, {})
-        if not item_data:
-            debug_print(f"{item_key} does not exist. Please create this part")
-        update_data_display(item_key)
-        update_database_display(item_key)
-    else:
-        debug_print("No item selected.")
-
-def update_data_display(key):
-    # Clear existing data in data_display
-    if key in loaded_data:
-        entry_data = loaded_data[key]
-        formatted_data = json.dumps(entry_data, indent=4)
-        data_display.delete("1.0", tk.END)
-        data_display.insert(tk.END, formatted_data)
-    else:
-        debug_print(f"No entry found for key: {key}")
-
-def update_database_display(key):
-    global database_data
-    if key in database_data:
-        entry_data = database_data[key]
-        formatted_data = json.dumps(entry_data, indent=4)
-        database_display.delete("1.0", tk.END)
-        database_display.insert(tk.END, formatted_data)
-    else:
-        debug_print(f"No entry found for key: {key}")
-
-def debug_print(message):
-    debug_display.insert(tk.END, message + "\n")
-    debug_display.see(tk.END)
-
-def update_created_parts_display():
-    created_parts_text.config(state=tk.NORMAL)  # Enable editing
-    created_parts_text.delete("1.0", tk.END)  # Clear the current text
-    created_parts_text.insert(tk.END, ", ".join(created_parts))  # Insert the parts as a comma-separated string
-    created_parts_text.config(state=tk.DISABLED)  # Disable editing
-
-def add_created_part():
-    new_part_key = tree.item(tree.selection())["values"][0]
-    if new_part_key and new_part_key not in created_parts:
-        debug_print(f"Adding {new_part_key} to list")
-        created_parts.append(new_part_key)
-        update_created_parts_display()
-
-def delete_created_part():
-    selected_part = tree.item(tree.selection())["values"][0]
-    if selected_part in created_parts:
-        created_parts.remove(selected_part)
-        update_created_parts_display()
 
 class GridDisplay(tk.Toplevel):
     def __init__(self, parent, grid_data, file_path_var):
@@ -254,11 +114,11 @@ class GridDisplay(tk.Toplevel):
     def save_grid_layout(self, file_path):
         with open(file_path, 'w') as file:
             json.dump({"PartGrid": self.grid_data}, file, indent=4)
-            
+
 class Application(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Main Application")
+        self.title("Ship Editor")
         self.geometry("800x600")
 
         self.grid_display = None
@@ -301,6 +161,154 @@ class Application(tk.Tk):
     def save_grid_layout(self):
         if self.grid_display:
             self.grid_display.save_grid_layout()
+
+################################################################################################################################## 
+
+def debug_print(message):
+    debug_display.insert(tk.END, message + "\n")
+    debug_display.see(tk.END)
+
+def load_database_data():
+    global database_data
+    try:
+        with open("ItemTable/Database.json", 'r') as file:
+            data = json.load(file)
+            debug_print("Database file loaded successfully.")
+            database_data.clear()
+            for item in data:
+                if "Value" in item and "entries" in item["Value"]:
+                    for entry in item["Value"]["entries"]:
+                        if "Key" in entry and "Value" in entry:
+                            key = entry["Key"]
+                            database_data[key] = entry["Value"]
+    except Exception as e:
+        debug_print(f"Error loading database data: {e}")
+
+
+def load_file(filename):
+    global loaded_data, current_file
+    current_file = filename
+    debug_print(f"Loading file: {filename}")  # Debug print
+    try:
+        with open(filename, 'r') as file:
+            data = json.load(file)
+            debug_print("Data loaded successfully")  # Debug print
+            #debug_print("Data structure:")  # Debug print to show the structure
+            #debug_print(json.dumps(data, indent=4))  # Pretty print the data structure
+            display_entries(data)
+
+              # Extract all entries and store them in loaded_data
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict):
+                        entries = item.get("Value", {}).get("entries", [])
+                        for entry in entries:
+                            if isinstance(entry, dict):
+                                key = entry.get("Key", "N/A")
+                                value = entry.get("Value", {})
+                                loaded_data[key] = value
+
+    except Exception as e:
+        debug_print(f"Error loading file: {e}")
+        return
+
+def display_entries(data):
+    # Clear existing entries
+    for row in tree.get_children():
+        tree.delete(row)
+
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, dict):
+                entries = item.get("Value", {}).get("entries", [])
+                debug_print(f"Number of entries: {len(entries)}")  # Debug print
+                if not entries:
+                    debug_print("No entries found.")
+                    return
+
+                for entry in entries:
+                    if isinstance(entry, dict):
+                        key = entry.get("Key", "N/A")
+                        value = entry.get("Value", {}).get("data", {})
+                        
+                        # Extract relevant fields
+                        sprite = value.get("Sprite", {}).get("StringType", {}).get("_string", "N/A")
+                        size_x = value.get("SizeX", {}).get("IntType", {}).get("_int", "N/A")
+                        size_y = value.get("SizeY", {}).get("IntType", {}).get("_int", "N/A")
+                        
+                        # Debug print for each entry
+                        #debug_print(f"Adding entry: {key}, {sprite}, {size_x}, {size_y}")
+                        
+                        # Insert new row into the table
+                        tree.insert("", "end", values=(key, sprite, size_x, size_y))
+    else:
+        debug_print("Data is not in expected format.")
+
+def on_dropdown_select(event):
+    selected_option = dropdown.get()
+    file_path = parts_file_list.get(selected_option)
+    if file_path:
+        load_file(file_path)
+    else:
+        debug_print("File path not found.")
+
+def on_tree_select(event):
+    view_data()
+
+def view_data():
+    global loaded_data
+    selected_item = tree.selection()
+    if selected_item:
+        item_key = tree.item(selected_item)["values"][0]
+        item_data = loaded_data.get(item_key, {})
+        if not item_data:
+            debug_print(f"{item_key} does not exist. Please create this part")
+        update_data_display(item_key)
+        update_database_display(item_key)
+    else:
+        debug_print("No item selected.")
+
+def update_data_display(key):
+    # Clear existing data in data_display
+    if key in loaded_data:
+        entry_data = loaded_data[key]
+        formatted_data = json.dumps(entry_data, indent=4)
+        data_display.delete("1.0", tk.END)
+        data_display.insert(tk.END, formatted_data)
+    else:
+        debug_print(f"No entry found for key: {key}")
+
+def update_database_display(key):
+    global database_data
+    if key in database_data:
+        entry_data = database_data[key]
+        formatted_data = json.dumps(entry_data, indent=4)
+        database_display.delete("1.0", tk.END)
+        database_display.insert(tk.END, formatted_data)
+    else:
+        debug_print(f"No entry found for key: {key}")
+
+
+def update_created_parts_display():
+    created_parts_text.config(state=tk.NORMAL)  # Enable editing
+    created_parts_text.delete("1.0", tk.END)  # Clear the current text
+    created_parts_text.insert(tk.END, ", ".join(created_parts))  # Insert the parts as a comma-separated string
+    created_parts_text.config(state=tk.DISABLED)  # Disable editing
+
+def add_created_part():
+    new_part_key = tree.item(tree.selection())["values"][0]
+    if new_part_key and new_part_key not in created_parts:
+        debug_print(f"Adding {new_part_key} to list")
+        created_parts.append(new_part_key)
+        update_created_parts_display()
+
+def delete_created_part():
+    selected_part = tree.item(tree.selection())["values"][0]
+    if selected_part in created_parts:
+        created_parts.remove(selected_part)
+        update_created_parts_display()
+
+            
 
 
 ##########################################################################################################
@@ -408,10 +416,7 @@ def create_new_part():
     # Create the new entry
     new_entry = {
         "Key": new_key,
-        "Value": {
-            "selected": False,
-            "data": item_data
-        }
+        "Value": item_data
     }
     
     # Append the new entry to the loaded_data
@@ -419,15 +424,23 @@ def create_new_part():
     created_parts.append(new_key)
     update_created_parts_display()
     
-    # Update the tree
-    sprite = new_entry.get("Sprite", {}).get("StringType", {}).get("_string", "N/A")
-    size_x = new_entry.get("SizeX", {}).get("IntType", {}).get("_int", "N/A")
-    size_y = new_entry.get("SizeY", {}).get("IntType", {}).get("_int", "N/A")
+
+    key = new_entry.get("Key", "N/A")
+    value = new_entry.get("Value", {}).get("data", {})
     
-    tree.insert("", "end", values=(new_key, sprite, size_x, size_y))
+    # Extract relevant fields
+    sprite = value.get("Sprite", {}).get("StringType", {}).get("_string", "N/A")
+    size_x = value.get("SizeX", {}).get("IntType", {}).get("_int", "N/A")
+    size_y = value.get("SizeY", {}).get("IntType", {}).get("_int", "N/A")
+    
+    # Debug print for each new_entry
+    #debug_print(f"Adding new_entry: {key}, {sprite}, {size_x}, {size_y}")
+    
+    # Insert new row into the table
+    tree.insert("", "end", values=(key, sprite, size_x, size_y))
      # Automatically select and view the new part
     for item in tree.get_children():
-        if tree.item(item)["values"][0] == item_key:
+        if tree.item(item)["values"][0] == new_key:
             # Set the selection
             tree.selection_set(item)
             # Optionally, scroll the tree view to the selected item
@@ -451,7 +464,7 @@ def create_new_part():
     except Exception as e:
         debug_print(f"Error creating new part: {e}")
     try:
-        update_database_new_part(selected_item)
+        update_database(new_key)
     except Exception as e:
         debug_print(f"Error creating new DB Entry: {e}")
 
@@ -463,7 +476,8 @@ def delete_entry():
         return
     
     item_key = tree.item(selected_item)["values"][0]
-    
+
+    # delete from temp data
     if item_key in created_parts:
         created_parts.remove(item_key)
         update_created_parts_display()
@@ -471,14 +485,48 @@ def delete_entry():
         del database_data[item_key]
     if item_key in loaded_data:
         del loaded_data[item_key]
-        save_part_to_file()
         debug_print(f"Entry {item_key} deleted successfully.")
     else:
         debug_print(f"Entry {item_key} not found in loaded data.")
+    
+    # Delete from parts file
+    try:
+        with open(current_file, 'r') as file:
+            data = json.load(file)
+    
+        for item in data:
+            if isinstance(item, dict):
+                entries = item.get("Value", {}).get("entries", [])
+                for i, entry in enumerate(entries):
+                    if entry["Key"] == item_key:
+                        del entries[i]
+                        break  # Exit the loop once the item is found and deleted
 
-         
-    # delete from database
-    debug_print("Updating ItemTable/Database.json")
+        with open(current_file, 'w') as file:
+            json.dump(data, file, indent=4)
+    except:
+        debug_print(f"Issues with deleting data from {current_file}")
+    
+     # Delete from database
+    try:
+        with open("ItemTable/Database.json", 'r') as file:
+            data = json.load(file)
+    
+        for item in data:
+            if isinstance(item, dict):
+                entries = item.get("Value", {}).get("entries", [])
+                for i, entry in enumerate(entries):
+                    if entry["Key"] == item_key:
+                        del entries[i]
+                        break  # Exit the loop once the item is found and deleted
+        
+        with open("ItemTable/Database.json", 'w') as file:
+            json.dump(data, file, indent=4)
+    except:
+        debug_print(f"Issues with deleting data from ItemTable/Database.json")
+    
+    
+   
     
     ########################################################################################################        
     # delete from shops
@@ -592,7 +640,7 @@ def update_offer_data( new_offers, target_stores):
     except Exception as e:
         debug_print(f"Error updating store data: {e}")
 
-def update_database_new_part(selected_item):
+def update_database(selected_key):
     global loaded_data,created_parts
     debug_print("Updating ItemTable/Database.json")
     try:
@@ -608,10 +656,10 @@ def update_database_new_part(selected_item):
         for db_entry in item_table_data:
                     if db_entry["Key"] == "ItemTable":
                         for entry in db_entry["Value"]["entries"]:
-                            if entry["Key"] == selected_item:
-                                debug_print(f"{selected_item} already exists in ItemTable")
+                            if entry["Key"] == selected_key:
+                                debug_print(f"{selected_key} already exists in ItemTable")
                                 return
-        item = loaded_data[selected_item]
+        item = loaded_data[selected_key]
         if isinstance(item, dict):
             id_value = item.get("data",{}).get("ID", {}).get("StringType", {}).get("_string")
             if id_value:
@@ -620,9 +668,9 @@ def update_database_new_part(selected_item):
                         for entry in db_entry["Value"]["entries"]:
                             if entry["Key"] == id_value:
                                 new_entry = entry.copy()
-                                new_entry["Key"] = selected_item
+                                new_entry["Key"] = selected_key
                                 db_entry["Value"]["entries"].append(new_entry)
-                                debug_print(f"Added new entry with key {selected_item} based on ID {id_value}")
+                                debug_print(f"Added new entry with key {selected_key} based on ID {id_value}")
                                 break
 
         with open("ItemTable/Database.json", "w") as db_file:
@@ -631,56 +679,10 @@ def update_database_new_part(selected_item):
     except Exception as e:
         debug_print(f"Error updating ItemTable/Database.json: {e}")
 
-def update_database():
-    global loaded_data,created_parts
-    debug_print("Updating ItemTable/Database.json")
-    try:
-        with open("ItemTable/Database.json", "r") as db_file:
-            item_table_data = json.load(db_file)
-    except Exception as e:
-        debug_print(f"Error opening ItemTable/Database.json: {e}")
-        return
-
-    items_to_update = created_parts.copy()
-
-    if not items_to_update:
-        selected_item = tree.selection()
-        items_to_update.append(tree.item(selected_item)["values"][0])
-
-    try:
-        for part_key in items_to_update:
-                #sanity check
-                for db_entry in item_table_data:
-                            if db_entry["Key"] == "ItemTable":
-                                for entry in db_entry["Value"]["entries"]:
-                                    if entry["Key"] == part_key:
-                                        debug_print(f"{part_key} already exists in ItemTable")
-                                        return
-                item = loaded_data[part_key]
-                if isinstance(item, dict):
-                    id_value = item.get("data",{}).get("ID", {}).get("StringType", {}).get("_string")
-                    if id_value:
-                        for db_entry in item_table_data:
-                            if db_entry["Key"] == "ItemTable":
-                                for entry in db_entry["Value"]["entries"]:
-                                    if entry["Key"] == id_value:
-                                        new_entry = entry.copy()
-                                        new_entry["Key"] = part_key
-                                        db_entry["Value"]["entries"].append(new_entry)
-                                        debug_print(f"Added new entry with key {part_key} based on ID {id_value}")
-                                        break
-
-        with open("ItemTable/Database.json", "w") as db_file:
-            json.dump(item_table_data, db_file, indent=4)
-        debug_print("ItemTable/Database.json updated successfully.")
-    except Exception as e:
-        debug_print(f"Error updating ItemTable/Database.json: {e}")
 
 def initialize():
     load_file("PartData/CommandDatabase.json")
     load_database_data()
-    root.mainloop()
-
 
 def open_grid_layout():
     file_path = tk.filedialog.askopenfilename(filetypes=[("JSON files", "*.json")])
@@ -766,11 +768,10 @@ for store in all_parts_shops:
 store_listbox.pack(pady=10, fill='both', expand=True)
 
 # Run the application
-#check changes
 # Call this function at the start of the program
 initialize()
-
 #create ship application window
 if __name__ == "__main__":
     app = Application()
     app.mainloop()
+
