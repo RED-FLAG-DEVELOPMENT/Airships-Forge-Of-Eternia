@@ -207,7 +207,6 @@ class Application(tk.Tk):
             return int(match.group()) if match else float('inf')
 
         sorted_files = sorted(files, key=extract_number)
-
         # Add sorted files to the Treeview
         for file in sorted_files:
             self.file_list.insert('', 'end', text=file)
