@@ -1,6 +1,5 @@
 import itertools
-import os
-import sys
+import os, re, sys
 import tkinter as tk
 from tkinter import ttk, filedialog, colorchooser
 import json
@@ -49,11 +48,77 @@ def load_grid_layout(file_path):
         data = json.load(file)
     return data['PartGrid']
 
+def get_next_ship_number(directory='./ShipsData/GridLayout'):
+    # Get the list of files and extract the numbers
+    files = list_grid_files(directory)
+
+    # Extract numbers from filenames and find the largest one
+    def extract_number(file_name):
+        match = re.search(r'\d+', file_name)
+        return int(match.group()) if match else 0
+
+    numbers = [extract_number(file) for file in files]
+
+    # Return the next available number
+    return max(numbers) + 1 if numbers else 1
+
+def save_grid_layout_as_new(grid_data, directory='./ShipsData/GridLayout'):
+    # Get the next available ship number
+    next_ship_number = get_next_ship_number(directory)
+
+    # Create the new file name using the ship number
+    new_file_path = os.path.join(directory, f"{next_ship_number}.json")
+
+    # Save the grid layout to the new file
+    with open(new_file_path, 'w') as file:
+        json.dump({"PartGrid": grid_data}, file, indent=4)
+
+    return new_file_path  # Return the new file path for reference
+
+class ColorPicker(tk.Toplevel):
+    def __init__(self, parent, app):
+        self.app = app  # Reference to the main application to reset the color picker reference
+        super().__init__(parent)
+        self.title("Color Picker")
+        self.geometry("200x300")
+        
+        self.selected_color = tk.StringVar(value="grey")
+        
+        # Color values and their labels
+        color_map = {
+            'grey': '0 empty space',
+            'blue': '1 engines',
+            'green': '2 command',
+            'red': '3 weapons',
+            'orange': '4 armor',
+            'yellow': '5 cargo'
+        }
+        
+        # Create buttons with color as background and labels as text
+        for color, label in color_map.items():
+            btn = tk.Button(self, bg=color, fg='black', text=label, width=20,
+                            command=lambda c=color: self.set_color(c))
+            btn.pack(pady=5)  # Vertical alignment with padding
+        
+        #handel window closing
+        self.protocol("WM_DELETE_WINDOW", self.on_close)
+
+    def set_color(self, color):
+        self.selected_color.set(color)
+    
+    def get_selected_color(self):
+        return self.selected_color.get()
+    
+    def on_close(self):
+        self.app.color_picker = None  # Reset reference in the main application
+        self.destroy()
+
 class GridDisplay(tk.Toplevel):
-    def __init__(self, parent, grid_data, file_path_var):
+    def __init__(self, parent, grid_data, file_path_var, color_picker):
         super().__init__(parent)
         self.grid_data = grid_data
         self.file_path_var = file_path_var
+        self.color_picker = color_picker  # Reference to the color picker
         self.title("Grid Layout Editor")
         self.geometry("600x600")
 
@@ -83,37 +148,22 @@ class GridDisplay(tk.Toplevel):
         col = x // cell_size
         row = y // cell_size
 
-        # Custom color picker with predefined colors
-        color = self.choose_color()
-        if color:
-            self.canvas.itemconfig(self.canvas.find_closest(x, y), fill=color)
-            self.grid_data[row][col] = self.get_value_from_color(color)
-
-    def choose_color(self):
-        # Use a simple dialog with predefined colors
-        colors = ['grey', 'blue', 'green', 'red', 'orange', 'yellow']
-        color_var = tk.StringVar()
-
-        def set_color(color):
-            color_var.set(color)
-            color_dialog.destroy()
-
-        color_dialog = tk.Toplevel(self)
-        color_dialog.title("Choose a Color")
-        for color in colors:
-            btn = tk.Button(color_dialog, bg=color, width=20, command=lambda c=color: set_color(c))
-            btn.pack()
-
-        self.wait_window(color_dialog)
-        return color_var.get()
+        # Get the selected color from the color picker
+        selected_color = self.color_picker.get_selected_color()
+        
+        if selected_color:
+            self.canvas.itemconfig(self.canvas.find_closest(x, y), fill=selected_color)
+            self.grid_data[row][col] = self.get_value_from_color(selected_color)
 
     def get_value_from_color(self, color):
         color_map = {'grey': 0, 'blue': 1, 'green': 2, 'red': 3, 'orange': 4, 'yellow': 5}
         return color_map.get(color, 0)
-
+    
     def save_grid_layout(self, file_path):
+        """Save the current grid data to a JSON file."""
+        grid_data_to_save = {"PartGrid": self.grid_data}
         with open(file_path, 'w') as file:
-            json.dump({"PartGrid": self.grid_data}, file, indent=4)
+            json.dump(grid_data_to_save, file, indent=4)
 
 class Application(tk.Tk):
     def __init__(self):
@@ -122,6 +172,7 @@ class Application(tk.Tk):
         self.geometry("800x600")
 
         self.grid_display = None
+        self.color_picker = None  # Reference to the color picker
 
         self.file_list = ttk.Treeview(self)
         self.file_list.pack(side=tk.LEFT, fill=tk.Y)
@@ -137,10 +188,28 @@ class Application(tk.Tk):
         self.save_button = tk.Button(self, text="Save Grid Layout", command=self.save_grid_layout)
         self.save_button.pack()
 
+        self.save_as_button = tk.Button(self, text="Save As", command=self.save_grid_layout_as_new)  # New Save As button
+        self.save_as_button.pack()
+
         self.populate_file_list()
 
     def populate_file_list(self):
-        for file in list_grid_files():
+        # Clear the existing entries in the Treeview
+        for item in self.file_list.get_children():
+            self.file_list.delete(item)
+        
+        # Get the list of files
+        files = list_grid_files()
+
+        # Sort files based on numeric order
+        def extract_number(file_name):
+            match = re.search(r'\d+', file_name)
+            return int(match.group()) if match else float('inf')
+
+        sorted_files = sorted(files, key=extract_number)
+
+        # Add sorted files to the Treeview
+        for file in sorted_files:
             self.file_list.insert('', 'end', text=file)
 
     def on_file_select(self, event):
@@ -154,13 +223,32 @@ class Application(tk.Tk):
         file_path = self.file_path_var.get()
         if file_path:
             grid_data = load_grid_layout(file_path)
+            
+            # Create a new Color Picker if none exists
+            if self.color_picker is None:
+                self.color_picker = ColorPicker(self, self)  # Pass reference to the main application
+            
+            # Open Grid Display and pass the color picker
             if self.grid_display:
                 self.grid_display.destroy()
-            self.grid_display = GridDisplay(self, grid_data, self.file_path_var)
+            self.grid_display = GridDisplay(self, grid_data, self.file_path_var, self.color_picker)
 
     def save_grid_layout(self):
+        """Save the current grid layout to the existing file or ask for a new one if no file selected."""
         if self.grid_display:
-            self.grid_display.save_grid_layout()
+            file_path = self.file_path_var.get()  # Get the current file path
+            if not file_path:  # If no file path, prompt for new file name
+                file_path = self.prompt_for_save_as()
+            if file_path:
+                self.grid_display.save_grid_layout(file_path)
+                self.file_path_var.set(file_path)  # Set the new file path in case of "Save As"
+
+    def save_grid_layout_as_new(self):
+        if self.grid_display:
+            # Save the grid data to a new file with an incremented ship number
+            new_file_path = save_grid_layout_as_new(self.grid_display.grid_data)
+            self.file_path_var.set(new_file_path)  # Update the file path variable
+            self.populate_file_list()  # Refresh the file list to include the new file
 
 ################################################################################################################################## 
 
@@ -649,7 +737,6 @@ def update_database(selected_key):
     except Exception as e:
         debug_print(f"Error opening ItemTable/Database.json: {e}")
         return
-
 
     try:  
         #sanity check
